@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "I miei indirizzi",
+    "NAVBAR_TITLE_2": "Rubrica",
+    "HEADING_TITLE": "La mia rubrica",
+    "PRIMARY_ADDRESS_TITLE": "Il vostro indirizzo",
+    "PRIMARY_ADDRESS_DESCRIPTION": "Questo indirizzo è selezionata per impostazione predefinita.<br>sarà utilizzato durante gli acquisti e qualsiasi altra azione nel nostro negozio.",
+    "ADDRESS_BOOK_TITLE": "Voci della rubrica",
+    "PRIMARY_ADDRESS": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": "<b>NOTA:<\/b> il volume Massimo rubrica - <b>%s<\/b> record"
+}

@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Contenido del carro",
+    "HEADING_TITLE": "Carrito de compras",
+    "TABLE_HEADING_REMOVE": "retirar",
+    "TABLE_HEADING_REMOVE_FROM": "De carro",
+    "TABLE_HEADING_QUANTITY": "Cantidad.",
+    "TABLE_HEADING_IMAGE": "Imagen",
+    "TABLE_HEADING_NAME": "Nombre",
+    "TABLE_HEADING_PRICE": "Precio",
+    "TABLE_HEADING_MODEL": "Modelo",
+    "TABLE_HEADING_PRODUCTS": "Producto(s)",
+    "TABLE_HEADING_PRICE_TOTAL": "Total",
+    "TABLE_HEADING_TOTAL": "Total",
+    "TEXT_CART_EMPTY": "Inicie sesión para realizar su compra",
+    "SUB_TITLE_COUPON": "Cupon",
+    "SUB_TITLE_COUPON_SUBMIT": "Enviar",
+    "SUB_TITLE_COUPON_VALID": "Su cupon es valido. Compruebe el descuento:",
+    "SUB_TITLE_COUPON_INVALID": "Su cupon no es valido.",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Productos marcados con %s No existe en la cantidad deseada en nuestro stock. <br> Por favor, modifique la cantidad de productos marcados con (%s), Gracias",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Productos marcados con %s No existen en la cantidad deseada en nuestro stock. <br> Usted puede comprar de todos modos y comprobar la cantidad que tenemos en stock para entrega inmediata en el proceso de pago."
+}

@@ -1,0 +1,20 @@
+{
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_TITLE": "Authorize.net",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_PUBLIC_TITLE": "Authorize.net",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_DESCRIPTION": "<a href=\"https:\/\/www.authorize.net\" target=\"_blank\" style=\"text-decoration: underline; font-weight: bold;\">посетите веб-сайт Authorize.net<\/a>",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_OWNER": "Владелец кредитной карты:",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_NUMBER": "Номер карты",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES": "Срок действия кредитной карты:",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_MM": "Истекает (месяц)",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "мм",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_YY": "Истекает (год)",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "гг",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_CVC": "CVC код",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_TITLE": "Произошла ошибка при обработке вашей кредитной карты",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_GENERAL": "Пожалуйста, попробуйте еще раз, и если проблемы сохраняются, пожалуйста, попробуйте другой способ оплаты.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_DECLINED": "Эта транзакция по кредитной карте была отклонена. Пожалуйста, попробуйте еще раз, и если проблемы сохраняются, пожалуйста, попробуйте другую кредитную карту или способ оплаты.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_INVALID_EXP_DATE": "Дата истечения срока действия кредитной карты недействительна. Пожалуйста, проверьте информацию о карте и повторите попытку.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_EXPIRED": "Срок действия кредитной карты истек. Пожалуйста, попробуйте еще раз с другой картой или способом оплаты.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_CVC": "Номер проверки кредитной карты (CVC) недействителен. Пожалуйста, проверьте информацию о карте и попробуйте снова.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

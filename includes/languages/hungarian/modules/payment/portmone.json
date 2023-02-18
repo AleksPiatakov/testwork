@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_PORTMONE_TEXT_TITLE": "Portmone",
+    "MODULE_PAYMENT_PORTMONE_TEXT_PUBLIC_TITLE": "Portmone",
+    "MODULE_PAYMENT_PORTMONE_TEXT_DESCRIPTION": "Leírás",
+    "MODULE_PAYMENT_PORTMONE_TEXT_ADMIN_DESCRIPTION": "Portmone",
+    "MODULE_PAYMENT_PORTMONE_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

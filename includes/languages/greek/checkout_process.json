@@ -1,0 +1,14 @@
+{
+    "EMAIL_TEXT_SUBJECT": "Διαδικασία παραγγελίας",
+    "EMAIL_TEXT_ORDER_NUMBER": "Αριθμός παραγγελίας:",
+    "EMAIL_TEXT_INVOICE_URL": "Λεπτομερές δελτίο:",
+    "EMAIL_TEXT_DATE_ORDERED": "Ημερομηνία παραγγελίας:",
+    "EMAIL_TEXT_PRODUCTS": "Προϊόντα",
+    "EMAIL_TEXT_DELIVERY_ADDRESS": "Διεύθυνση παράδοσης",
+    "EMAIL_TEXT_BILLING_ADDRESS": "διεύθυνση χρέωσης",
+    "EMAIL_TEXT_PAYMENT_METHOD": "Μέθοδος πληρωμής",
+    "EMAIL_SEPARATOR": "------------------------------------------------------",
+    "EMAIL_TEXT_CUSTOMER_NAME": "Πελάτης:",
+    "EMAIL_TEXT_CUSTOMER_EMAIL_ADDRESS": "email:",
+    "EMAIL_TEXT_CUSTOMER_TELEPHONE": "Τηλέφωνο:"
+}

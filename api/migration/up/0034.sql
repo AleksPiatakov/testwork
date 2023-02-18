@@ -1,0 +1,1 @@
+UPDATE `configuration_group` SET `sort_order` = '101' WHERE `configuration_group`.`configuration_group_id` = 26231

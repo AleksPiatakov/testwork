@@ -1,0 +1,3 @@
+ALTER TABLE `salemaker_sales` CHANGE `sale_categories_selected` `sale_categories_selected` VARCHAR(2000) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL;
+ALTER TABLE `salemaker_sales` CHANGE `sale_manufacturers_selected` `sale_manufacturers_selected` VARCHAR(2000) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL;
+ALTER TABLE `salemaker_sales` CHANGE `sale_categories_all` `sale_categories_all` VARCHAR(2000) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL;

@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Produits préférés",
+    "BOX_TEXT_PRICE": "Prix",
+    "BOX_TEXT_PRODUCT": "Le nom de",
+    "BOX_TEXT_IMAGE": "Image",
+    "BOX_TEXT_NO_ITEMS": "Pas de produits différés.",
+    "TEXT_EMAIL": "Email: ",
+    "TEXT_MESSAGE": "Message: ",
+    "TEXT_ITEM_IN_CART": "Produit dans le panier",
+    "TEXT_ITEM_NOT_AVAILABLE": "La marchandise n'est plus disponible",
+    "WISHLIST_EMAIL_SUBJECT": "Vous a envoyé un message",
+    "WISHLIST_SENT": "Produits préférés envoyé avec succès.",
+    "WISHLIST_EMAIL_LINK": "La liste des produits différés visiteur $from_name: $link Merci, ou elle peut",
+    "WISHLIST_EMAIL_GUEST": "Merci, ou elle peut",
+    "ERROR_YOUR_NAME": "Indiquez Votre nom.",
+    "ERROR_YOUR_EMAIL": "Indiquez Votre adresse e-mail.",
+    "ERROR_VALID_EMAIL": "Mettez les à l'adresse email.",
+    "ERROR_ONE_EMAIL": "Vous devez spécifier un nom et une adresse email.",
+    "ERROR_ENTER_EMAIL": "Indiquez l'adresse email.",
+    "ERROR_ENTER_NAME": "Spécifiez les noms des destinataires.",
+    "ERROR_MESSAGE": "Ajoutez un message."
+}

@@ -1,0 +1,26 @@
+<?php 
+define('HEADING_TITLE','Envoyer un certificat');
+define('TEXT_CUSTOMER','Client:');
+define('TEXT_SUBJECT','Thème:');
+define('TEXT_FROM','De:');
+define('TEXT_TO','A:');
+define('TEXT_AMOUNT','Le montant du certificat');
+define('TEXT_MESSAGE','Message:');
+define('TEXT_SINGLE_EMAIL','<span class="smallText">Utilisez ce champ pour envoyer un certificat et d\'autres d\'une adresse email qui n\'existe pas dans la liste ci-dessus.</span>');
+define('TEXT_SELECT_CUSTOMER','Sélectionnez le client');
+define('TEXT_ALL_CUSTOMERS','Tous les clients');
+define('TEXT_NEWSLETTER_CUSTOMERS','Tous les abonnés de diffusion de la boutique');
+define('NOTICE_EMAIL_SENT_TO','Notification: e-mail envoyé à: %s');
+define('ERROR_NO_CUSTOMER_SELECTED','Erreur: Vous n\'avez pas choisi le client.');
+define('ERROR_NO_AMOUNT_SELECTED','Erreur: Vous n\'avez pas le montant du certificat.');
+define('TEXT_GV_WORTH','Le certificat sur le montant ');
+define('TEXT_TO_REDEEM','Pour activer un certificat, cliquez sur le lien ci-dessous et indiquez le code de certificat ');
+define('TEXT_WHICH_IS','');
+define('TEXT_IN_CASE','');
+define('TEXT_OR_VISIT','ou en visitant notre boutique en ligne à l\'adresse suivante ');
+define('TEXT_ENTER_CODE',' Vous pouvez spécifier le code de certificat lors de la commande.');
+define('TEXT_REDEEM_COUPON_MESSAGE_HEADER','Vous avez activé votre certificat, mais vous pouvez l\'utiliser lors de leurs achats qu\'après validation par l\'administrateur de la boutique, il est fait exclusivement à des fins de sécurité. Une fois le certificat sera validé par l\'administrateur. Vous recevrez une notification par e-mail.');
+define('TEXT_REDEEM_COUPON_MESSAGE_AMOUNT','Le certificat sur le montant de %s');
+define('TEXT_REDEEM_COUPON_MESSAGE_BODY','Vous pouvez envoyer votre certificat ou une partie du montant du certificat de ses amis et connaissances.');
+define('TEXT_REDEEM_COUPON_MESSAGE_FOOTER','');
+define('BUTTON_CANCEL_NEW','l\'annulation de la');

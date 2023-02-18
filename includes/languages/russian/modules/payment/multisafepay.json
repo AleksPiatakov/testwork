@@ -1,0 +1,17 @@
+{
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_TITLE": "MultiSafepay Connect",
+    "MODULE_PAYMENT_MULTISAFEPAY_EMAIL_TEXT_ORDER_STATUS": "Статус заказа:",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_RETURN_TO_SHOP": "Вернуться к% s",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR": "произошла ошибка",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REDIRECT": "Невозможно выполнить перенаправление",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_STATUS": "Не удалось получить статус заказа",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNKNOWN": "Детали недоступны",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNCLEARED": "Транзакция не очищена",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_RESERVED": "Транзакция зарезервирована",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_VOID": "Транзакция отменена",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_DECLINED": "Транзакция отклонена",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REVERSED": "Транзакция отменена",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REFUNDED": "Транзакция возвращена",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_EXPIRED": "Срок действия транзакции истек",
+    "MODULE_PAYMENT_MULTISAFEPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/maestro.png\"><img src=\"images/payment_method/paypal.png\"><img src=\"images/payment_method/ae.png\"></span>"
+}

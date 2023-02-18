@@ -1,0 +1,15 @@
+.multi-translate {
+    width: 580px;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.05);
+    border: solid 1px #f3f5f9;
+    background: #fff;
+}
+
+.multi-translate .title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}

@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "Mijn gegevens",
+    "NAVBAR_TITLE_2": "Adresboek",
+    "NAVBAR_TITLE_ADD_ENTRY": "Een nieuwe vermelding",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "Om de invoer te wijzigen",
+    "NAVBAR_TITLE_DELETE_ENTRY": "Verwijderen van een record",
+    "HEADING_TITLE_ADD_ENTRY": "Een nieuwe vermelding",
+    "HEADING_TITLE_MODIFY_ENTRY": "Om de invoer te wijzigen",
+    "HEADING_TITLE_DELETE_ENTRY": "Verwijderen van een record",
+    "DELETE_ADDRESS_TITLE": "Om het adres te verwijderen",
+    "DELETE_ADDRESS_DESCRIPTION": "Wilt u het geselecteerde adres uit uw adresboek?",
+    "NEW_ADDRESS_TITLE": "Een nieuwe vermelding",
+    "SELECTED_ADDRESS": "Het geselecteerde adres",
+    "SET_AS_PRIMARY": "Standaard maken.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "Het geselecteerde adres uit het adresboek verwijderd.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "Uw adresboek is bijgewerkt.",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "Adres standaard kan niet worden verwijderd. De standaard status naar een ander adres en probeer het opnieuw.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "Adresboek niet gevonden.",
+    "ERROR_ADDRESS_BOOK_FULL": "Uw adresboek is volledig gevuld. Verwijder je ongewenste adres en pas na dat Je in staat zal zijn om een nieuw adres."
+}

@@ -1,0 +1,8 @@
+{
+    "MODULE_SHIPPING_ZONES_TEXT_TITLE": "Szállítási zónák díjai",
+    "MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION": "Szállítási zóna alapú díjak",
+    "MODULE_SHIPPING_ZONES_TEXT_WAY": "Szállítás ide",
+    "MODULE_SHIPPING_ZONES_TEXT_UNITS": "kg",
+    "MODULE_SHIPPING_ZONES_INVALID_ZONE": "Nincs szállítás a kiválasztott országba",
+    "MODULE_SHIPPING_ZONES_UNDEFINED_RATE": "A szállítási díj nem határozható meg ezekkel a feltételekkel."
+}

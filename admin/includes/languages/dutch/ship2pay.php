@@ -1,0 +1,31 @@
+<?php
+define('HEADING_TITLE', 'Levering-Betaling');
+define('TABLE_HEADING_ACTION', 'Actie');
+define('TEXT_DISPLAY_NUMBER_OF_PAYMENTS', 'Weergegeven <b>%d</b> <b>%d</b> (totaal <b>%d</b> - elementen)');
+define('TEXT_INFO_EDIT_INTRO', 'Breng de nodige wijzigingen');
+define('TEXT_INFO_INSERT_INTRO', 'Geef de details voor de nieuwe regel');
+define('TEXT_INFO_DELETE_INTRO', 'Weet u zeker dat u wilt om het item te verwijderen?');
+define('TABLE_HEADING_SHIPMENT', 'Het verschepen methode');
+define('TABLE_HEADING_ZONE', 'Gebied');
+define('TABLE_HEADING_PAYMENTS', 'Toegestaan betaalmethoden');
+define('TABLE_HEADING_STATUS', 'Status');
+define('TEXT_INFO_PAYMENTS_ALLOWED', 'Wanneer u kiest de verzendmethode beschikbaar in de volgende betaalmethoden: ');
+define('TEXT_INFO_SHIPMENT', '<b>het verschepen Methode:</b>');
+define('TEXT_INFO_ZONE', '<b>Gebied:</b>');
+define('TEXT_INFO_PAYMENTS', '<b>Toegestane methoden van betaling voor de gekozen methode van levering:</b>');
+define('TEXT_INFO_HEADING_EDIT_SHP2PAY', 'Veranderen');
+define('TEXT_INFO_HEADING_NEW_SHP2PAY', 'Toevoegen');
+define('TEXT_INFO_HEADING_DELETE_SHP2PAY', 'Verwijderen');
+define('TEXT_INFO_SHIP2PAY_ZONE_ALREADY_EXIST', 'Zone voor deze verzendmethode bestaat al!');
+
+define('BUTTON_CANCEL_NEW', 'annuleren');
+define('BUTTON_EDIT_NEW', 'veranderen');
+define('BUTTON_UNLOCK_NEW', 'deblokkeren');
+define('BUTTON_PREVIEW_NEW', 'voorbeeld');
+define('BUTTON_BACK_NEW', 'geleden');
+define('BUTTON_NEWSLETTER_NEW', 'nieuwe nieuwsbrief');
+define('BUTTON_DELETE_NEW', 'verwijderen');
+define('BUTTON_LOCK_NEW', 'blok');
+define('BUTTON_SEND_NEW', 'verzenden');
+define('BUTTON_INSERT_NEW', 'plaats');
+define('BUTTON_RESET_NEW', 'reset');

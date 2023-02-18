@@ -1,0 +1,28 @@
+# This is a sample build configuration for PHP.
+# Check our guides at https://confluence.atlassian.com/x/e8YWN for more examples.
+# Only use spaces to indent your .yml configuration.
+# ------
+# You can specify a custom docker image from Docker Hub as your build environment.
+image:
+  name: solomononet/solomono:autodeploy
+  username: $DOCKER_HUB_USERNAME
+  password: $DOCKER_HUB_PASSWORD
+  email: $DOCKER_HUB_EMAIL
+
+# In script commands below we will do following stuff: 
+# installing YAML file configuration
+# installing composer and setting up environment variable
+# installing Git FTP service without "y/n" answer requirements
+
+pipelines:
+  branches:
+#    main:
+#      - step:
+#          name: "Deploy to production"
+#          deployment: production
+#          script:
+#            - git ftp push --user $FTP_USERNAME --passwd $FTP_PASSWORD $FTP_HOST_PATH
+    default:
+      - step:
+          script:
+            - echo "only on master"

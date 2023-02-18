@@ -1,0 +1,27 @@
+<?php 
+define('HEADING_TITLE','Change');
+define('TABLE_HEADING_CURRENCY_NAME','La monnaie');
+define('TABLE_HEADING_CURRENCY_CODES','Code');
+define('TABLE_HEADING_CURRENCY_VALUE','La valeur de');
+define('TABLE_HEADING_ACTION','L\'action');
+define('TEXT_INFO_EDIT_INTRO','S\'il vous plaît, apportez les modifications nécessaires');
+define('TEXT_INFO_CURRENCY_TITLE','Titre:');
+define('TEXT_INFO_CURRENCY_CODE','Code:');
+define('TEXT_INFO_CURRENCY_SYMBOL_LEFT','Symbole à gauche:');
+define('TEXT_INFO_CURRENCY_SYMBOL_RIGHT','Symbole à droite:');
+define('TEXT_INFO_CURRENCY_DECIMAL_POINT','Le signe décimal:');
+define('TEXT_INFO_CURRENCY_THOUSANDS_POINT','Le séparateur de milliers:');
+define('TEXT_INFO_CURRENCY_DECIMAL_PLACES','Nombres décimaux à l\'ordre de:');
+define('TEXT_INFO_CURRENCY_LAST_UPDATED','La dernière fois corrigée:');
+define('TEXT_INFO_CURRENCY_VALUE','Valeur:');
+define('TEXT_INFO_CURRENCY_EXAMPLE','Exemple:');
+define('TEXT_INFO_INSERT_INTRO','Veuillez entrer les données pour la nouvelle devise');
+define('TEXT_INFO_DELETE_INTRO','Voulez-vous vraiment supprimer cette monnaie?');
+define('TEXT_INFO_HEADING_NEW_CURRENCY','La Nouvelle Monnaie');
+define('TEXT_INFO_HEADING_EDIT_CURRENCY','Modifier La Devise');
+define('TEXT_INFO_HEADING_DELETE_CURRENCY','Supprimer La Monnaie');
+define('TEXT_INFO_SET_AS_DEFAULT','TEXT_SET_DEFAULT (cette devise besoin d\'ajuster manuellement)');
+define('TEXT_INFO_CURRENCY_UPDATED','La taux de change pour %s (%s) a été mis à jour à l\'aide de %s.');
+define('ERROR_REMOVE_DEFAULT_CURRENCY','Erreur: la Devise par défaut ne peut être supprimé. Définissez un autre devise par défaut et réessayez.');
+define('ERROR_CURRENCY_INVALID','Erreur: le taux de Change pour %s (%s) n\'a pas été mis à jour à l\'aide de %s. Vous avez correctement saisi le code de la devise? Pour mettre à jour les taux de change, Vous devez être connecté à internet.');
+define('WARNING_PRIMARY_SERVER_FAILED','Avertissement: impossible de se connecter au serveur (%s) et mettre à jour les taux de change pour %s (%s) - essayez de vous connecter à un autre serveur. Pour mettre à jour les taux de change, Vous devez être connecté à internet.');

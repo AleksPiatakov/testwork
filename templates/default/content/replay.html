@@ -1,0 +1,11 @@
+#{$idcom} - Номер комментария
+#
+#
+
+<span class="reply pull-right btn btn-xs btn-info" style="cursor: pointer;" id="span-{$idcom}"
+      onclick="var oldid=document.getElementById('oldid').value;otvet('{$idcom}',oldid,'0');">{$langcommentit[skin_reply]}</span>
+<span style="cursor: pointer;" id="spanq-{$idcom}"
+      onclick="var oldid=document.getElementById('oldid').value;otvet('{$idcom}',oldid,'1');">{$langcommentit[skin_reply_que]}</span>
+<span class="reply pull-right btn btn-xs btn-info" style="cursor: pointer;display:none;" id="repl-{$idcom}"
+      onclick="var oldid=document.getElementById('oldid').value;resetrepl('{$idcom}',oldid);">{$langcommentit[skin_reply_cancel]}</span>
+<div id='comment-{$idcom}'></div>

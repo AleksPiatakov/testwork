@@ -1,0 +1,12 @@
+{
+    "NAVBAR_TITLE_1": "Můj účet",
+    "NAVBAR_TITLE_2": "Historie",
+    "HEADING_TITLE": "Historie mých objednávek",
+    "TEXT_ORDER_STATUS": "Stav objednávky",
+    "TEXT_ORDER_DATE": "Datum objednávky",
+    "TEXT_ORDER_SHIPPED_TO": "Dodáno do:",
+    "TEXT_ORDER_BILLED_TO": "Fakturováno:",
+    "TEXT_ORDER_COST": "Cena objednávky",
+    "TEXT_ORDER_PC": "pc",
+    "TEXT_NO_PURCHASES": "Ještě jste neprovedli žádné nákupy."
+}

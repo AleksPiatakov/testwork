@@ -1,0 +1,3 @@
+INSERT INTO `configuration_group` (`configuration_group_id`, `configuration_group_key`, `configuration_group_title`, `configuration_group_description`, `sort_order`, `visible`) VALUES ('17', 'SMTP_CONF_TITLE', 'SMTP параметры', 'SMTP параметры', '19', '1');
+UPDATE `configuration` SET `configuration_group_id`=17 where `configuration_key`='SMTP_USERNAME' or `configuration_key`='SMTP_PASSWORD' or `configuration_key`='SMTP_HOST' or `configuration_key`='SMTP_PORT' or `configuration_key`='SMTP_SECURITY';
+UPDATE `configuration` SET `configuration_value`='' where `configuration_key`='SMTP_USERNAME' or `configuration_key`='SMTP_PASSWORD' or `configuration_key`='SMTP_HOST';

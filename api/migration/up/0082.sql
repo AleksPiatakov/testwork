@@ -1,0 +1,2 @@
+ALTER TABLE `orders` CHANGE `payment_info` `payment_method_code` VARCHAR(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL;
+UPDATE `orders` SET `payment_method` = REPLACE(`payment_method`, '<span></span>', '');

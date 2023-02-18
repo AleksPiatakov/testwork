@@ -1,0 +1,1 @@
+<button class="btn btn-info reply-to-comment">{{REVIEWS_ANSWER_BUTTON_TITLE}}</button>

@@ -1,0 +1,14 @@
+{
+    "EMAIL_TEXT_SUBJECT": "Rendelés visszaigazolása",
+    "EMAIL_TEXT_ORDER_NUMBER": "Rendelési szám:",
+    "EMAIL_TEXT_INVOICE_URL": "Részletes számla:",
+    "EMAIL_TEXT_DATE_ORDERED": "Rendelés dátuma:",
+    "EMAIL_TEXT_PRODUCTS": "Termékek",
+    "EMAIL_TEXT_DELIVERY_ADDRESS": "Szállítási cím",
+    "EMAIL_TEXT_BILLING_ADDRESS": "Számlázási cím",
+    "EMAIL_TEXT_PAYMENT_METHOD": "Fizetési mód",
+    "EMAIL_SEPARATOR": "------------------------------------------------------",
+    "EMAIL_TEXT_CUSTOMER_NAME": "Vásárló:",
+    "EMAIL_TEXT_CUSTOMER_EMAIL_ADDRESS": "Email:",
+    "EMAIL_TEXT_CUSTOMER_TELEPHONE": "Telefon:"
+}

@@ -1,0 +1,317 @@
+<Files "bitbucket-pipelines.yml">
+  Order Allow,Deny
+  Deny from all
+</Files>
+
+<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|env)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+<FilesMatch "^\.">
+Order allow,deny
+Deny from all
+</FilesMatch>
+
+# Ultimate SEO URLs BEGIN
+#Options +FollowSymLinks
+Options -Indexes
+RewriteEngine On 
+RewriteBase /
+
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
+
+RewriteRule ^getimage/(.*)$ r_imgs.php?thumb=$1
+RewriteCond %{REQUEST_URI} !^(.*)/images/files(.*)$
+RewriteCond %{REQUEST_URI} !\.(gif|ico|svg)$ [NC]
+RewriteRule ^images/(.*)$ r_imgs.php?thumb=$1&{QUERY_STRING} [L]
+
+<IfModule mod_headers.c>
+	Header set X-XSS-Protection "1; mode=block"
+	Header always append X-Frame-Options SAMEORIGIN
+	Header set X-Content-Type-Options nosniff
+</IfModule>
+
+<IfModule mod_headers.c>
+    SetEnvIfNoCase Origin "https?://(solomono\.net|.*\.solomono\.net)(:\d+)?$" ACAO=$0
+    Header set Access-Control-Allow-Origin %{ACAO}e env=ACAO
+</IfModule>
+
+#WATERMARK ON#
+RewriteCond %{QUERY_STRING} ^thumb\=(.*)$
+RewriteRule ^r_imgs.php$ ext/watermark/watermark.php?watermark=/images/watermark.png&%{QUERY_STRING}
+
+
+RewriteRule ^sitemap.html$ price.php
+RewriteRule ^pricexls.html$ pricexls.php
+RewriteRule ^articles.html$ articles.php
+RewriteRule ^allcomments.html$ allcomments.php
+RewriteRule ^sitemap.xml$ sitemap.php
+#RewriteRule ^sitemapimages.xml$ sitemap.php?type=images
+#RewriteRule ^sitemaparticles.xml$ sitemap.php?type=articles
+#RewriteRule ^sitemapproducts.xml$ sitemap.php?type=products
+#RewriteRule ^sitemapcategories.xml$ sitemap.php?type=categories
+#RewriteRule ^sitemapmanufacturers.xml$ sitemap.php?type=manufacturers
+RewriteRule ^sitemapimages.xml$ sitemap.php?type=images
+RewriteRule ^sitemaparticles.xml$ sitemap.php?type=articles
+RewriteRule ^sitemapproducts.xml$ sitemap.php?type=products
+RewriteRule ^sitemapcategories.xml$ sitemap.php?type=categories
+RewriteRule ^sitemapmanufacturers.xml$ sitemap.php?type=manufacturers
+RewriteRule ^sitemapseo_filters.xml$ sitemap.php?type=seo_filters
+RewriteRule ^sitemapcategorybrand.xml$ sitemap.php?type=categorybrand
+
+RewriteRule ^includes/xml/(.*).xml$ includes/xml/$1.php [L]
+
+### SEO redirects: ###
+
+#redirect from language=uk to uk/
+#RewriteCond %{QUERY_STRING} ^language=(.*) [NC]
+#RewriteRule ^(.*) %1%{REQUEST_URI}? [R=301,L]
+
+# delete slash / :
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+#double shashes:
+#RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/{2,} [NC]
+#RewriteRule ^(.*) $1 [R=301,L]
+
+
+#www to non-www OFF#
+#RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+#RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+#non-www to www OFF#
+#RewriteCond %{HTTP_HOST} !^www\. [NC]
+#RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]
+
+#redirect index.php only if query is empty:
+RewriteCond %{QUERY_STRING} ^$
+RewriteCond %{REQUEST_URI} !^admin/
+RewriteCond %{REQUEST_URI} !/admin/
+RewriteRule ^(.*)/index.php$ /$1 [R=301,L]
+RewriteRule ^(.*)/index.html$ /$1 [R=301,L]
+RewriteRule ^index.php$ /$1 [R=301,L]
+RewriteRule ^index.html$ /$1 [R=301,L] 
+
+#lower case:
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule .+ - [L]
+
+
+RewriteRule ^([^A]*)A(.*)$ $1a$2 [R=301,L]
+RewriteRule ^([^B]*)B(.*)$ $1b$2 [R=301,L]
+RewriteRule ^([^C]*)C(.*)$ $1c$2 [R=301,L]
+RewriteRule ^([^D]*)D(.*)$ $1d$2 [R=301,L]
+RewriteRule ^([^E]*)E(.*)$ $1e$2 [R=301,L]
+RewriteRule ^([^F]*)F(.*)$ $1f$2 [R=301,L]
+RewriteRule ^([^G]*)G(.*)$ $1g$2 [R=301,L]
+RewriteRule ^([^H]*)H(.*)$ $1h$2 [R=301,L]
+RewriteRule ^([^I]*)I(.*)$ $1i$2 [R=301,L]
+RewriteRule ^([^J]*)J(.*)$ $1j$2 [R=301,L]
+RewriteRule ^([^K]*)K(.*)$ $1k$2 [R=301,L]
+RewriteRule ^([^L]*)L(.*)$ $1l$2 [R=301,L]
+RewriteRule ^([^M]*)M(.*)$ $1m$2 [R=301,L]
+RewriteRule ^([^N]*)N(.*)$ $1n$2 [R=301,L]
+RewriteRule ^([^O]*)O(.*)$ $1o$2 [R=301,L]
+RewriteRule ^([^P]*)P(.*)$ $1p$2 [R=301,L]
+RewriteRule ^([^Q]*)Q(.*)$ $1q$2 [R=301,L]
+RewriteRule ^([^R]*)R(.*)$ $1r$2 [R=301,L]
+RewriteRule ^([^S]*)S(.*)$ $1s$2 [R=301,L]
+RewriteRule ^([^T]*)T(.*)$ $1t$2 [R=301,L]
+RewriteRule ^([^U]*)U(.*)$ $1u$2 [R=301,L]
+RewriteRule ^([^V]*)V(.*)$ $1v$2 [R=301,L]
+RewriteRule ^([^W]*)W(.*)$ $1w$2 [R=301,L]
+RewriteRule ^([^X]*)X(.*)$ $1x$2 [R=301,L]
+RewriteRule ^([^Y]*)Y(.*)$ $1y$2 [R=301,L]
+RewriteRule ^([^Z]*)Z(.*)$ $1z$2 [R=301,L]
+
+### SEO redirects END ###
+
+### languages ###
+
+#double shashes in mainpage:
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/{2,} [NC]
+RewriteRule ^(.*) $1 [R=301,L]
+
+# (adding slash): '/ru' or '/uk' -> redirect to /ru/ or /uk/    
+RewriteRule ^(ru|uk|en|ar|bg|br|ca|cs|da|de|el|es|et|fi|fr|gl|he|hr|hu|id|it|ja|ko|ka|lt|lv|nl|no|pl|pt|ro|si|sk|sr|sv|th|tr|tw|zh)$  $1/ [R=301,L]
+
+#delete multi slashes for languages:
+RewriteCond %{REQUEST_URI} //+        
+RewriteRule ^(.*)/$ $1 [R=301,L]
+
+# dont delete slash if we are in admin/
+#RewriteCond %{REQUEST_FILENAME} !-d
+# delete slash / :
+#RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+# now all urls have ru/ uk/ -> parse them
+RewriteRule ^(ru|uk|en|ar|bg|br|ca|cs|da|de|el|es|et|fi|fr|gl|he|hr|hu|id|it|ja|ko|ka|lt|lv|nl|no|pl|pt|ro|si|sk|sr|sv|th|tr|tw|zh)/(.*)$  $2 [L]
+
+### languages END ###
+
+RewriteRule ^(.*)-pr-(\d+).html$ $1/p-$2.html? [R=301,L]
+RewriteRule ^(.*)-pr-(\d+)$ $1/p-$2.html? [R=301,L]
+RewriteRule ^(.*)-pri-(\d+).html$ $1/p-$2.html? [R=301,L]
+RewriteRule ^(.*)-pri-(\d+)$ $1/p-$2.html? [R=301,L]
+# ^new.html$ all/c-0.html такий варіант не на всіх серверах спрацьовує
+RewriteRule (.*)reviews.php$ allcomments.html [R=301,L]
+
+#SOLOMONO ON#
+RewriteCond %{REQUEST_URI}  ^(.*)/p-(\d+).html$
+RewriteCond %{QUERY_STRING} ^products_id=([0-9]*)$
+RewriteRule ^(.*)?(.*)$ $1 [R=301,L]
+RewriteCond %{QUERY_STRING} ^options\=(.*)$
+RewriteRule ^(.*)/p-(\d+).html$ product_info.php?products_id=$2%1
+RewriteRule ^p-(\d+).html$ product_info.php?products_id=$1&%{QUERY_STRING}
+RewriteRule ^(.*)/p-(\d+).html$ product_info.php?products_id=$2&%{QUERY_STRING}
+RewriteRule ^c-([\d|_-]+).html$ ?cPath=$1&%{QUERY_STRING}
+RewriteRule ^(.*)/c-([\d|_-]+).html$ ?cPath=$2&%{QUERY_STRING}
+RewriteRule ^(.*)-a-(\d+).html$ $1/a-$2.html [R=301,L] #redirest for old versions
+RewriteRule ^(.*)/a-(\d+).html$ article_info.php?articles_id=$2&%{QUERY_STRING}
+RewriteRule (.*)new.html$ all/c-0.html
+RewriteRule (.*)specials.html$ all/c-0.html
+RewriteRule (.*)featured.html$ all/c-0.html
+
+#SEOFILTERS ON#
+RewriteRule ^(.*)\/(c[\d][\d|-]*){1}(f[\d|\-]+)?+(a[\d|\-]+)?+\.html$ ?filtercPath=$2&filterId=$3&optionsvalues=$4&%{QUERY_STRING}
+
+#PROM OFF#
+#RewriteRule ^p(\d+)-(.*).html$ product_info.php?products_id=$1&%{QUERY_STRING}
+#RewriteRule ^a(\d+)-(.*).html$ article_info.php?articles_id=$1&%{QUERY_STRING}
+#RewriteRule ^g([\d|_-]+)-(.*)$ ?cPath=$1&%{QUERY_STRING}
+#RewriteRule (.*)new.html$ g0-all.html
+#RewriteRule (.*)specials.html$ g0-all.html
+#RewriteRule (.*)featured.html$ g0-all.html
+
+RewriteRule ^(.*)/m-(\d+).html$ ?manufacturers_id=$2&%{QUERY_STRING}
+RewriteRule ^(.*)/t-(\d+).html$ articles.php?tPath=$2&%{QUERY_STRING}
+RewriteRule ^t-(\d+).html$ articles.php?tPath=$1&%{QUERY_STRING}
+RewriteRule ^brands$ manufacturers.php
+
+# Ultimate SEO URLs END
+
+# Block Bad Bots
+RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Bot\ mailto:craftbot@yahoo.com [OR]
+RewriteCond %{HTTP_USER_AGENT} ^ChinaClaw [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Custo [OR]
+RewriteCond %{HTTP_USER_AGENT} ^DISCo [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Download\ Demon [OR]
+RewriteCond %{HTTP_USER_AGENT} ^eCatch [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EirGrabber [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EmailSiphon [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EmailWolf [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Express\ WebPictures [OR]
+RewriteCond %{HTTP_USER_AGENT} ^ExtractorPro [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EyeNetIE [OR]
+RewriteCond %{HTTP_USER_AGENT} ^FlashGet [OR]
+RewriteCond %{HTTP_USER_AGENT} ^GetRight [OR]
+RewriteCond %{HTTP_USER_AGENT} ^GetWeb! [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Go!Zilla [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Go-Ahead-Got-It [OR]
+RewriteCond %{HTTP_USER_AGENT} ^GrabNet [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Grafula [OR]
+RewriteCond %{HTTP_USER_AGENT} ^HMView [OR]
+RewriteCond %{HTTP_USER_AGENT} HTTrack [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^Image\ Stripper [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Image\ Sucker [OR]
+RewriteCond %{HTTP_USER_AGENT} Indy\ Library [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^InterGET [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Internet\ Ninja [OR]
+RewriteCond %{HTTP_USER_AGENT} ^JetCar [OR]
+RewriteCond %{HTTP_USER_AGENT} ^JOC\ Web\ Spider [OR]
+RewriteCond %{HTTP_USER_AGENT} ^larbin [OR]
+RewriteCond %{HTTP_USER_AGENT} ^LeechFTP [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Mass\ Downloader [OR]
+RewriteCond %{HTTP_USER_AGENT} ^MIDown\ tool [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Mister\ PiX [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Navroad [OR]
+RewriteCond %{HTTP_USER_AGENT} ^NearSite [OR]
+RewriteCond %{HTTP_USER_AGENT} ^NetAnts [OR]
+RewriteCond %{HTTP_USER_AGENT} ^NetSpider [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Net\ Vampire [OR]
+RewriteCond %{HTTP_USER_AGENT} ^NetZIP [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Octopus [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Offline\ Explorer [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Offline\ Navigator [OR]
+RewriteCond %{HTTP_USER_AGENT} ^PageGrabber [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Papa\ Foto [OR]
+RewriteCond %{HTTP_USER_AGENT} ^pavuk [OR]
+RewriteCond %{HTTP_USER_AGENT} ^pcBrowser [OR]
+RewriteCond %{HTTP_USER_AGENT} ^RealDownload [OR]
+RewriteCond %{HTTP_USER_AGENT} ^ReGet [OR]
+RewriteCond %{HTTP_USER_AGENT} ^SiteSnagger [OR]
+RewriteCond %{HTTP_USER_AGENT} ^SmartDownload [OR]
+RewriteCond %{HTTP_USER_AGENT} ^SuperBot [OR]
+RewriteCond %{HTTP_USER_AGENT} ^SuperHTTP [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Surfbot [OR]
+RewriteCond %{HTTP_USER_AGENT} ^tAkeOut [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Teleport\ Pro [OR]
+RewriteCond %{HTTP_USER_AGENT} ^VoidEYE [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Web\ Image\ Collector [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Web\ Sucker [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebAuto [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebCopier [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebFetch [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebGo\ IS [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebLeacher [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebReaper [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebSauger [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Website\ eXtractor [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Website\ Quester [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebStripper [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebWhacker [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebZIP [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Wget [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Widow [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WWWOFFLE [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Xaldon\ WebSpider [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Zeus
+RewriteRule .* - [F]
+#php_value display_errors on
+
+#RewriteCond %{QUERY_STRING} (.*)&amp;(.*)
+#RewriteRule .* /index.php?%1&%2
+
+#php_value memory_limit 160M
+#php_value upload_max_filesize 1600M
+#php_value post_max_size 1600M
+#php_value memory_limit 1600M
+#php_value max_execution_time 200000
+#php_value max_input_time 200000
+#php_value max_input_vars 10000
+#php_value register_globals on
+#AddDefaultCharset cp1251
+
+#caching
+FileETag MTime Size
+#ExpiresActive Off
+<IfModule mod_expires.c>
+    ExpiresActive on
+    ExpiresDefault "access plus 365 days"
+    BrowserMatch "MSIE" force-no-vary
+    BrowserMatch "Mozilla/4.[0-9]{2}" force-no-vary
+</IfModule>
+# end caching
+
+<IfModule mod_headers.c>
+  <FilesMatch ".(js|css|xml|gz|html)$">
+    Header append Vary: Accept-Encoding
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>      
+    <filesMatch "\.(js|min.js|css|min.css|html|php)$">
+        SetOutputFilter DEFLATE
+    </filesMatch>
+</IfModule>   
+# Extra Security Headers
+<IfModule mod_headers.c>
+	Header set X-XSS-Protection "1; mode=block"
+	Header always append X-Frame-Options SAMEORIGIN
+	Header set X-Content-Type-Options nosniff
+</IfModule>

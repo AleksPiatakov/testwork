@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "Мої дані",
+    "NAVBAR_TITLE_2": "Історія замовлень",
+    "NAVBAR_TITLE_3": "Інформація про замовлення",
+    "HEADING_TITLE": "Інформація про замовлення",
+    "HEADING_ORDER_NUMBER": "Замовлення #%s",
+    "HEADING_ORDER_DATE": "Дата",
+    "HEADING_ORDER_TOTAL": "Вартість замовлення:",
+    "HEADING_DELIVERY_ADDRESS": "Адреса доставки",
+    "HEADING_SHIPPING_METHOD": "Спосіб доставки",
+    "HEADING_PRODUCTS": "Товар",
+    "HEADING_TAX": "Податок",
+    "HEADING_TOTAL": "Всього",
+    "HEADING_PAYMENT_METHOD": "Спосіб оплати",
+    "HEADING_ORDER_HISTORY": "Історія замовлення",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Посилання дійсне до: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " раз можна завантажити файл.",
+    "TABLE_HEADING_DATE_ADDED": "Дата",
+    "TABLE_HEADING_STATUS": "Статус замовлення",
+    "TABLE_HEADING_COMMENTS": "Коментарі"
+}

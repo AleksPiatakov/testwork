@@ -1,0 +1,28 @@
+<?php 
+define('HEADING_TITLE','Promotions fabricants');
+define('HEADING_TITLE_SEARCH','Recherche:');
+define('TABLE_HEADING_NAME','Le nom de');
+define('TABLE_HEADING_DISCOUNT','Discount');
+define('TABLE_HEADING_CUSTOMERS','Réduction pour l\'acheteur');
+define('TABLE_HEADING_GROUPS','Réduction pour les groupes');
+define('TABLE_HEADING_MANUFACTURERS','Fabricant');
+define('TABLE_HEADING_ACTION','L\'action');
+define('ENTRY_MANUDISCOUNT_NAME','Titre:');
+define('ENTRY_CUSTOMERS_NAME','Réduction pour l\'acheteur:');
+define('ENTRY_GROUPS_NAME','Réduction pour les groupes:');
+define('ENTRY_MANUFACTURERS_NAME','Fabricant:');
+define('ENTRY_DEFAULT_DISCOUNT','Réduction:');
+define('TEXT_DELETE_INTRO','Voulez-vous vraiment supprimer cette réduction?');
+define('TEXT_INFO_HEADING_DELETE_MANUDISCOUNT','Supprimer un rabais?');
+define('ERROR_MANUDISCOUNT_NAME','Entrez un nom créé de rabais');
+define('BUTTON_CANCEL_NEW','annuler');
+define('BUTTON_EDIT_NEW','modifier');
+define('BUTTON_UNLOCK_NEW','débloquer');
+define('BUTTON_PREVIEW_NEW','aperçu');
+define('BUTTON_BACK_NEW','de retour');
+define('BUTTON_NEWSLETTER_NEW','la nouvelle newsletter');
+define('BUTTON_DELETE_NEW','supprimer');
+define('BUTTON_LOCK_NEW','bloquer');
+define('BUTTON_SEND_NEW','envoyer');
+define('BUTTON_INSERT_NEW','insérer');
+define('BUTTON_RESET_NEW','réinitialiser');

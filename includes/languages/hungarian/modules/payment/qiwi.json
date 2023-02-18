@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_QIWI_TEXT_TITLE": "QIWI",
+    "MODULE_PAYMENT_QIWI_TEXT_PUBLIC_TITLE": "QIWI",
+    "MODULE_PAYMENT_QIWI_TEXT_DESCRIPTION": "Leírás",
+    "MODULE_PAYMENT_QIWI_TEXT_ADMIN_DESCRIPTION": "QIWI",
+    "MODULE_PAYMENT_QIWI_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

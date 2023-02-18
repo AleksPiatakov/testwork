@@ -1,0 +1,22 @@
+<?php 
+define('HEADING_TITLE','De auteurs');
+define('TABLE_HEADING_AUTHORS','De auteurs');
+define('TABLE_HEADING_ACTION','Actie');
+define('TEXT_HEADING_NEW_AUTHOR','Toevoegen auteur');
+define('TEXT_HEADING_EDIT_AUTHOR','Het bewerken van de auteur');
+define('TEXT_HEADING_DELETE_AUTHOR','Verwijderen van de auteur');
+define('TEXT_ARTICLE_BY','De auteur van het artikel: ');
+define('TEXT_AUTHORS','Auteurs:');
+define('TEXT_DATE_ADDED','Datum toegevoegd:');
+define('TEXT_LAST_MODIFIED','Laatst bijgewerkt:');
+define('TEXT_ARTICLES','Artikel:');
+define('TEXT_NEW_INTRO','Vul dit formulier in');
+define('TEXT_EDIT_INTRO','Maak de nodige wijzigingen.');
+define('TEXT_AUTHORS_NAME','De naam van de auteur:');
+define('TEXT_AUTHORS_DESCRIPTION','Beschrijving:');
+define('TEXT_AUTHORS_URL','URL-link:');
+define('TEXT_DELETE_INTRO','Wilt u deze auteur?');
+define('TEXT_DELETE_ARTICLES','Verwijderen van artikelen van deze auteur? (inclusief beoordelingen van de artikelen en niet-gepubliceerde artikelen)');
+define('TEXT_DELETE_WARNING_ARTICLES','<b>Opmerking:</b> Er zijn %s artikelen van deze auteur!');
+define('ERROR_DIRECTORY_NOT_WRITEABLE','Fout: de Map is beveiligd tegen schrijven, stelt u de vereiste machtigingen beschikt: %s');
+define('ERROR_DIRECTORY_DOES_NOT_EXIST','Fout: Map ontbreekt: %s');

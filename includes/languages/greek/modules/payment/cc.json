@@ -1,0 +1,14 @@
+{
+    "MODULE_PAYMENT_CC_TEXT_TITLE": "Πιστωτική κάρτα",
+    "MODULE_PAYMENT_CC_TEXT_DESCRIPTION": "Πληροφορίες δοκιμής πιστωτικών καρτών:<br><br>CC#: 4111111111111111<br>Λήξη: Οποιαδήποτε",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_OWNER": "Ιδιοκτήτης πιστωτικής κάρτας:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_NUMBER": "Αριθμός κάρτας",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES": "Ημερομηνία λήξης της πιστωτικής κάρτας:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM": "Λήγει (μήνας)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY": "Λήγει (έτος)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_CVC": "Κωδικός CVC",
+    "MODULE_PAYMENT_CC_TEXT_ERROR": "Σφάλμα πιστωτικής κάρτας!",
+    "MODULE_PAYMENT_CC_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

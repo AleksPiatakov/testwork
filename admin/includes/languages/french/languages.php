@@ -1,0 +1,28 @@
+<?php 
+define('HEADING_TITLE','Langues');
+define('TEXT_SAVE_BUTTON','Mettre à jour');
+define('TEXT_CANCEL_BUTTON','Annuler');
+define('TABLE_HEADING_LANGUAGE_NAME','La langue');
+define('TABLE_HEADING_LANGUAGE_CODE','Code');
+define('TABLE_HEADING_LANGUAGE_PICTURE','Image');
+define('TABLE_HEADING_LANGUAGE_DIR','Annuaire');
+define('TABLE_HEADING_LANGUAGE_ORDER','L\'Ordre De Tri');
+define('TABLE_HEADING_LANGUAGE_STATUS','Le statut de');
+define('TABLE_HEADING_ACTION','L\'action');
+define('TEXT_INFO_EDIT_INTRO','S\'il vous plaît, apportez les modifications nécessaires');
+define('TEXT_INFO_LANGUAGE_NAME','Titre:');
+define('TEXT_INFO_LANGUAGE_CODE','Code:');
+define('TEXT_INFO_LANGUAGE_IMAGE','Image:');
+define('TEXT_INFO_LANGUAGE_DIRECTORY','Annuaire:');
+define('TEXT_INFO_LANGUAGE_SORT_ORDER','Ordre De Tri:');
+define('TEXT_INFO_LANGUAGE_FROM_DIR','Copier la traduction avec le répertoire:');
+define('TEXT_INFO_INSERT_INTRO','S\'il vous plaît, apportez les informations requises pour une nouvelle langue');
+define('TEXT_INFO_DELETE_INTRO','Voulez-vous vraiment supprimer la langue?');
+define('TEXT_INFO_HEADING_NEW_LANGUAGE','Une Nouvelle Langue');
+define('TEXT_INFO_HEADING_EDIT_LANGUAGE','Modifier La Langue');
+define('TEXT_INFO_HEADING_DELETE_LANGUAGE','Supprimer La Langue');
+define('TEXT_INFO_HEADING_ENABLE_MULTILANGUAGE', 'Activer le multilangue');
+define('ERROR_REMOVE_DEFAULT_LANGUAGE','Erreur: la Langue par défaut ne peut pas être supprimé. Installez une autre langue par défaut et réessayez.');
+define('ERROR_STATUS_DEFAULT_LANGUAGE','Erreur: la Langue par défaut ne peut pas être changé de statut. Installez une autre langue par défaut et réessayez.');
+define('ERROR_STATUS_SELECTED_LANGUAGE','Erreur: Dans le langage courant ne peut pas être changé de statut. Sélectionnez une autre langue et essayez de nouveau.');
+define('REQUIRED_FIELDS_ERROR', 'Veuillez remplir tous les champs requis');

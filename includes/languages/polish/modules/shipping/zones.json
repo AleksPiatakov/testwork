@@ -1,0 +1,8 @@
+{
+    "MODULE_SHIPPING_ZONES_TEXT_TITLE": "Taryfy dla strefy",
+    "MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION": "podstawowa taryfa strefy",
+    "MODULE_SHIPPING_ZONES_TEXT_WAY": "Dostawa do",
+    "MODULE_SHIPPING_ZONES_TEXT_UNITS": "Kg.",
+    "MODULE_SHIPPING_ZONES_INVALID_ZONE": "Dla wybranego kraju nie ma opcji dostawy ",
+    "MODULE_SHIPPING_ZONES_UNDEFINED_RATE": "Koszty wysyłki nie mogą zostać określone w tej chwili. "
+}

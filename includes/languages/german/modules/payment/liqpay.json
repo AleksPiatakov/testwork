@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_LIQPAY_TEXT_TITLE": "LiqPAY",
+    "MODULE_PAYMENT_LIQPAY_TEXT_PUBLIC_TITLE": "Visa\/Mastercard LiqPay",
+    "MODULE_PAYMENT_LIQPAY_TEXT_DESCRIPTION": "Nachdem Sie auf die Schaltfläche Bestellung bestätigen geklickt haben, werden Sie zur Bezahlung der Bestellung auf die Website des Zahlungssystems weitergeleitet. Nach der Zahlung wird Ihre Bestellung ausgeführt.",
+    "MODULE_PAYMENT_LIQPAY_TEXT_ADMIN_DESCRIPTION": "Zahlungsmodul LiqPAY ..",
+    "MODULE_PAYMENT_LIQPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

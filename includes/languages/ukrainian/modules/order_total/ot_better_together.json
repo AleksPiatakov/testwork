@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Супутня знижка",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Супутня знижка",
+    "TWOFER_PROMO_STRING": "Купуйте цей товар та отримаєте інший безкоштовно!",
+    "TWOFER_QUALIFY_STRING": "Ви можете отримати інший %s безкоштовно",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " другий ",
+    "FREE_STRING": " безкоштовно",
+    "REV_GET_ANY": "Купуйте товар з ",
+    "REV_GET_THIS": "Купуйте ",
+    "REV_GET_DISC": ", отримаєте цей товар ",
+    "FREE": " безкоштовно",
+    "GET_YOUR_PROD": ", отримаєте ",
+    "GET_YOUR_CAT": ", отримаєте ваш вибір з ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s на комплект",
+    "BETTER_TOGETHER_SAVING": "економія ",
+    "BETTER_TOGETHER_SUBMIT": "Купити комплект"
+}

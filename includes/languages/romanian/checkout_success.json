@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Checkout",
+    "NAVBAR_TITLE_2": "Success",
+    "HEADING_TITLE": "Comanda a fost transmisa.",
+    "TEXT_SUCCESS": "Your order has been successfully processed! Your products will arrive at their destination within 2-5 working days.",
+    "TEXT_THANKS_FOR_SHOPPING": "Cerere comanda transmisa. <br \/>Mutumim!",
+    "TABLE_HEADING_COMMENTS": "Enter a comment for the order processed",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Expiry date: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " downloads remaining",
+    "SMS_NEW_ORDER": "You have new order",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Aveți o nouă comandă rapidă",
+    "SMS_CALL_BACK": "Sună-mă înapoi la numărul meu: ",
+    "TEXT_SUCCESS_INFO": "Toate instrucțiunile și detaliile suplimentare pentru plată v-au fost trimise prin poștă"
+}

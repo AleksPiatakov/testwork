@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Afrekenen",
+    "NAVBAR_TITLE_2": "Succes",
+    "HEADING_TITLE": "Uw bestelling!",
+    "TEXT_SUCCESS": "Uw bestelling kan niet worden aanvaard.",
+    "TEXT_THANKS_FOR_SHOPPING": "Uw bestelling kan niet worden aanvaard.",
+    "TABLE_HEADING_COMMENTS": "In de nabije toekomst zult u contact opnemen met onze Manager.",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Geldig tot en met: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " als u het downloaden van het bestand.",
+    "SMS_NEW_ORDER": "Heb je een nieuwe bestelling",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Du har en ny hurtig ordre",
+    "SMS_CALL_BACK": "Bel me terug op mijn nummer: ",
+    "TEXT_SUCCESS_INFO": "Alle verdere instructies en betalingsgegevens zijn per post naar u verzonden"
+}

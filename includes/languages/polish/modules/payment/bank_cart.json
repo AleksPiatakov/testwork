@@ -1,0 +1,6 @@
+{
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_TITLE": "Płatność kartą bankową",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_DESCRIPTION": "Dane naszego banku:<br>Nazwa banku: &nbsp;&nbsp;&nbsp;%s<br>Numer karty: &nbsp;&nbsp;&nbsp;%s<br>Odbiorca: &nbsp;&nbsp;&nbsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_EMAIL_FOOTER": "Dane naszego banku:<br>Nazwa banku: &nbsp;&nbsp;&nbsp;%s<br>Numer karty: &nbsp;&nbsp;&nbsp;%s<br>Odbiorca: &nbsp;&nbsp;&nbsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_IMAGES": "<span><img src=images/payment_method/visa.png><img src=images/payment_method/mastercard.png></span>"
+}

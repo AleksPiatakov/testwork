@@ -1,0 +1,17 @@
+{
+    "NAVBAR_TITLE": "Bejelentkezés",
+    "HEADING_TITLE": "Üdvözöljük, kérjük, jelentkezzen be",
+    "TEXT_NEW_CUSTOMER": "Új vásárló vagyok.",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "%s fiók létrehozásával gyorsabban tud vásárolni, könnyen ellenőrizheti rendelései állapotát, és visszanézheti korábbi megrendeléseit.",
+    "TEXT_RETURNING_CUSTOMER": "Visszatérő vásárló vagyok.",
+    "TEXT_PASSWORD_FORGOTTEN": "Elfelejtette a jelszavát? Klikk ide.",
+    "TEXT_LOGIN_ERROR": "HIBA: Nem egyezik meg az email cím és\/vagy a jelszó.",
+    "NO_CUSTOMER": "Nincs ilyen felhasználó az adatbázisban.",
+    "NO_PASS": "Erős jelszó",
+    "SOC_VK": "Facebook",
+    "SOC_SITE": "oldal",
+    "SOC_ENTER_FROM_OTHER": "Jelentkezzen be egy másik közösségi oldalról vagy adja meg a nevét\/jelszavát.",
+    "SOC_NOW_FROM": "Megpróbál bejelentkezni innen:",
+    "SOC_NEED_FROM": "Ön regisztrált itt:",
+    "SOC_LOGIN_THX": "Sikeres bejelentkezés"
+}

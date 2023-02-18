@@ -1,0 +1,28 @@
+<?php 
+define('BOX_HEADING_GV_ADMIN','Certificats/Promo codes');
+define('BOX_GV_ADMIN_QUEUE','Les certificats');
+define('BOX_GV_ADMIN_MAIL','Envoyer un certificat');
+define('BOX_GV_ADMIN_SENT','Envoyés des certificats');
+define('BOX_COUPON_ADMIN','Promo codes');
+define('IMAGE_RELEASE','Utiliser un certificat');
+define('_JANUARY','Janvier');
+define('_FEBRUARY','Février');
+define('_MARCH','Mars');
+define('_APRIL','Avril');
+define('_MAY','Mai');
+define('_JUNE','Juin');
+define('_JULY','Juillet');
+define('_AUGUST','Août');
+define('_SEPTEMBER','Septembre');
+define('_OCTOBER','Octobre');
+define('_NOVEMBER','Novembre');
+define('_DECEMBER','Décembre');
+define('TEXT_DISPLAY_NUMBER_OF_GIFT_VOUCHERS','Montre <b>%d</b> - <b>%d</b> (<b>%d</b> certificats)');
+define('TEXT_DISPLAY_NUMBER_OF_COUPONS','Montre <b>%d</b> - <b>%d</b> (<b>%d</b> coupons)');
+define('TEXT_VALID_PRODUCTS_LIST','La liste des produits');
+define('TEXT_VALID_PRODUCTS_ID','Code de l\'article');
+define('TEXT_VALID_PRODUCTS_NAME','Nom de l\'article');
+define('TEXT_VALID_PRODUCTS_MODEL','Code de l\'article');
+define('TEXT_VALID_CATEGORIES_LIST','La liste des catégories');
+define('TEXT_VALID_CATEGORIES_ID','Code de la catégorie');
+define('TEXT_VALID_CATEGORIES_NAME','Le nom de la catégorie');

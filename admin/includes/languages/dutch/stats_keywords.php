@@ -1,0 +1,20 @@
+<?php 
+define('HEADING_TITLE','Zoek woorden: Statistieken en vervanging');
+define('WORD_ENTRY_ORIGINAL','Oorspronkelijke aanvraag:');
+define('WORD_ENTRY_REPLACEMENT','Model verzoek:');
+define('KEYWORD_TITLE','Aanvraag');
+define('KEYWORD_TITLE2','Het aantal');
+define('SIDEBAR_HEADING','Instellingen');
+define('SIDEBAR_INFO_1','Gebruik de knop Vernieuwen om te zien wat bezoekers op zoek zijn naar in de winkel.');
+define('SIDEBAR_INFO_2','Verwijderen van <b>alle</b> zoekopdrachten gemaakt door de bezoekers van de winkel, klik op de knop Verwijderen');
+define('SIDEBAR_INFO_3','<b>Model woorden/query \' s</b><br><br>Kijk model woorden/verzoeken:');
+define('BUTTON_VIEW_WORD_LIST','Kijken woorden/vragen');
+define('BUTTON_UPDATE_WORD_LIST','Update');
+define('BUTTON_SORT_NAME','Sorteren op naam');
+define('BUTTON_SORT_TOTAL','Sorteren op aantal');
+define('BUTTON_DELETE','Verwijderen');
+define('BUTTON_EDIT_WORD','Veranderen');
+define('BUTTON_ADD_WORD','Het woord toevoegen/aanvraag');
+define('BUTTON_ADD','Toevoegen');
+define('LINK_EDIT','Bewerken');
+define('LINK_DELETE','Verwijderen');

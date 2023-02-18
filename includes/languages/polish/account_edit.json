@@ -1,0 +1,9 @@
+{
+    "NAVBAR_TITLE_1": "Moje dane",
+    "NAVBAR_TITLE_2": "Edycja",
+    "HEADING_TITLE": "Moje dane",
+    "MY_ACCOUNT_TITLE": "Moje dane",
+    "SUCCESS_ACCOUNT_UPDATED": "Twoje dane zaktualizowane.",
+    "SUCCESS_EMAIL_NEW_SENT": "Powiadomienie o zmianie adresu e-mail na Twoim koncie.\nTwój nowy adres e-mail: %s",
+    "SUCCESS_EMAIL_SENT": "Powiadomienie o zmianie adresu e-mail na Twoim koncie."
+}

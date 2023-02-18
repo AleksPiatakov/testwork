@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Καλύτερα μαζί",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Καλύτερη μαζί προσφορά",
+    "TWOFER_PROMO_STRING": "Αγοράστε αυτό το προιόν και κερδίστε!",
+    "TWOFER_QUALIFY_STRING": "Μπορείτε να λάβετε και άλλα% s δωρεάν",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " second ",
+    "FREE_STRING": " for free",
+    "REV_GET_ANY": "Αγοράστε στοιχείο από ",
+    "REV_GET_THIS": "Αγορά",
+    "REV_GET_DISC": ", get this item ",
+    "FREE": " for free",
+    "GET_YOUR_PROD": ", να σας πάρει προϊόν ",
+    "GET_YOUR_CAT": ", πάρτε προιόν από ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s ανά σετ",
+    "BETTER_TOGETHER_SAVING": "οικονομία ",
+    "BETTER_TOGETHER_SUBMIT": "Αγοράστε ένα σετ"
+}

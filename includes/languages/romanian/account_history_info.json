@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "My Account",
+    "NAVBAR_TITLE_2": "Istoric comenzi",
+    "NAVBAR_TITLE_3": "Comanda #%s",
+    "HEADING_TITLE": "Detalii comanda",
+    "HEADING_ORDER_NUMBER": "Comanda #%s",
+    "HEADING_ORDER_DATE": "Data comenzii:",
+    "HEADING_ORDER_TOTAL": "Total:",
+    "HEADING_DELIVERY_ADDRESS": "Adresa livrare",
+    "HEADING_SHIPPING_METHOD": "Transport",
+    "HEADING_PRODUCTS": "Produse",
+    "HEADING_TAX": "Tax",
+    "HEADING_TOTAL": "Total",
+    "HEADING_PAYMENT_METHOD": "Metoda plata",
+    "HEADING_ORDER_HISTORY": "Istoric comanda",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Link expires: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " downloads remaining",
+    "TABLE_HEADING_DATE_ADDED": "Date",
+    "TABLE_HEADING_STATUS": "Status",
+    "TABLE_HEADING_COMMENTS": "Comentarii"
+}

@@ -1,0 +1,17 @@
+{
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_TITLE": "MultiSafepay Connect",
+    "MODULE_PAYMENT_MULTISAFEPAY_EMAIL_TEXT_ORDER_STATUS": "Bestelstatus:",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_RETURN_TO_SHOP": "Keer terug naar% s",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR": "er is een fout opgetreden",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REDIRECT": "Kan omleiding niet uitvoeren",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_STATUS": "Kan bestelstatus niet ophalen",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNKNOWN": "Geen details beschikbaar",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNCLEARED": "Transactie is niet gewist",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_RESERVED": "Transactie is gereserveerd",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_VOID": "Transactie is geannuleerd",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_DECLINED": "Transactie is geweigerd",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REVERSED": "Transactie is teruggedraaid",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REFUNDED": "Transactie wordt terugbetaald",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_EXPIRED": "Transactie is verlopen",
+    "MODULE_PAYMENT_MULTISAFEPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/maestro.png\"><img src=\"images/payment_method/paypal.png\"><img src=\"images/payment_method/ae.png\"></span>"
+}

@@ -1,0 +1,7 @@
+{
+    "NAVBAR_TITLE": "Redeem Gift Voucher",
+    "HEADING_TITLE": "Redeem Gift Voucher",
+    "TEXT_INFORMATION": "",
+    "TEXT_INVALID_GV": "The Gift Voucher number may be invalid or has already been redeemed. To contact the shop owner please use the Contact Page",
+    "TEXT_VALID_GV": "Congratulations, you have redeemed a Gift Voucher worth %s"
+}

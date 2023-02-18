@@ -1,0 +1,48 @@
+<?php 
+define('HEADING_TITLE','Sconti');
+define('TABLE_HEADING_PRODUCTS','Prodotti');
+define('TABLE_HEADING_PRODUCTS_ID', 'ID');
+define('TABLE_HEADING_PRODUCTS_PRICE','Prezzo');
+define('TABLE_HEADING_PRODUCTS_VENDOR_CODE', 'Vendor Code');
+define('TABLE_HEADING_STATUS','Lo stato');
+define('TABLE_HEADING_ACTION','L\'azione');
+define('TABLE_HEADING_MODEL','Modello');
+define('TEXT_SPECIALS_PRODUCT','Oggetto:');
+define('TEXT_SPECIALS_PRODUCT_WITHOUT_ATTRIBUTES', 'Without attributes');
+define('TEXT_SPECIALS_PRODUCT_All_ATTRIBUTES', 'All attributes');
+define('TEXT_SPECIALS_SPECIAL_PRICE','Prezzo speciale:');
+define('TEXT_SPECIALS_EXPIRES_DATE','Valido fino al:');
+define('TEXT_SPECIALS_START_DATE', 'Start Date:');
+define('TEXT_DISPLAY_COUNTDOWN', 'Display countdown:');
+define('TEXT_SPECIALS_PRICE_TIP','<b>Nota:</b><ul><li>È possibile inserire la percentuale di sconto nel campo \"Prezzo Speciale\", ad esempio: <b>20%</b></li><li>Se Si immette un nuovo prezzo, il separatore decimale deve essere \'.\' (punto), ad esempio: <b>49.99</b></li></ul>');
+define('TEXT_SPECIALS_CUSTOMERS','Prezzo Speciale:');
+define('TEXT_ENTER_NAME','Digitare il nome o il codice dell\'articolo:');
+define('TEXT_SPECIALS_GROUPS','Gruppo prezzo speciale:');
+define('TEXT_INFO_DATE_ADDED','Data aggiunta:');
+define('TEXT_INFO_LAST_MODIFIED','Ultima modifica:');
+define('TEXT_INFO_NEW_PRICE','Nuovo Prezzo di:');
+define('TEXT_INFO_ORIGINAL_PRICE','Prezzo originale:');
+define('TEXT_INFO_PERCENTAGE','Percentuale:');
+define('TEXT_INFO_EXPIRES_DATE','Valido fino al:');
+define('TEXT_INFO_STATUS_CHANGE','Modificare lo stato:');
+define('TEXT_INFO_HEADING_DELETE_SPECIALS','Rimuovere Sconto');
+define('TEXT_INFO_DELETE_INTRO','Vuoi davvero cancellare il prezzo per un articolo?');
+define('TABLE_HEADING_NAME','Il nome');
+define('TABLE_HEADING_PRICE','Prezzo');
+define('TABLE_HEADING_PRICE_DISCOUNT','Il prezzo di sconto');
+define('TABLE_HEADING_DISCOUNT_PERCENT','Sconto %');
+define('TABLE_HEADING_DATE_ADD_DISCOUNT','Data di creazione di sconto');
+define('TABLE_HEADING_EXPIRES_DATE','Valida fino al');
+define('TABLE_HEADING_ATTR','Gli attributi');
+define('TEXT_INFO_ONLY_DISCOUNT','Solo con lo sconto');
+define('TEXT_INFO_CATEGORY','Tutte le categorie');
+define('TEXT_INFO_MANUFACTURERS','Tutte le marche');
+define('BUTTON_CANCEL_NEW','Annullare');
+define('BUTTON_EDIT_NEW','Cambiare');
+define('BUTTON_DELETE_NEW','Rimuovere');
+define('BUTTON_NEW_PRODUCT_NEW','Nuovo prodotto');
+
+// Validation
+define('TEXT_SPECIAL_ALREADY_EXIST', 'Special for this product and this customers is already existing.');
+define('TEXT_EMPTY_PRODUCT', 'Choose product.');
+define('TEXT_EMPTY_CUSTOMER', 'Choose customer or group.');

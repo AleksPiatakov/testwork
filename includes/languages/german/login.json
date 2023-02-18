@@ -1,0 +1,16 @@
+{
+    "NAVBAR_TITLE": "Passwort",
+    "HEADING_TITLE": "Lass mich eintreten!",
+    "TEXT_NEW_CUSTOMER": "Anmelden!",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "ein Konto in unserem Shop erstellen, können Sie Einkäufe viel <b>schneller und <\/b>, zusätzlich zu machen, werden Sie in der Lage, die Umsetzung der Aufträge zu überwachen, finden Sie in der Geschichte Ihrer Aufträge.",
+    "TEXT_RETURNING_CUSTOMER": "Ich bin bereits registriert!",
+    "TEXT_LOGIN_ERROR": "<span><b>Fehler:<\/b><\/span> ist ungültig 'E-Mail-Adresse' und\/oder 'Passwort'.",
+    "NO_CUSTOMER": "Es gibt keinen solchen Benutzer in der Datenbank",
+    "NO_PASS": "Falsches Passwort",
+    "SOC_VK": "Vkontakte",
+    "SOC_SITE": "Site",
+    "SOC_ENTER_FROM_OTHER": "Abmelden von einem anderen sozialen Netzwerk oder unter deinem Login \/ Passwort.",
+    "SOC_NOW_FROM": "Jetzt versuchst du, von zu kommen",
+    "SOC_NEED_FROM": "Sie haben sich registriert von",
+    "SOC_LOGIN_THX": "Danke, Sie haben sich erfolgreich angemeldet!"
+}

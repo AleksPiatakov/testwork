@@ -1,0 +1,25 @@
+<?php
+define('YML_IMPORT_UPLOAD_IMAGES', 'Importovat obrázky?');
+define('YML_IMPORT_TRUNCATE_TABLE', 'Vymazat aktuální databázi produktů/kategorií/výrobců/atributů');
+define('YML_IMPORT_UPLOAD_FILE', 'Vyberte soubor .xml');
+define('YML_IMPORT_UPLOAD_BUTTON', 'Nahrát');
+define('YML_IMPORT_MAIN_CATEGORY', 'Importovat do kategorie:');
+define('YML_IMPORT_VENDOR_TEMPLATE', 'Import šablony');
+define('YML_IMPORT_REPLACE_TEXT', 'Přepište pole pro existující produkty:');
+define('YML_IMPORT_REPLACE_NAME', 'Název a popis');
+define('YML_IMPORT_REPLACE_DESCRIPTION', 'Popis');
+define('YML_IMPORT_REPLACE_PRICE', 'Cena');
+define('YML_IMPORT_REPLACE_QUANTITY', 'Množství');
+define('YML_IMPORT_REPLACE_IMAGE', 'Obrázky');
+define('YML_IMPORT_UPLOAD_PRESETS', 'Předvolby');
+define('YML_IMPORT_UPLOAD_TEMPLATE', 'Šablona');
+define('YML_IMPORT_UPLOAD_LINK', 'Odkaz');
+define('YML_IMPORT_UPLOAD_BUTTON_LINK', 'Nahrát odkaz');
+define('YML_IMPORT_UPLOAD_UPLOADED', 'Nahrát');
+define('YML_IMPORT_MISSING_OFFERS', 'Produkty nejsou v souboru:');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_NOTHING', 'Slečna');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_TURN_OFF', 'Zakázat');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_DELETE', 'Smazat');
+define('YML_IMPORT_MARKUP', 'Označení:');
+define('YML_IMPORT_LANGUAGE', 'Jazyk:');
+define('YML_IMPORT_NUMBER', 'číslo');

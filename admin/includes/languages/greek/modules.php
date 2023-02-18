@@ -1,0 +1,510 @@
+<?php
+/*
+  $Id: modules.php,v 1.2 2003/09/24 13:57:08 wilt Exp $
+
+  osCommerce, Open Source E-Commerce Solutions
+  http://www.oscommerce.com
+
+  Copyright (c) 2003 osCommerce
+
+  Released under the GNU General Public License
+*/
+
+define('HEADING_TITLE_MODULES_PAYMENT', 'Modules ΠΛΗΡΩΜΩΝ');
+define('HEADING_TITLE_MODULES_SHIPPING', 'Modules ΑΠΟΣΤΟΛΩΝ');
+define('HEADING_TITLE_MODULES_ORDER_TOTAL', 'Modules ΣΥΝΟΛΙΚΩΝ ΠΑΡΑΓΓΕΛΙΩΝ');
+define('TEXT_INSTALL_INTRO', 'Θέλετε πραγματικά να εγκαταστήσετε αυτήν την ενότητα?');
+define('TEXT_DELETE_INTRO', 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την ενότητα δεν θα ξαναρωτησω ?');
+
+define('TABLE_HEADING_MODULES', 'Modules  ΣΗΜΑΙΝΕΙ Ενότητες ');
+define('TABLE_HEADING_MODULE_DESCRIPTION', 'Περιγραφή');
+define('TABLE_HEADING_SORT_ORDER', 'Σειρά ταξινόμησης');
+define('TABLE_HEADING_ACTION', 'ΔΡΑΣΗ');
+define('TEXT_MODULE_DIRECTORY', 'Module ΚΑΤΑΛΟΓΟΣ :');
+define('TEXT_SAVE_BUTTON', 'Αποθηκεύση');
+define('TEXT_CANCEL_BUTTON', 'Ακύρωση');
+define('TEXT_CLOSE_BUTTON', 'κλεισιμο');
+
+define('MODULE_PAYMENT_CC_STATUS_TITLE', 'Ενεργοποιήστε τη μέθοδο της πιστωτικής κάρτας');
+define('MODULE_PAYMENT_CC_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο Πιστωτικής Κάρτας?');
+define('MODULE_PAYMENT_CC_EMAIL_TITLE', 'E-Mail');
+define('MODULE_PAYMENT_CC_EMAIL_DESC', 'ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ');
+define('MODULE_PAYMENT_CC_ZONE_TITLE', 'Zώνη');
+define('MODULE_PAYMENT_CC_ZONE_DESC', 'Zωνη');
+define('MODULE_PAYMENT_CC_ORDER_STATUS_ID_TITLE', 'Κατάσταση παραγγελίας');
+define('MODULE_PAYMENT_CC_ORDER_STATUS_ID_DESC', 'Κατάσταση παραγγελίας');
+define('MODULE_PAYMENT_CC_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_PAYMENT_CC_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτό module ενοτητητα ');
+
+define('MODULE_PAYMENT_COD_STATUS_TITLE', 'Ενεργοποίηση μεθόδου COD μετρητα στην παραδωση');
+define('MODULE_PAYMENT_COD_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο COD μετρητα στην παραδωση?');
+define('MODULE_PAYMENT_COD_ZONE_TITLE', 'Zωνη');
+define('MODULE_PAYMENT_COD_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_PAYMENT_COD_ORDER_STATUS_ID_TITLE', 'Κατάσταση παραγγελίας');
+define('MODULE_PAYMENT_COD_ORDER_STATUS_ID_DESC', 'Οι εντολές που τοποθετούνται χρησιμοποιώντας αυτήν την ενότητα πληρωμής θα λάβουν την επιλεγμένη κατάσταση.');
+define('MODULE_PAYMENT_COD_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_PAYMENT_COD_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+
+define('MODULE_PAYMENT_FREECHARGER_STATUS_TITLE', 'Ενεργοποίηση της μεθόδου δωρεάν φόρτισης');
+define('MODULE_PAYMENT_FREECHARGER_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο δωρεάν φόρτισης?');
+define('MODULE_PAYMENT_FREECHARGER_ZONE_TITLE', 'Zωνη');
+define('MODULE_PAYMENT_FREECHARGER_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_PAYMENT_FREECHARGER_ORDER_STATUS_ID_TITLE', 'Κατάσταση παραγγελίας');
+define('MODULE_PAYMENT_FREECHARGER_ORDER_STATUS_ID_DESC', 'Οι εντολές που τοποθετούνται χρησιμοποιώντας αυτήν την ενότητα πληρωμής θα λάβουν την επιλεγμένη κατάσταση.');
+define('MODULE_PAYMENT_FREECHARGER_SORT_ORDER_TITLE', 'Sort order μαλλον μικρή παραγγελία η Σειρά ταξινόμησης ');
+define('MODULE_PAYMENT_FREECHARGER_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+
+define('MODULE_PAYMENT_LIQPAY_STATUS_TITLE', 'Ενεργοποίηση της μεθόδου LiqPAY τροπος πληρωμης σαν paypal κατι ');
+define('MODULE_PAYMENT_LIQPAY_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο LiqPAY?');
+define('MODULE_PAYMENT_LIQPAY_ID_TITLE', 'Εμπορικό αναγνωριστικό');
+define('MODULE_PAYMENT_LIQPAY_ID_DESC', 'Ορίστε το αναγνωριστικό εμπόρου σας.');
+define('MODULE_PAYMENT_LIQPAY_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_PAYMENT_LIQPAY_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+define('MODULE_PAYMENT_LIQPAY_ZONE_TITLE', 'Zωνη περιοχη');
+define('MODULE_PAYMENT_LIQPAY_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη. ');
+define('MODULE_PAYMENT_LIQPAY_SECRET_KEY_TITLE', 'Κωδικός πρόσβασης εμπόρου (κλειδι)');
+define('MODULE_PAYMENT_LIQPAY_SECRET_KEY_DESC', 'Εισαγάγετε τον κωδικό του εμπόρου (key).');
+define('MODULE_PAYMENT_LIQPAY_ORDER_STATUS_ID_TITLE', 'Επιλέξτε κατάσταση για πληρωμένη παραγγελία');
+define('MODULE_PAYMENT_LIQPAY_ORDER_STATUS_ID_DESC', 'Επιλέξτε κατάσταση για πληρωμένη παραγγελία ');
+
+define('MODULE_PAYMENT_LIQPAY_DEFAULT_ORDER_STATUS_ID_TITLE', 'Ορίστε την κατάσταση προεπιλεγμένης σειράς');
+define('MODULE_PAYMENT_LIQPAY_DEFAULT_ORDER_STATUS_ID_DESC', 'Ορίστε την κατάσταση προεπιλεγμένης σειράς');
+
+
+define('MODULE_PAYMENT_BANK_TRANSFER_STATUS_TITLE', 'Τραπεζική μεταφορά');
+define('MODULE_PAYMENT_BANK_TRANSFER_STATUS_DESC', 'Θέλετε να χρησιμοποιήσετε ΤΗΝ τραπεζική κατάθεση; 1 - ναι, 0 - όχι');
+define('MODULE_PAYMENT_BANK_TRANSFER_1_TITLE', 'Ονομα τράπεζας');
+define('MODULE_PAYMENT_BANK_TRANSFER_1_DESC', 'Πληκτρολογήστε το όνομα της τράπεζας');
+define('MODULE_PAYMENT_BANK_TRANSFER_2_TITLE', 'Τρεχούμενος λογαριασμός');
+define('MODULE_PAYMENT_BANK_TRANSFER_2_DESC', 'Εισαγάγετε τον τρέχοντα λογαριασμό σας');
+define('MODULE_PAYMENT_BANK_TRANSFER_3_TITLE', 'BIC');
+define('MODULE_PAYMENT_BANK_TRANSFER_3_DESC', 'Καταχωρίστε τον κωδικό αναγνώρισης τραπεζών');
+define('MODULE_PAYMENT_BANK_TRANSFER_4_TITLE', 'Λογαριασμός ΤΡΑΠΕΖΙΚΗ αλληλογραφίας');
+define('MODULE_PAYMENT_BANK_TRANSFER_4_DESC', 'Εισαγάγετε τον λογαριασμό σας ΣΩΣΤΑ!!!!!!!!!');
+define('MODULE_PAYMENT_BANK_TRANSFER_5_TITLE', 'TIN');
+define('MODULE_PAYMENT_BANK_TRANSFER_5_DESC', 'Καταχωρίστε το αναγνωριστικό φορολογικού μητρώου');
+define('MODULE_PAYMENT_BANK_TRANSFER_6_TITLE', 'Αποδέκτης');
+define('MODULE_PAYMENT_BANK_TRANSFER_6_DESC', 'Αποδέκτης πληρωμής');
+define('MODULE_PAYMENT_BANK_TRANSFER_7_TITLE', 'CPR μαλλον iban ');
+define('MODULE_PAYMENT_BANK_TRANSFER_7_DESC', 'Εισαγωγή CPR');
+define('MODULE_PAYMENT_BANK_TRANSFER_8_TITLE', 'Σκοπός');
+define('MODULE_PAYMENT_BANK_TRANSFER_8_DESC', 'Καταχωρίστε τον σκοπό πληρωμής');
+define('MODULE_PAYMENT_BANK_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_PAYMENT_BANK_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα modulle');
+
+define('MODULE_PAYMENT_BANK_CART_TRANSFER_STATUS_TITLE', 'Προπληρωμή στην κάρτα');
+define('MODULE_PAYMENT_BANK_CART_TRANSFER_STATUS_DESC', 'Θέλετε να χρησιμοποιήσετε τη μονάδα συνδρομής κάρτας; 1 - ναι, 0 - όχι');
+define('MODULE_PAYMENT_BANK_CART_TRANSFER_1_TITLE', 'Όνομα τράπεζας');
+define('MODULE_PAYMENT_BANK_CART_TRANSFER_1_DESC', 'Εισαγάγετε το όνομα της τράπεζας');
+define('MODULE_PAYMENT_BANK_CART_TRANSFER_2_TITLE', 'Αριθμός κάρτας');
+define('MODULE_PAYMENT_BANK_CART_TRANSFER_2_DESC', 'Εισαγάγετε τον αριθμό της κάρτας σας');
+define('MODULE_PAYMENT_BANK_CART_TRANSFER_3_TITLE', 'Παραλήπτης');
+define('MODULE_PAYMENT_BANK_CART_TRANSFER_3_DESC', 'Παραλήπτης πληρωμής');
+define('MODULE_PAYMENT_BANK_CART_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_PAYMENT_BANK_CART_SORT_ORDER_DESC', 'Σειρά ταξινόμησης μονάδων');
+
+define('MODULE_PAYMENT_WEBMONEY_STATUS_TITLE', 'WebMoney Τροπο πληρωμής');
+define('MODULE_PAYMENT_WEBMONEY_STATUS_DESC', 'Θέλετε να χρησιμοποιήσετε το WebMoney module? 1 - ΝΑΙ, 0 - ΟΧΙ');
+define('MODULE_PAYMENT_WEBMONEY_1_TITLE', 'Η WebMoney ΤΑΥΤΟΤΗΤΑ ΣΑΣ');
+define('MODULE_PAYMENT_WEBMONEY_1_DESC', 'Εισάγετε ΤΗΝ  WebMoney ID');
+define('MODULE_PAYMENT_WEBMONEY_2_TITLE', 'Αριθμός του πορτοφολιού σου R');
+define('MODULE_PAYMENT_WEBMONEY_2_DESC', 'Καταχωρίστε τον αριθμό του πορτοφολιού σας R');
+define('MODULE_PAYMENT_WEBMONEY_3_TITLE', 'Αριθμός του πορτοφολιού σας Ζ');
+define('MODULE_PAYMENT_WEBMONEY_3_DESC', 'Πληκτρολογήστε τον αριθμό του πορτοφολιού σας Ζ');
+define('MODULE_PAYMENT_WEBMONEY_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_PAYMENT_WEBMONEY_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα');
+
+// -----------------------SHIPPING!!!!!---------------------------//
+
+define('MODULE_SHIPPING_EXPRESS_STATUS_TITLE', 'Ενεργοποιήστε τη μέθοδο ταχείας αποστολής');
+define('MODULE_SHIPPING_EXPRESS_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο ταχείας αποστολής?');
+define('MODULE_SHIPPING_EXPRESS_COST_TITLE', 'Κόστος');
+define('MODULE_SHIPPING_EXPRESS_COST_DESC', 'Κόστος για αυτήν τη μέθοδο αποστολής');
+define('MODULE_SHIPPING_EXPRESS_TAX_CLASS_TITLE', 'ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗ');
+define('MODULE_SHIPPING_EXPRESS_TAX_CLASS_DESC', 'ΑΞΊΑ ΕΠΙΠΛΈΩΝ ΧΡΕΩΣΗΣ.');
+define('MODULE_SHIPPING_EXPRESS_ZONE_TITLE', 'ZΩΝΗ');
+define('MODULE_SHIPPING_EXPRESS_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_EXPRESS_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_EXPRESS_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+define('MODULE_SHIPPING_EXPRESS_SHIPPING_PRICE_TEXT_TITLE', 'Κείμενο τιμής παράδοσης');
+define('MODULE_SHIPPING_EXPRESS_SHIPPING_PRICE_TEXT_DESC', 'Αφήστε κενό εάν θέλετε να χρησιμοποιήσετε την τιμή που καθορίζεται στο πεδίο κόστους');
+
+define('MODULE_SHIPPING_FLAT_STATUS_TITLE', 'Ενεργοποιήστε τη ΓΕΝΙΚΗ FLAT μέθοδο');
+define('MODULE_SHIPPING_FLAT_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε την ΓΕΝΙΚΗ FLAT μέθοδο?');
+define('MODULE_SHIPPING_FLAT_COST_TITLE', 'Κόστος');
+define('MODULE_SHIPPING_FLAT_COST_DESC', 'Κόστος για αυτήν τη μέθοδο αποστολής');
+define('MODULE_SHIPPING_FLAT_TAX_CLASS_TITLE', 'ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗ');
+define('MODULE_SHIPPING_FLAT_TAX_CLASS_DESC', 'ΠΟΣΟ ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗΣ.');
+define('MODULE_SHIPPING_FLAT_ZONE_TITLE', 'ZΩΝΗ');
+define('MODULE_SHIPPING_FLAT_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_FLAT_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_FLAT_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτη ΜΕΘΟΔΟ  module.');
+
+define('MODULE_SHIPPING_FREESHIPPER_STATUS_TITLE', 'Ενεργοποίηση δωρεάν αποστολής');
+define('MODULE_SHIPPING_FREESHIPPER_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη δωρεάν αποστολή?');
+define('MODULE_SHIPPING_FREESHIPPER_COST_TITLE', 'Κόστος');
+define('MODULE_SHIPPING_FREESHIPPER_COST_DESC', 'Κόστος για αυτήν τη μέθοδο αποστολής.');
+define('MODULE_SHIPPING_FREESHIPPER_TAX_CLASS_TITLE', 'ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗ');
+define('MODULE_SHIPPING_FREESHIPPER_TAX_CLASS_DESC', 'ΠΟΣΟ ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗΣ.');
+define('MODULE_SHIPPING_FREESHIPPER_ZONE_TITLE', 'Zωνη');
+define('MODULE_SHIPPING_FREESHIPPER_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_FREESHIPPER_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_FREESHIPPER_SORT_ORDER_DESC', 'Εισαγάγετε σειρά ταξινόμησης για αυτήν την μεθοδο.');
+
+define('MODULE_SHIPPING_ITEM_STATUS_TITLE', 'Ενεργοποιήστε τη μέθοδο ανά στοιχείο αποστολή/πληρωμη');
+define('MODULE_SHIPPING_ITEM_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο ανά στοιχείο αποστολή/πληρωμη ?');
+define('MODULE_SHIPPING_ITEM_COST_TITLE', 'Κόστος');
+define('MODULE_SHIPPING_ITEM_COST_DESC', 'Το κόστος για αυτήν τη μέθοδο αποστολής θα πολλαπλασιαστεί με τον αριθμό των στοιχείων αποστολή/πληρωμη στη σειρά');
+define('MODULE_SHIPPING_ITEM_HANDLING_TITLE', 'Κόστος');
+define('MODULE_SHIPPING_ITEM_HANDLING_DESC', 'Κόστος για αυτήν τη μέθοδο αποστολής.');
+define('MODULE_SHIPPING_ITEM_TAX_CLASS_TITLE', 'ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗ');
+define('MODULE_SHIPPING_ITEM_TAX_CLASS_DESC', 'αξια ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗ.');
+define('MODULE_SHIPPING_ITEM_ZONE_TITLE', 'Zωνη');
+define('MODULE_SHIPPING_ITEM_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_ITEM_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_ITEM_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτόmodule.');
+
+define('MODULE_SHIPPING_NWPOCHTA_STATUS_TITLE', 'Ενεργοποίηση μεθόδου ΕΛΤΑ');
+define('MODULE_SHIPPING_NWPOCHTA_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο ΕΛΤΑ ?');
+define('MODULE_SHIPPING_NWPOCHTA_CUSTOM_NAME_TITLE', 'Προσαρμοσμένο όνομα μονάδας');
+define('MODULE_SHIPPING_NWPOCHTA_CUSTOM_NAME_DESC', 'Αφήστε κενό αν θέλετε να χρησιμοποιήσετε το προεπιλεγμένο όνομα της μονάδας');
+define('MODULE_SHIPPING_NWPOCHTA_COST_TITLE', 'Κόστος');
+define('MODULE_SHIPPING_NWPOCHTA_COST_DESC', 'Κόστος για αυτήν τη μέθοδο αποστολής.');
+define('MODULE_SHIPPING_NWPOCHTA_TAX_CLASS_TITLE', 'ΧΡΕΩΣΗ');
+define('MODULE_SHIPPING_NWPOCHTA_TAX_CLASS_DESC', 'ΧΡΕΩΣΗ ποσό .');
+define('MODULE_SHIPPING_NWPOCHTA_ZONE_TITLE', 'Zωνη');
+define('MODULE_SHIPPING_NWPOCHTA_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_NWPOCHTA_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_NWPOCHTA_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+define('MODULE_SHIPPING_NWPOCHTA_SHIPPING_PRICE_TEXT_TITLE', 'Κείμενο τιμής παράδοσης');
+define('MODULE_SHIPPING_NWPOCHTA_SHIPPING_PRICE_TEXT_DESC', 'Αφήστε κενό εάν θέλετε να χρησιμοποιήσετε την τιμή που καθορίζεται στο πεδίο κόστους');
+define('MODULE_SHIPPING_NWPOSHTANEW_STATUS_TITLE', 'Ενεργοποίηση νέας λειτουργικής μονάδας αλληλογραφίας');
+define('MODULE_SHIPPING_NWPOSHTANEW_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη λειτουργική μονάδα New Mail;');
+define('MODULE_SHIPPING_NWPOSHTANEW_COST_TITLE', 'Κόστος');
+define('MODULE_SHIPPING_NWPOSHTANEW_CUSTOM_NAME_TITLE', 'Προσαρμοσμένο όνομα');
+define('MODULE_SHIPPING_NWPOSHTANEW_CUSTOM_NAME_DESC', 'Αφήστε αυτό το πεδίο κενό εάν θέλετε να χρησιμοποιήσετε το προεπιλεγμένο όνομα');
+define('MODULE_SHIPPING_NWPOSHTANEW_COST_DESC', 'Το κόστος χρήσης αυτής της μεθόδου αποστολής.');
+define('MODULE_SHIPPING_NWPOSHTANEW_TAX_CLASS_TITLE', 'Φόρος');
+define('MODULE_SHIPPING_NWPOSHTANEW_TAX_CLASS_DESC', 'Χρήση φόρου.');
+define('MODULE_SHIPPING_NWPOSHTANEW_ZONE_TITLE', 'Ζώνη');
+define('MODULE_SHIPPING_NWPOSHTANEW_ZONE_DESC', 'Εάν επιλεγεί μια ζώνη, αυτή η μονάδα αποστολής θα είναι ορατή μόνο στους πελάτες στην επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_NWPOSHTANEW_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_NWPOSHTANEW_SORT_ORDER_DESC', 'Σειρά ταξινόμησης μονάδων.');
+define('MODULE_SHIPPING_NWPOSHTANEW_API_KEY_TITLE', 'Κλειδί API');
+define('MODULE_SHIPPING_NWPOSHTANEW_API_KEY_DESCRIPTION', 'Μπορεί να απαιτείται ενημέρωση αποθηκών');
+define('MODULE_SHIPPING_NWPOSHTANEW_SHOW_SHIPPING_COST_STATUS_TITLE', 'Εμφάνιση κόστους αποστολής');
+define('MODULE_SHIPPING_NWPOSHTANEW_SHIPPING_PRICE_TEXT_TITLE', 'Κείμενο τιμής παράδοσης');
+define('MODULE_SHIPPING_NWPOSHTANEW_SHIPPING_PRICE_TEXT_DESC', 'Αφήστε κενό εάν θέλετε να χρησιμοποιήσετε την τιμή που καθορίζεται στο πεδίο κόστους');
+define('MODULE_SHIPPING_NWPOSHTANEW_AUTODETECTION_DEPARTURE_TYPE_TITLE', 'Auto-detection of shipment type');
+define('MODULE_SHIPPING_NWPOSHTANEW_AUTODETECTION_DEPARTURE_TYPE_DESC', 'Detect shipment type automatically?');
+define('MODULE_SHIPPING_NWPOSHTANEW_SENDER_REGION_TITLE', 'Sender area');
+define('MODULE_SHIPPING_NWPOSHTANEW_SENDER_REGION_DESC', 'Specify sender area');
+define('MODULE_SHIPPING_NWPOSHTANEW_SENDER_CITY_NAME_TITLE', 'Sender city');
+define('MODULE_SHIPPING_NWPOSHTANEW_SENDER_CITY_NAME_DESC', '\Select the city from which the order will be sent');
+define('MODULE_SHIPPING_NWPOSHTANEW_SENDER_ADDRESS_NAME_TITLE', 'Sender\'s address');
+define('MODULE_SHIPPING_NWPOSHTANEW_SENDER_ADDRESS_NAME_DESC', '\Select the address from which the order will be sent');
+define('MODULE_SHIPPING_NWPOSHTANEW_DEPARTURE_TYPE_TITLE', 'Departure type');
+define('MODULE_SHIPPING_NWPOSHTANEW_DEPARTURE_TYPE_DESC', 'Specify the type of shipment.');
+define('MODULE_SHIPPING_NWPOSHTANEW_SEATS_AMOUNT_TITLE', 'Number of seats');
+define('MODULE_SHIPPING_NWPOSHTANEW_SEATS_AMOUNT_DESC', 'Specify the default number of seats. If the field is left blank, then the number of seats will correspond to the number of products in the order.');
+define('MODULE_SHIPPING_NWPOSHTANEW_DEPARTURE_DESCRIPTION_TITLE', 'Departure Description');
+define('MODULE_SHIPPING_NWPOSHTANEW_DEPARTURE_DESCRIPTION_DESC', 'It is used as the default description of the product when creating "EN", it is convenient if there are many products in the store that have the same description.');
+define('MODULE_SHIPPING_NWPOSHTANEW_BACKWARD_DELIVERY_TITLE', 'Return shipping');
+define('MODULE_SHIPPING_NWPOSHTANEW_BACKWARD_DELIVERY_DESC', 'Specify the default return shipping type.');
+define('MODULE_SHIPPING_NWPOSHTANEW_DECLARED_COST_TITLE', 'Declared value');
+define('MODULE_SHIPPING_NWPOSHTANEW_DECLARED_COST_DESC', 'Specify the components for the declared value of the shipment.');
+define('MODULE_SHIPPING_NWPOSHTANEW_DECLARED_COST_DEFAULT_TITLE', 'Declared default value');
+define('MODULE_SHIPPING_NWPOSHTANEW_DECLARED_COST_DEFAULT_DESC', 'The value will be used if the declared value is not set or if the order is not paid by cash on delivery.');
+define('MODULE_SHIPPING_NWPOSHTANEW_BACKWARD_DELIVERY_PAYER_TITLE', 'Return shipping payer');
+define('MODULE_SHIPPING_NWPOSHTANEW_BACKWARD_DELIVERY_PAYER_DESC', 'Specify the default return shipping payer.');
+define('MODULE_SHIPPING_NWPOSHTANEW_PAYMENT_TYPE_TITLE', 'Payment form');
+define('MODULE_SHIPPING_NWPOSHTANEW_PAYMENT_TYPE_DESC', 'Specify the default form of payment.');
+define('MODULE_SHIPPING_NWPOSHTANEW_PAYMENT_COD_TITLE', 'Cash on delivery payment method');
+define('MODULE_SHIPPING_NWPOSHTANEW_PAYMENT_COD_DESC', 'Specify the payment method corresponding to the cash on delivery.');
+define('MODULE_SHIPPING_NWPOSHTANEW_MONEY_TRANSFER_METHOD_TITLE', 'How to receive a money transfer');
+define('MODULE_SHIPPING_NWPOSHTANEW_MONEY_TRANSFER_METHOD_DESC', 'Specify the method of receiving money transfer.');
+define('MODULE_SHIPPING_NWPOSHTANEW_PAYMENT_CONTROL_TITLE', 'Payment control');
+define('MODULE_SHIPPING_NWPOSHTANEW_PAYMENT_CONTROL_DESC', 'Specify components for payment control. If items are marked, the payment control will replace the money transfer.');
+define('MODULE_SHIPPING_NWPOSHTANEW_DEPARTURE_ADDITIONAL_INFORMATION_TITLE', 'Additional shipping information');
+define('MODULE_SHIPPING_NWPOSHTANEW_DEPARTURE_ADDITIONAL_INFORMATION_DESC', 'It is used as a template for the field of additional information about the shipment when creating a waybill. Macros can be used. When using product macros, separate the text into two blocks using the symbol "|" (use product macros in the second block).');
+define('MODULE_SHIPPING_NWPOSHTANEW_PRINT_FORMAT_TITLE', 'Print format');
+define('MODULE_SHIPPING_NWPOSHTANEW_PRINT_FORMAT_DESC', 'Specify the print format.');
+define('MODULE_SHIPPING_NWPOSHTANEW_TEMPLATE_TYPE_TITLE', 'Template type');
+define('MODULE_SHIPPING_NWPOSHTANEW_TEMPLATE_TYPE_DESC', 'Specify template type.');
+define('MODULE_SHIPPING_NWPOSHTANEW_PRINT_TYPE_TITLE', 'Print type');
+define('MODULE_SHIPPING_NWPOSHTANEW_PRINT_TYPE_DESC', 'Specify Print Type.');
+define('MODULE_SHIPPING_NWPOSHTANEW_PRINT_START_TITLE', 'Place of printing');
+define('MODULE_SHIPPING_NWPOSHTANEW_PRINT_START_DESC', 'Specify the location where printing will start.');
+define('MODULE_SHIPPING_NWPOSHTANEW_NUMBER_OF_COPIES_TITLE', 'Number of copies');
+define('MODULE_SHIPPING_NWPOSHTANEW_NUMBER_OF_COPIES_DESC', 'Specify the number of copies.');
+define('MODULE_SHIPPING_NWPOSHTANEW_DISPLAY_ALL_CONSIGNMENTS_TITLE', 'Display all invoices for an account');
+define('MODULE_SHIPPING_NWPOSHTANEW_DISPLAY_ALL_CONSIGNMENTS_DESC', 'Show all invoices for a postal company account? If you select "No", then only those invoices that are assigned to the orders of this online store will be displayed.');
+define('MODULE_SHIPPING_NWPOSHTANEW_CONSIGNMENT_DISPLAYED_INFORMATION_TITLE', 'Displayed Information');
+define('MODULE_SHIPPING_NWPOSHTANEW_CONSIGNMENT_DISPLAYED_INFORMATION_DESC', 'Select information to display.');
+define('MODULE_SHIPPING_NWPOSHTANEW_DELIVERY_PAYER_TITLE', 'Delivery payer');
+define('MODULE_SHIPPING_NWPOSHTANEW_DELIVERY_PAYER_DESC', 'Specify the default shipping payer');
+define('MODULE_SHIPPING_NWPOSHTANEW_WEIGHT_TITLE', 'The weight');
+define('MODULE_SHIPPING_NWPOSHTANEW_WEIGHT_DESC', 'Specify the default actual weight');
+define('MODULE_SHIPPING_NWPOSHTANEW_DIMENSIONS_W_TITLE', 'Width');
+define('MODULE_SHIPPING_NWPOSHTANEW_DIMENSIONS_W_DESC', 'Specify a default width');
+define('MODULE_SHIPPING_NWPOSHTANEW_DIMENSIONS_L_TITLE', 'Length');
+define('MODULE_SHIPPING_NWPOSHTANEW_DIMENSIONS_L_DESC', 'Specify a default length');
+define('MODULE_SHIPPING_NWPOSHTANEW_DIMENSIONS_H_TITLE', 'Height');
+define('MODULE_SHIPPING_NWPOSHTANEW_DIMENSIONS_H_DESC', 'Specify a default height');
+define('MODULE_SHIPPING_NWPOSHTANEW_DEBUGGING_MODE_TITLE', 'Debug mode');
+define('MODULE_SHIPPING_NWPOSHTANEW_DEBUGGING_MODE_DESC', 'Enable/disable debug mode');
+define('MODULE_SHIPPING_NWPOSHTANEW_SAVE_TTN_ONE_CLICK_TITLE', 'Create TTN in one click');
+define('MODULE_SHIPPING_NWPOSHTANEW_SAVE_TTN_ONE_CLICK_DESC', 'Enable / disable the creation of TTN in one click');
+define('MODULE_SHIPPING_NWPOSHTANEW_cn_identifier', 'Invoice ID');
+define('MODULE_SHIPPING_NWPOSHTANEW_cn_number', 'invoice number');
+define('MODULE_SHIPPING_NWPOSHTANEW_order_number', 'order no.');
+define('MODULE_SHIPPING_NWPOSHTANEW_create_date', 'date of creation');
+define('MODULE_SHIPPING_NWPOSHTANEW_actual_shipping_date', 'Actual departure date');
+define('MODULE_SHIPPING_NWPOSHTANEW_preferred_shipping_date', 'Desired delivery date');
+define('MODULE_SHIPPING_NWPOSHTANEW_estimated_shipping_date', 'Estimated delivery date');
+define('MODULE_SHIPPING_NWPOSHTANEW_recipient_date', 'Date of receiving');
+define('MODULE_SHIPPING_NWPOSHTANEW_last_updated_status_date', 'Date of last status update');
+define('MODULE_SHIPPING_NWPOSHTANEW_sender', 'Sender');
+define('MODULE_SHIPPING_NWPOSHTANEW_sender_address', 'Sender\'s address');
+define('MODULE_SHIPPING_NWPOSHTANEW_recipient', 'Recipient');
+define('MODULE_SHIPPING_NWPOSHTANEW_recipient_address', 'Address of the recipient');
+define('MODULE_SHIPPING_NWPOSHTANEW_weight', 'Weight, kg');
+define('MODULE_SHIPPING_NWPOSHTANEW_seats_amount', 'Number of seats');
+define('MODULE_SHIPPING_NWPOSHTANEW_declared_cost', 'Declared value');
+define('MODULE_SHIPPING_NWPOSHTANEW_shipping_cost', 'Cost of delivery');
+define('MODULE_SHIPPING_NWPOSHTANEW_backward_delivery', 'Return shipping');
+define('MODULE_SHIPPING_NWPOSHTANEW_service_type', 'Delivery technology');
+define('MODULE_SHIPPING_NWPOSHTANEW_description', 'Description');
+define('MODULE_SHIPPING_NWPOSHTANEW_additional_information', 'Additional Information');
+define('MODULE_SHIPPING_NWPOSHTANEW_payer_type', 'Delivery payer');
+define('MODULE_SHIPPING_NWPOSHTANEW_payment_method', 'Payment type');
+define('MODULE_SHIPPING_NWPOSHTANEW_departure_type', 'Departure type');
+define('MODULE_SHIPPING_NWPOSHTANEW_packing_number', 'Packing number');
+define('MODULE_SHIPPING_NWPOSHTANEW_rejection_reason', 'Reason for not delivering');
+define('MODULE_SHIPPING_NWPOSHTANEW_status', 'Status');
+define('MODULE_SHIPPING_NWPOSHTANEW_Cargo', 'Cargo');
+define('MODULE_SHIPPING_NWPOSHTANEW_Parcel', 'Parcel');
+define('MODULE_SHIPPING_NWPOSHTANEW_Documents', 'Documents');
+define('MODULE_SHIPPING_NWPOSHTANEW_TiresWheels', 'TiresWheels');
+define('MODULE_SHIPPING_NWPOSHTANEW_Pallet', 'Pallet');
+define('MODULE_SHIPPING_NWPOSHTANEW_N', 'No return shipping');
+define('MODULE_SHIPPING_NWPOSHTANEW_Money', 'Money');
+define('MODULE_SHIPPING_NWPOSHTANEW_ot_shipping', 'Delivery');
+define('MODULE_SHIPPING_NWPOSHTANEW_ot_subtotal', 'Preliminary Total');
+define('MODULE_SHIPPING_NWPOSHTANEW_ot_total', 'Order Total');
+define('MODULE_SHIPPING_NWPOSHTANEW_Sender', 'Sender');
+define('MODULE_SHIPPING_NWPOSHTANEW_Recipient', 'Recipient');
+define('MODULE_SHIPPING_NWPOSHTANEW_ThirdPerson', 'Third Person');
+define('MODULE_SHIPPING_NWPOSHTANEW_on_warehouse', 'On warehouse');
+define('MODULE_SHIPPING_NWPOSHTANEW_to_payment_card', 'To payment card');
+define('MODULE_SHIPPING_NWPOSHTANEW_document_A4', 'Document A4 ');
+define('MODULE_SHIPPING_NWPOSHTANEW_document_A5', 'Document A5 ');
+define('MODULE_SHIPPING_NWPOSHTANEW_markings_A4', 'Markings A4 ');
+define('MODULE_SHIPPING_NWPOSHTANEW_html', 'HTML');
+define('MODULE_SHIPPING_NWPOSHTANEW_pdf', 'PDF');
+define('MODULE_SHIPPING_NWPOSHTANEW_horPrint', 'Horizontal');
+define('MODULE_SHIPPING_NWPOSHTANEW_verPrint', 'Vertical');
+define('MODULE_SHIPPING_NWPOSHTANEW_Cash', 'Cash');
+define('MODULE_SHIPPING_NWPOSHTANEW_NonCash', 'Non Cash');
+
+define('MODULE_SHIPPING_CUSTOMSHIPPER_STATUS_TITLE', 'Παράδοση με κούριερ');
+define('MODULE_SHIPPING_CUSTOMSHIPPER_NAME_TITLE', 'Module name');
+define('MODULE_SHIPPING_CUSTOMSHIPPER_WAY_TITLE', 'Description');
+define('MODULE_SHIPPING_CUSTOMSHIPPER_COST_TITLE', 'κόστος');
+define('MODULE_SHIPPING_CUSTOMSHIPPER_TAX_CLASS_TITLE', 'ΧΡΕΩΣΗ');
+define('MODULE_SHIPPING_CUSTOMSHIPPER_ZONE_TITLE', 'Zώνη');
+define('MODULE_SHIPPING_CUSTOMSHIPPER_ZONE_DESC', 'Εάν η ζώνη είναι επιλεγμένη, τότε αυτό το στοιχείο παράδοσης θα είναι ορατό μόνο στους αγοραστές από την επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_CUSTOMSHIPPER_SORT_ORDER_TITLE', 'Ταξινόμηση σειρά');
+
+define('MODULE_SHIPPING_PERCENT_STATUS_TITLE', 'Ενεργοποίηση κόστος μεταφορικών μεχρι μια αξία μεθόδου');
+define('MODULE_SHIPPING_PERCENT_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε της κόστος μεταφορικών μεχρι μια αξία μεθόδου?');
+define('MODULE_SHIPPING_PERCENT_RATE_TITLE', 'κοστος επι Τοις εκατό  (δεν ξερω μπορεί να κανω λαθος ειναι μεταφραση απο ουκρανικα)  ');
+define('MODULE_SHIPPING_PERCENT_RATE_DESC', 'Κόστος παράδοσης από αυτήν την ενότητα ως ποσοστό του συνολικού κόστους της παραγγελίας, τιμές από 0,01 έως 0,99');
+define('MODULE_SHIPPING_PERCENT_LESS_THEN_TITLE', 'Ενιαιο κόστος για παραγγελίες μέχρι');
+define('MODULE_SHIPPING_PERCENT_LESS_THEN_DESC', 'Ενιαίο κόστος αποστολής για παραγγελίες μέχρι την καθορισμένη τιμή.');
+define('MODULE_SHIPPING_PERCENT_FLAT_USE_TITLE', 'Αξία ποσό (μαλλον) ');
+define('MODULE_SHIPPING_PERCENT_FLAT_USE_DESC', 'Ενιαίο κόστος αποστολής ως ποσοστό της συνολικής αξίας παραγγελίας, ισχύει για όλες τις παραγγελίες.');
+define('MODULE_SHIPPING_PERCENT_TAX_CLASS_TITLE', 'ΧΡΕΩΣΗ');
+define('MODULE_SHIPPING_PERCENT_TAX_CLASS_DESC', 'ποσό χρεωσης.');
+define('MODULE_SHIPPING_PERCENT_ZONE_TITLE', 'Zωνη');
+define('MODULE_SHIPPING_PERCENT_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_PERCENT_SORT_ORDER_TITLE', 'Ταξινόμηση σειράς');
+define('MODULE_SHIPPING_PERCENT_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+
+define('MODULE_SHIPPING_SAT_STATUS_TITLE', 'Ενεργοποιήστε τη μέθοδο με μεταφορική εταιρία (δικια μου μέθοδος) ');
+define('MODULE_SHIPPING_SAT_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο με μεταφορική εταιρία;');
+define('MODULE_SHIPPING_SAT_COST_TITLE', 'Κόστος');
+define('MODULE_SHIPPING_SAT_COST_DESC', 'Κόστος για αυτήν τη μέθοδο αποστολής.');
+define('MODULE_SHIPPING_SAT_TAX_CLASS_TITLE', 'ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗ');
+define('MODULE_SHIPPING_SAT_TAX_CLASS_DESC', 'ΕΠΙΠΛΕΟΝ ΧΡΕΩΣΗ.');
+define('MODULE_SHIPPING_SAT_ZONE_TITLE', 'Zωνη');
+define('MODULE_SHIPPING_SAT_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_SAT_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_SAT_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+
+define('MODULE_SHIPPING_TABLE_STATUS_TITLE', 'Ενεργοποίηση μεθόδου βαση κιλών');
+define('MODULE_SHIPPING_TABLE_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο βαση κιλών ?');
+define('MODULE_SHIPPING_TABLE_COST_TITLE', 'κοστος');
+define('MODULE_SHIPPING_TABLE_COST_DESC', 'Το κόστος αποστολής υπολογίζεται με βάση το συνολικό βάρος της παραγγελίας ή το συνολικό κόστος της παραγγελίας. Για παράδειγμα: 25: 8.50,50: 5.50, κλπ ... Αυτό σημαίνει ότι μέχρι και 25 κιλα η παράδοση θα κοστίσει 8.50, από 25 κιλα έως 50 κιλα θα κοστίσει 5.50 , κ.λπ..');
+define('MODULE_SHIPPING_TABLE_MODE_TITLE', 'Μέθοδος υπολογισμού');
+define('MODULE_SHIPPING_TABLE_MODE_DESC', 'Το κόστος υπολογισμού της παράδοσης με βάση το συνολικό βάρος της παραγγελίας (βάρους) ή με βάση το συνολικό κόστος της παραγγελίας (τιμή).');
+define('MODULE_SHIPPING_TABLE_HANDLING_TITLE', 'κόστος');
+define('MODULE_SHIPPING_TABLE_HANDLING_DESC', 'Κόστος για αυτήν τη μέθοδο αποστολής.');
+define('MODULE_SHIPPING_TABLE_TAX_CLASS_TITLE', 'επιπλεον χρεωση?');
+define('MODULE_SHIPPING_TABLE_TAX_CLASS_DESC', 'επιπλεον χρεωση.');
+define('MODULE_SHIPPING_TABLE_ZONE_TITLE', 'Zωνη');
+define('MODULE_SHIPPING_TABLE_ZONE_DESC', 'Εάν έχει οριστεί ζώνη, αυτή η ενότητα θα είναι διαθέσιμη μόνο για πελάτες από την επιλεγμένη ζώνη.');
+define('MODULE_SHIPPING_TABLE_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_TABLE_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την μεθοδο.');
+
+define('MODULE_SHIPPING_ZONES_STATUS_TITLE', 'Ενεργοποίηση της μεθόδου με βαση Ζώνες');
+define('MODULE_SHIPPING_ZONES_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο Ζώνες;?');
+define('MODULE_SHIPPING_ZONES_TAX_CLASS_TITLE', 'επιπλεον χρεωση');
+define('MODULE_SHIPPING_ZONES_TAX_CLASS_DESC', 'βαλε επιπλεον χρεωση.');
+define('MODULE_SHIPPING_ZONES_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_SHIPPING_ZONES_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την μεθοδο.');
+define('MODULE_SHIPPING_ZONES_COUNTRIES_1_TITLE', 'περιοχες  1 ζώνης');
+define('MODULE_SHIPPING_ZONES_COUNTRIES_1_DESC', 'Λίστα περιοχων με κόμμα για τη ζώνη 1.');
+define('MODULE_SHIPPING_ZONES_COST_1_TITLE', 'Έξοδα αποστολής για 1 ζώνη');
+define('MODULE_SHIPPING_ZONES_COST_1_DESC', 'Κόστος παράδοσης με κόμμα για τη ζώνη 1 με βάση το μέγιστο κόστος της παραγγελίας. Για παράδειγμα: 3: 8.50.7: 10.50, ... Αυτό σημαίνει ότι το κόστος αποστολής για παραγγελίες βάρους μέχρι 3 κιλά. θα κοστίσει 8,50 για αγοραστές από χώρες 1 ζώνης.');
+define('MODULE_SHIPPING_ZONES_HANDLING_1_TITLE', 'Κόστος για 1 ζώνη');
+define('MODULE_SHIPPING_ZONES_HANDLING_1_DESC', 'Το κόστος χρήσης αυτής της μεθόδου παράδοσης.');
+
+// -----------------------ORDER TOTAL!!!!!---------------------------//
+
+define('MODULE_ORDER_TOTAL_BETTER_TOGETHER_STATUS_TITLE', 'Ενεργοποίηση μεθόδου "Related discount"');
+define('MODULE_ORDER_TOTAL_BETTER_TOGETHER_STATUS_DESC', 'Θέλετε να ενεργοποιήσετε "Related discount"?');
+define('MODULE_ORDER_TOTAL_OT_BETTER_TOGETHER_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_BETTER_TOGETHER_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα');
+define('MODULE_ORDER_TOTAL_BETTER_TOGETHER_INC_TAX_TITLE', 'Συμπεριλάβετε επιπλεον χρεωση');
+define('MODULE_ORDER_TOTAL_BETTER_TOGETHER_INC_TAX_DESC', 'αξια επιπλεον χρεωση');
+define('MODULE_ORDER_TOTAL_BETTER_TOGETHER_CALC_TAX_TITLE', 'επαναυπολογιστε επιπλεον χρεωση ');
+define('MODULE_ORDER_TOTAL_BETTER_TOGETHER_CALC_TAX_DESC', 'επαναυπολογιστε επιπλεον χρεωση');
+
+define('MODULE_ORDER_TOTAL_COUPON_STATUS_TITLE', 'Εμφάνιση ολικής χωρητικότητας');
+define('MODULE_ORDER_TOTAL_COUPON_STATUS_DESC', 'Θέλετε να εμφανιζετε το ονομα του κουπονιού?');
+define('MODULE_ORDER_TOTAL_OT_COUPON_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_COUPON_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την μέθοδο.');
+define('MODULE_ORDER_TOTAL_COUPON_INC_SHIPPING_TITLE', 'Συμπεριλάβετε την παράδοση');
+define('MODULE_ORDER_TOTAL_COUPON_INC_SHIPPING_DESC', 'Συμπεριλάβετε την παράδοση στον υπολογισμό.');
+define('MODULE_ORDER_TOTAL_COUPON_INC_TAX_TITLE', 'Συμπεριλάβετε τυχον επιπλεον χρεωση.');
+define('MODULE_ORDER_TOTAL_COUPON_INC_TAX_DESC', 'Συμπεριλάβετε τυχον € επιπλεον χρεωση.');
+define('MODULE_ORDER_TOTAL_COUPON_CALC_TAX_TITLE', 'επαναυπολογιστε επιπλεον χρεωση');
+define('MODULE_ORDER_TOTAL_COUPON_CALC_TAX_DESC', 'επαναυπολογιστε επιπλεον χρεωση.');
+define('MODULE_ORDER_TOTAL_COUPON_TAX_CLASS_TITLE', 'αξια');
+define('MODULE_ORDER_TOTAL_COUPON_TAX_CLASS_DESC', 'Χρησιμοποιήστε αξια για κουπόνια.');
+
+define('MODULE_ORDER_TOTAL_GV_STATUS_TITLE', 'Παραδωση με δωροεπιταγή');
+define('MODULE_ORDER_TOTAL_GV_STATUS_DESC', 'Θέλετε να δείξετε την Δωροεπιταγές?');
+define('MODULE_ORDER_TOTAL_OT_GV_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_GV_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την μεθοδο.');
+define('MODULE_ORDER_TOTAL_GV_QUEUE_TITLE', 'Ενεργοποίηση πιστοποιητικού');
+define('MODULE_ORDER_TOTAL_GV_QUEUE_DESC', 'Θέλετε να ενεργοποιήσετε με μη αυτόματο τρόπο τις αγορές σας Δωροεπιταγές?');
+define('MODULE_ORDER_TOTAL_GV_INC_SHIPPING_TITLE', 'Συμπεριλάβετε τη αποστολή');
+define('MODULE_ORDER_TOTAL_GV_INC_SHIPPING_DESC', 'Συμπεριλάβετε την παράδοση στον υπολογισμό.');
+define('MODULE_ORDER_TOTAL_GV_INC_TAX_TITLE', 'Συμπεριλάβετε επιπλεων χρεωσεις');
+define('MODULE_ORDER_TOTAL_GV_INC_TAX_DESC', 'Include tax into calculation.');
+define('MODULE_ORDER_TOTAL_GV_CALC_TAX_TITLE', 'Εκ νέου υπολογισμός της αξιας');
+define('MODULE_ORDER_TOTAL_GV_CALC_TAX_DESC', 'Εκ νέου υπολογισμός της αξιας.');
+define('MODULE_ORDER_TOTAL_GV_TAX_CLASS_TITLE', 'επιπλεον χρεωση ');
+define('MODULE_ORDER_TOTAL_GV_TAX_CLASS_DESC', 'καντε επιπλεον χρεωση.');
+define('MODULE_ORDER_TOTAL_GV_CREDIT_TAX_TITLE', 'καντε επιπλεον χρεωση στην χρεωση (τι γραφω γαμ. ) ');
+define('MODULE_ORDER_TOTAL_GV_CREDIT_TAX_DESC', 'καντε επιπλεον χρεωση στην χρεωση € .');
+define('MODULE_ORDER_TOTAL_GV_ORDER_STATUS_ID_TITLE', 'Κατάσταση παραγγελίας');
+define('MODULE_ORDER_TOTAL_GV_ORDER_STATUS_ID_DESC', 'Οι παραγγελίες που εκδίδονται με τη χρήση πιστοποιητικού δώρου που καλύπτει το πλήρες κόστος της παραγγελίας θα έχουν την υποδεικνυόμενη κατάσταση.');
+
+define('MODULE_LEV_DISCOUNT_STATUS_TITLE', 'Εμφάνιση έκπτωσης( μεταφορικα δωρεαν μαλλον ) ');
+define('MODULE_LEV_DISCOUNT_STATUS_DESC', 'Επιτρέψτε έκπτωση?');
+define('MODULE_ORDER_TOTAL_OT_LEV_DISCOUNT_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_LEV_DISCOUNT_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την μεθοδο.');
+define('MODULE_LEV_DISCOUNT_TABLE_TITLE', 'Ποσοστό έκπτωσης');
+define('MODULE_LEV_DISCOUNT_TABLE_DESC', 'Ορίστε όρια τιμών και ποσοστά έκπτωσης, ( πχ 100€ , 10%  θα το δοκιμασω και θα δω πρωτα )διαχωρισμένα με κόμματα.');
+define('MODULE_LEV_DISCOUNT_INC_SHIPPING_TITLE', 'Συμπεριλάβετε τη αποστολη');
+define('MODULE_LEV_DISCOUNT_INC_SHIPPING_DESC', 'Συμπεριλάβετε την παράδοση στον υπολογισμό.');
+define('MODULE_LEV_DISCOUNT_INC_TAX_TITLE', 'Συμπεριλάβετε ολες τις χρεωσεις ');
+define('MODULE_LEV_DISCOUNT_INC_TAX_DESC', 'Include tax into calculation.');
+define('MODULE_LEV_DISCOUNT_CALC_TAX_TITLE', 'Συμπεριλάβετε ολες τις χρεωσεις');
+define('MODULE_LEV_DISCOUNT_CALC_TAX_DESC', 'Εκ νέου υπολογισμός της αξιας');
+
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_STATUS_TITLE', 'Εμφάνιση χαμηλής αξίας  παραγγελίας');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_STATUS_DESC', 'Θέλετε να δείξετε χαμηλό κόστος της παραγγελίας?');
+define('MODULE_ORDER_TOTAL_OT_LOWORDERFEE_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_LOWORDERFEE_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την μεθοδο.');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_LOW_ORDER_FEE_TITLE', 'Επιτρέψτε χαμηλό κόστος της παραγγελίας');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_LOW_ORDER_FEE_DESC', 'Θέλετε να ενεργοποιήσετε τη μέθοδο χαμηλού κόστους της παραγγελίας?');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_ORDER_UNDER_TITLE', 'Χαμηλό κόστος της παραγγελίας οριο ');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_ORDER_UNDER_DESC', 'Χαμηλό κόστος παραγγελιών για παραγγελίες μέχρι μια καθορισμένη τιμή.');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_FEE_TITLE', 'επιπλεον χρεωση ');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_FEE_DESC', 'επιπλεον χρεωση ');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_DESTINATION_TITLE', 'Συμπεριλάβετε τέλος στην παραγγελία');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_DESTINATION_DESC', 'Συμπεριλάβετε τέλος στις επόμενες παραγγελίες.');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_TAX_CLASS_TITLE', 'επιπλεον χρεωση');
+define('MODULE_ORDER_TOTAL_LOWORDERFEE_TAX_CLASS_DESC', 'καντε επιπλεον χρεωση.');
+
+define('MODULE_PAYMENT_DISC_STATUS_TITLE', 'Ενεργοποίηση ( για δωρεαν μεταφορικα μαλλον ) μεθόδου');
+define('MODULE_PAYMENT_DISC_STATUS_DESC', 'Ενεργοποιήστε την ενότητα?');
+define('MODULE_ORDER_TOTAL_OT_PAYMENT_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_PAYMENT_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την μεθοδο.');
+define('MODULE_PAYMENT_DISC_PERCENTAGE_TITLE', 'Εκπτωση');
+define('MODULE_PAYMENT_DISC_PERCENTAGE_DESC', 'Ελάχιστο ποσό εντολής για να λάβετε την έκπτωση.');
+define('MODULE_PAYMENT_DISC_MINIMUM_TITLE', 'Ελάχιστο ποσό εντολής');
+define('MODULE_PAYMENT_DISC_MINIMUM_DESC', 'Ελάχιστο ποσό εντολής για να λάβετε την έκπτωση.');
+define('MODULE_PAYMENT_DISC_TYPE_TITLE', 'Μέθοδος πληρωμής');
+define('MODULE_PAYMENT_DISC_TYPE_DESC', 'Εδώ πρέπει να καθορίσετε το όνομα της ενότητας πληρωμής. Μπορείτε να πάρετε το όνομα από το αρχείο της μονάδας, για παράδειγμα /includes/modules/payment/webmoney.php. Υπάρχει webmoney στην κορυφή, οπότε αν θέλουμε να δώσουμε έκπτωση για τις πληρωμές που γίνονται μέσω του WebMoney, γράψτε webmoney από.');
+define('MODULE_PAYMENT_DISC_INC_SHIPPING_TITLE', 'Συμπεριλάβετε τη αποστολή');
+define('MODULE_PAYMENT_DISC_INC_SHIPPING_DESC', 'Συμπεριλάβετε την παράδοση στον υπολογισμό');
+define('MODULE_PAYMENT_DISC_INC_TAX_TITLE', 'Συμπεριλάβετε φόρο');
+define('MODULE_PAYMENT_DISC_INC_TAX_DESC', 'Συμπεριλάβετε τον φόρο στον υπολογισμό.');
+define('MODULE_PAYMENT_DISC_CALC_TAX_TITLE', 'Υπολογισμός φόρου');
+define('MODULE_PAYMENT_DISC_CALC_TAX_DESC', 'Συμπεριλάβετε τον υπολογισμό της αμοιβής για την έκπτωση.');
+
+define('MODULE_QTY_DISCOUNT_STATUS_TITLE', 'κανε  μια έκπτωση ανάλογα με την ποσότητα');
+define('MODULE_QTY_DISCOUNT_STATUS_DESC', 'Θέλετε να επιτρέψετε μια έκπτωση ανάλογα με την ποσότητα?');
+define('MODULE_ORDER_TOTAL_OT_QTY_DISCOUNT_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_QTY_DISCOUNT_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+define('MODULE_QTY_DISCOUNT_RATE_TYPE_TITLE', 'Είδος έκπτωσης');
+define('MODULE_QTY_DISCOUNT_RATE_TYPE_DESC', 'Επιλέξτε τύπο έκπτωσης - ποσοστό ή κατ "αποκοπή ποσό"');
+define('MODULE_QTY_DISCOUNT_RATES_TITLE', 'Εκπτωση');
+define('MODULE_QTY_DISCOUNT_RATES_DESC', 'Η έκπτωση βασίζεται στις συνολικές μονάδες παραγγελθέντων αγαθών. Για παράδειγμα, 10: 5, 20:10 και ούτω καθεξής ... Αυτό σημαίνει ότι με την παραγγελία 10 ή περισσότερες μονάδες αγαθών, ο αγοραστής παίρνει έκπτωση 5% ή $ 5? 20 μονάδες ή περισσότερο - 10% ή $ 10, ανάλογα με τον τύπο');
+define('MODULE_QTY_DISCOUNT_INC_SHIPPING_TITLE', 'Συμπεριλάβετε τη αποστολή');
+define('MODULE_QTY_DISCOUNT_INC_SHIPPING_DESC', 'Συμπεριλάβετε την παράδοση στον υπολογισμό.');
+define('MODULE_QTY_DISCOUNT_INC_TAX_TITLE', 'Συμπεριλάβετε φόρο');
+define('MODULE_QTY_DISCOUNT_INC_TAX_DESC', 'Συμπεριλάβετε τον φόρο στον υπολογισμό.');
+define('MODULE_QTY_DISCOUNT_CALC_TAX_TITLE', 'Εκ νέου υπολογισμός του φόρου');
+define('MODULE_QTY_DISCOUNT_CALC_TAX_DESC', 'Εκ νέου υπολογισμός του φόρου.');
+
+define('MODULE_ORDER_TOTAL_SHIPPING_STATUS_TITLE', 'Δωρεάν παράδοση για παραγγελίες   Εμφάνιση παράδοσης');
+define('MODULE_ORDER_TOTAL_SHIPPING_STATUS_DESC', 'Θέλετε να δείτε το κόστος παράδοσης?');
+define('MODULE_ORDER_TOTAL_OT_SHIPPING_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_SHIPPING_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+define('MODULE_ORDER_TOTAL_SHIPPING_FREE_SHIPPING_TITLE', 'Επιτρέψτε την δωρεάν παράδοση');
+define('MODULE_ORDER_TOTAL_SHIPPING_FREE_SHIPPING_DESC', 'Θέλετε να επιτρέψετε την δωρεαν παράδοση?');
+define('MODULE_ORDER_TOTAL_SHIPPING_FREE_SHIPPING_OVER_TITLE', 'Δωρεάν παράδοση για αξιας παραγγελίες ανω ? ');
+define('MODULE_ORDER_TOTAL_SHIPPING_FREE_SHIPPING_OVER_DESC', 'Για παραγγελίες πάνω από μια καθορισμένη τιμή, η παράδοση θα είναι δωρεάν..');
+define('MODULE_ORDER_TOTAL_SHIPPING_DESTINATION_TITLE', 'Δωρεάν παράδοση για παραγγελίες');
+define('MODULE_ORDER_TOTAL_SHIPPING_DESTINATION_DESC', 'Καθορίστε τις δωρεάν αποστολές για ποιες  παραγγελίες.');
+
+define('MODULE_ORDER_TOTAL_SUBTOTAL_STATUS_TITLE', 'Εμφάνιση κόστους του προιόντος');
+define('MODULE_ORDER_TOTAL_SUBTOTAL_STATUS_DESC', 'Θέλετε να δείτε το κόστος του προιοντος?');
+define('MODULE_ORDER_TOTAL_OT_SUBTOTAL_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_SUBTOTAL_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+
+define('MODULE_ORDER_TOTAL_TAX_STATUS_TITLE', 'Εμφάνιση φόρου');
+define('MODULE_ORDER_TOTAL_TAX_STATUS_DESC', 'Do you want to show tax?');
+define('MODULE_ORDER_TOTAL_OT_TAX_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_TAX_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+
+define('MODULE_ORDER_TOTAL_TOTAL_STATUS_TITLE', 'Εμφάνιση όλων');
+define('MODULE_ORDER_TOTAL_TOTAL_STATUS_DESC', 'Θέλετε να δείτε το συνολικό κόστος της παραγγελίας?');
+define('MODULE_ORDER_TOTAL_OT_TOTAL_SORT_ORDER_TITLE', 'Σειρά ταξινόμησης');
+define('MODULE_ORDER_TOTAL_OT_TOTAL_SORT_ORDER_DESC', 'Καταχωρίστε σειρά ταξινόμησης για αυτήν την ενότητα.');
+
+define('SHIPPING_TAB_TITLE', 'Αποστολή');
+define('SHIPPING_TO_PAYMENT_TAB_TITLE', 'Αποστολή για πληρωμή');
+define('SHIPPING_TO_FIELDS_TAB_TITLE', 'Αποστολή στα χωράφια');
+define('SHIPPING_UPDATE_WAREHOUSES_TITLE', 'Ενημέρωση αποθηκών');
+
+define('SHIPPING_UPDATE_AREAS_TITLE', 'Update areas');
+define('SHIPPING_UPDATE_CITIES_TITLE', 'Update cities');
+define('SHIPPING_UPDATE_REFERENCES_TITLE', 'Update directories');
+?>

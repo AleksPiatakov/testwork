@@ -1,0 +1,2 @@
+INSERT INTO `configuration` (`configuration_title`, `configuration_key`, `configuration_value`, `configuration_required_value`, `configuration_description`, `configuration_group_id`, `sort_order`, `last_modified`, `date_added`, `use_function`, `set_function`, `depends_on`, `configuration_subgroup_id`, `callback_func`)
+VALUES ('Миграция - текущая версия', 'MIGRATION_VERSION', '0048.sql', 'true', 'Миграция - текущая версия', '999', '1', NULL, now(), '', '', '', '0', NULL);

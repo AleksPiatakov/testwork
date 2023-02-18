@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Verwante korting",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Verwante korting",
+    "TWOFER_PROMO_STRING": "Koop dit artikel en krijg nog eens gratis!",
+    "TWOFER_QUALIFY_STRING": "U kunt voor verschillende %s gratis",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " tweede ",
+    "FREE_STRING": " gratis",
+    "REV_GET_ANY": "Kopen van goederen ",
+    "REV_GET_THIS": "Kopen ",
+    "REV_GET_DISC": " ontvang het item ",
+    "FREE": " gratis",
+    "GET_YOUR_PROD": " krijgt ",
+    "GET_YOUR_CAT": " uw keuze ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s per set",
+    "BETTER_TOGETHER_SAVING": "besparing ",
+    "BETTER_TOGETHER_SUBMIT": "Koop een set"
+}

@@ -1,0 +1,26 @@
+<?php 
+define('HEADING_TITLE','Inviare il certificato');
+define('TEXT_CUSTOMER','Cliente:');
+define('TEXT_SUBJECT','Tema:');
+define('TEXT_FROM','Da:');
+define('TEXT_TO','A:');
+define('TEXT_AMOUNT','L\'importo del certificato');
+define('TEXT_MESSAGE','Messaggio:');
+define('TEXT_SINGLE_EMAIL','<span class=\"smallText\">Utilizzare questo campo per inviare il certificato e ad altri indirizzi email che non sono nella lista di cui sopra.</span>');
+define('TEXT_SELECT_CUSTOMER','Selezionare il cliente');
+define('TEXT_ALL_CUSTOMERS','Tutti i clienti');
+define('TEXT_NEWSLETTER_CUSTOMERS','A tutti i sottoscrittori di distribuzione del negozio');
+define('NOTICE_EMAIL_SENT_TO','Avviso: Email inviato: %s');
+define('ERROR_NO_CUSTOMER_SELECTED','Errore: non hai selezionato il cliente.');
+define('ERROR_NO_AMOUNT_SELECTED','Errore: non hai specificato l\'importo certificato.');
+define('TEXT_GV_WORTH','Certificato per l\'importo di ');
+define('TEXT_TO_REDEEM','Per intensificare il certificato, fare clic sul link qui sotto e inserire il codice del certificato ');
+define('TEXT_WHICH_IS','');
+define('TEXT_IN_CASE','');
+define('TEXT_OR_VISIT','hai visitato il nostro negozio online all\'indirizzo ');
+define('TEXT_ENTER_CODE',' È possibile specificare il codice del certificato al momento dell\'ordine.');
+define('TEXT_REDEEM_COUPON_MESSAGE_HEADER','Si è intensificato il certificato, ma sarà possibile utilizzare quando si effettua un acquisto solo dopo la convalida del negozio, è fatto esclusivamente per motivi di sicurezza. Come solo il certificato sarà controllato dall\'amministratore. Riceverai una notifica via email.');
+define('TEXT_REDEEM_COUPON_MESSAGE_AMOUNT','Certificato per l\'importo di %s');
+define('TEXT_REDEEM_COUPON_MESSAGE_BODY','È possibile inviare il certificato o parte dell\'importo certificato ai loro amici e conoscenti.');
+define('TEXT_REDEEM_COUPON_MESSAGE_FOOTER','');
+define('BUTTON_CANCEL_NEW','Cancella');

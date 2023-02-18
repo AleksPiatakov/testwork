@@ -1,0 +1,21 @@
+<div class="col-xl-{{blocks_num_xl}} col-lg-{{blocks_num_lg}} col-md-{{blocks_num_md}} col-sm-{{blocks_num_sm}} col-xs-{{blocks_num_xs}} col_product">
+    <div class="product{{not_available}}">
+        <div class="product_listing_labels item-list">
+            {{label}}
+        </div>
+        <div class="p_description">
+            <a class="p_img_href {{add_classes}}" href="{{product_href}}">{{product_image}}{{product_modal_button}}</a>
+            <div class="art">
+                {{products_model}} {{stock}}
+            </div>
+            <div class="new_old_price">
+                <p class="price">{{final_price}}</p>
+                <span>{{cart_button}}</span>
+            </div>
+            <a href="{{product_href}}" class="model_product">{{product_name}}</a>
+
+            <!--{{compare_output}}-->
+        </div>
+    </div>
+    {{product_attributes}}
+</div>

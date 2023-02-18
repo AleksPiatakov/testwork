@@ -1,0 +1,167 @@
+@media (min-width: 1500px) {
+    .app-aside-dock.app-aside-fixed.app-header-fixed {
+        padding-top: 50px;
+    }
+    .navbar-collapse,
+    .app-aside-dock .app-content,
+    .app-aside-dock .app-footer {
+        margin-left: 200px!important;
+    }
+    .app-aside-right {
+        position: absolute;
+        top: 50px;
+        right: 0;
+        bottom: 0;
+        z-index: 1000;
+    }
+    .app-aside-right.pos-fix {
+          z-index: 1010;
+    }
+    .app-aside-fixed .app-aside:before {
+        position: fixed;
+    }
+    .app-aside-fixed .app-header .navbar-header {
+        position: fixed;
+    }
+    .app-aside-fixed .aside-wrap {
+        position: fixed;
+        top: 50px;
+        bottom: 0;
+        left: 0;
+        z-index: 1000;
+        background-color: #3a3f50;
+        width: 200px!important;
+        max-width: 200px!important;
+        overflow: hidden;
+    }
+    .app-aside-fixed .aside-wrap .navi-wrap {
+        position: relative;
+        height: 100%;
+        overflow-x: hidden!important;
+        /*overflow-y: scroll!important;*/
+        -webkit-overflow-scrolling: touch;
+    }
+    .app-aside-fixed .aside-wrap .navi-wrap::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .app-aside-fixed .aside-wrap .navi-wrap::-webkit-scrollbar:vertical {
+        width: 5px;
+    }
+    .app-aside-fixed .aside-wrap .navi-wrap::-webkit-scrollbar-thumb{
+        background-color: #b4b6bd;
+    }
+    .app-aside-fixed .aside-wrap .navi-wrap > * {
+        width: 200px!important;
+    }
+    .smart .app-aside-fixed .aside-wrap .navi-wrap {
+        width: 200px!important;
+        padding: 0;
+    }
+    .app-aside-fixed.app-aside-folded .app-aside {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        z-index: 1010;
+    }
+    .app-aside-fixed.app-aside-folded .aside-wrap {
+        width: 59px;
+    }
+    .app-aside-fixed.app-aside-folded .aside-wrap .navi-wrap {
+        width: 77px;
+    }
+    .app-aside-fixed.app-aside-folded .aside-wrap .navi-wrap > * {
+        width: 60px;
+    }
+    .smart .app-aside-fixed.app-aside-folded .aside-wrap .navi-wrap {
+        width: 60px;
+    }
+    .bg-auto:before {
+        content: none;
+    }
+    .hbox-auto-sm {
+        display: block;
+    }
+    .hbox-auto-sm > .col {
+        /*display: block;*/
+        /*width: auto;*/
+        /*height: auto;*/
+    }
+    .hbox-auto-sm > .col.show {
+        display: block !important;
+    }
+    .hbox-auto-sm .vbox {
+        height: auto;
+    }
+    .hbox-auto-sm .cell-inner {
+        position: static !important;
+    }
+    footer {
+        margin-left: 200px;
+    }
+    .app-aside-dock .app-aside .navi > ul {
+        display: block;
+        padding-bottom: 50px;
+    }
+    .app-aside-dock .app-aside .navi > ul > li {
+        display: block;
+        float: left;
+        width: 100%;
+    }
+    .app.container .app-aside {
+        overflow-x: hidden;
+    }
+    .app.container.app-aside-folded .app-aside {
+        overflow-x: visible;
+    }
+    .app.container.app-aside-fixed .aside-wrap {
+        left: inherit;
+    }
+    .app.container.app-aside-fixed.app-aside-folded .app-aside > ul.nav {
+        position: absolute;
+    }
+    .active > .nav-sub, .app-aside-folded li:hover > .nav-sub, .app-aside-folded li:focus > .nav-sub, .app-aside-folded li:active > .nav-sub {
+        height: auto !important;
+        margin-left: 0;
+        overflow: auto;
+        opacity: 1;
+    }
+    .app-aside-dock .app-aside .navi > ul > li .nav-sub {
+        position: unset;
+        display: none;
+        max-width: 100%;
+        font-size: 13px;
+        height: auto !important;
+        -webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    .navi ul.nav li a {
+        padding: 10px 20px;
+    }
+    .app-aside-dock .app-aside .navi li li a {
+        padding-left: 40px;
+    }
+    .app-aside-dock .app-aside .navi > ul > li > a > i {
+        position: relative;
+        float: left;
+        width: 40px;
+        overflow: hidden;
+        line-height: 40px;
+        text-align: center;
+    }
+    .app-aside-dock .app-aside .navi > ul > li > a {
+        text-align: left;
+        padding: 10px 15px 12px 0;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .app-aside-dock .app-aside .hidden-folded, .app-aside-dock .app-aside .line, .app-aside-dock .app-aside .navi-wrap > div {
+        display: block !important;
+    }
+    .app-aside-dock .app-aside .navi > ul > li > a > span {
+        font-weight:700;
+    }
+    .app-aside-dock .app-aside .navi li:hover > .nav-sub {
+        display: none;
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "MODULE_SHIPPING_ZONES_TEXT_TITLE": "Тарифы для зоны",
+    "MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION": "зональный базовый тариф",
+    "MODULE_SHIPPING_ZONES_TEXT_WAY": "Доставка до",
+    "MODULE_SHIPPING_ZONES_TEXT_UNITS": "Кг.",
+    "MODULE_SHIPPING_ZONES_INVALID_ZONE": "Для выбранной страны нет возможности доставки ",
+    "MODULE_SHIPPING_ZONES_UNDEFINED_RATE": "Стоимость пересылки сейчас не может быть определена "
+}

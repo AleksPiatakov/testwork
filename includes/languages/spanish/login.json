@@ -1,0 +1,18 @@
+{
+    "NAVBAR_TITLE": "Iniciar sesion",
+    "HEADING_TITLE": "Bienvenido, Inicia sesion",
+    "HEADING_NEW_CUSTOMER": "Nuevo cliente",
+    "TEXT_NEW_CUSTOMER": "Soy un nuevo cliente.",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "Al crear una cuenta en %s Usted podra hacer sus compras mas rapido, estar al dia sobre el estado de sus pedidos y realizar un seguimiento de los pedidos que ha realizado anteriormente.",
+    "TEXT_RETURNING_CUSTOMER": "Yo soy cliente.",
+    "TEXT_PASSWORD_FORGOTTEN": "Contraseña olvidada? Haga clic aqui.",
+    "TEXT_LOGIN_ERROR": "Error: no coincide con direccion de correo electronico y \/ o contrasena.",
+    "NO_CUSTOMER": "No hay tal usuario en nuestra base de datos",
+    "NO_PASS": "Contrasena incorrecta",
+    "SOC_VK": "VK",
+    "SOC_SITE": "sitio",
+    "SOC_ENTER_FROM_OTHER": "Inicie sesion desde otra red social o ingrese su nombre de usuario \/ contrasena.",
+    "SOC_NOW_FROM": "Intentas iniciar sesion desde",
+    "SOC_NEED_FROM": "Te registraste a traves de",
+    "SOC_LOGIN_THX": "Has ingresado satisfactoriamente"
+}

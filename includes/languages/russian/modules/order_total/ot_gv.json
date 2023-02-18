@@ -1,0 +1,7 @@
+{
+    "MODULE_ORDER_TOTAL_GV_TITLE": "Сертификат",
+    "MODULE_ORDER_TOTAL_GV_HEADER": "Сертификаты\/Купоны",
+    "MODULE_ORDER_TOTAL_GV_DESCRIPTION": "Подарочные сертификаты",
+    "MODULE_ORDER_TOTAL_GV_USER_PROMPT": "Вы можете использовать свой сертификат, для этого поставьте здесь галочку и нажмите кнопку \"Применить\":&nbsp;",
+    "TEXT_ENTER_GV_CODE": "Код сертификата&nbsp;&nbsp;"
+}

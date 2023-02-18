@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Dodatkowy rabat",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Dodatkowy rabat",
+    "TWOFER_PROMO_STRING": "1 + 1 gratis!",
+    "TWOFER_QUALIFY_STRING": "Otrzymaj drugi %s gratis ",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " drugi ",
+    "FREE_STRING": " gratis",
+    "REV_GET_ANY": "Kup towar z ",
+    "REV_GET_THIS": "Kup ",
+    "REV_GET_DISC": ", otrzymaj ten produkt ",
+    "FREE": " gratis",
+    "GET_YOUR_PROD": ", otrzymaj ",
+    "GET_YOUR_CAT": ", otrzymaj swój wybór z ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s za komplet",
+    "BETTER_TOGETHER_SAVING": "oszczędność ",
+    "BETTER_TOGETHER_SUBMIT": "Kup zestaw"
+}

@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "Můj účet",
+    "NAVBAR_TITLE_2": "Historie",
+    "NAVBAR_TITLE_3": "Objednávka č. %s",
+    "HEADING_TITLE": "Informace o objednávce",
+    "HEADING_ORDER_NUMBER": "Objednávka č. %s",
+    "HEADING_ORDER_DATE": "Datum objednávky:",
+    "HEADING_ORDER_TOTAL": "Celkem objednávky:",
+    "HEADING_DELIVERY_ADDRESS": "Doručovací adresa",
+    "HEADING_SHIPPING_METHOD": "Způsob dopravy",
+    "HEADING_PRODUCTS": "Produkty",
+    "HEADING_TAX": "Daň",
+    "HEADING_TOTAL": "Celkem",
+    "HEADING_PAYMENT_METHOD": "Způsob platby",
+    "HEADING_ORDER_HISTORY": "Historie objednávek",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Platnost odkazu vyprší: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": "zbývající stažení",
+    "TABLE_HEADING_DATE_ADDED": "Datum",
+    "TABLE_HEADING_STATUS": "Stav objednávky",
+    "TABLE_HEADING_COMMENTS": "Komentáře"
+}

@@ -1,0 +1,14 @@
+{
+    "EMAIL_TEXT_SUBJECT": "Votre commande",
+    "EMAIL_TEXT_ORDER_NUMBER": "Numéro de commande:",
+    "EMAIL_TEXT_INVOICE_URL": "Informations sur la commande:",
+    "EMAIL_TEXT_DATE_ORDERED": "Date de commande:",
+    "EMAIL_TEXT_PRODUCTS": "Vous avez commandé:",
+    "EMAIL_TEXT_DELIVERY_ADDRESS": "L'adresse de livraison",
+    "EMAIL_TEXT_BILLING_ADDRESS": "L'adresse de l'acheteur",
+    "EMAIL_TEXT_PAYMENT_METHOD": "Mode de paiement",
+    "EMAIL_SEPARATOR": "------------------------------------------------------",
+    "EMAIL_TEXT_CUSTOMER_NAME": "L'acheteur:",
+    "EMAIL_TEXT_CUSTOMER_EMAIL_ADDRESS": "Email:",
+    "EMAIL_TEXT_CUSTOMER_TELEPHONE": "Téléphone:"
+}

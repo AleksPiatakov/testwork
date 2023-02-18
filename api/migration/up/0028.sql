@@ -1,0 +1,1 @@
+ALTER TABLE `specials` ADD `attribute_combination` VARCHAR(255) NOT NULL AFTER `products_id`;

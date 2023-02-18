@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "我的帳戶",
+    "NAVBAR_TITLE_2": "帳戶地址",
+    "HEADING_TITLE": "我的個人帳戶地址",
+    "PRIMARY_ADDRESS_TITLE": "主要帳戶地址",
+    "PRIMARY_ADDRESS_DESCRIPTION": "This address is used as the pre-selected shipping and billing address for orders placed on this store.<br><br>This address is also used as the base for product and service tax calculations.",
+    "ADDRESS_BOOK_TITLE": "地址簿列表",
+    "PRIMARY_ADDRESS": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": "<span><b>NOTE:<\/b><\/span> A maximum of %s address book entries allowed."
+}

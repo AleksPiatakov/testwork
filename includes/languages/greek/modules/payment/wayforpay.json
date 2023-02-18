@@ -1,0 +1,19 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "Περιγραφή",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Ενεργοποίηση \/ απενεργοποίηση μονάδας",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Προεπιλεγμένη κατάσταση",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Λογαριασμός εμπόρου",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Εμπορικό μυστικό",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "Η σειρά ταξινόμησης",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "Κατάσταση πληρωμής",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "True - ενεργοποίηση, False - απενεργοποίηση",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "Η κατάσταση που ορίζεται στη σειρά κατά τη δημιουργία της",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Λογαριασμός εμπόρου",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Εμπορικό μυστικό",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "Ταξινόμηση σειράς της μονάδας στο μπλοκ με μονάδες πληρωμής",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "Η κατάσταση που έχει οριστεί στην παραγγελία μετά την επιτυχή πληρωμή",
+    "MODULE_PAYMENT_WAYFORPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Opgeslagen items",
+    "BOX_TEXT_PRICE": "De kosten",
+    "BOX_TEXT_PRODUCT": "Naam",
+    "BOX_TEXT_IMAGE": "Foto",
+    "BOX_TEXT_NO_ITEMS": "Geen wachtende items.",
+    "TEXT_EMAIL": "E-mail: ",
+    "TEXT_MESSAGE": "Bericht: ",
+    "TEXT_ITEM_IN_CART": "Mand",
+    "TEXT_ITEM_NOT_AVAILABLE": "Het product is niet langer beschikbaar",
+    "WISHLIST_EMAIL_SUBJECT": "U een bericht gestuurd",
+    "WISHLIST_SENT": "Opgeslagen items verzonden.",
+    "WISHLIST_EMAIL_LINK": "Een lijst van openstaande posten bezoeker $from_name: $link Dank u, %s",
+    "WISHLIST_EMAIL_GUEST": "Dank u, %s",
+    "ERROR_YOUR_NAME": "Vul Uw naam.",
+    "ERROR_YOUR_EMAIL": "Voer Uw e-mail.",
+    "ERROR_VALID_EMAIL": "Voer het juiste e-mailadres.",
+    "ERROR_ONE_EMAIL": "U moet ten minste één naam en één e-mailadres.",
+    "ERROR_ENTER_EMAIL": "Voer uw e-mail adres.",
+    "ERROR_ENTER_NAME": "Geef de namen van de ontvangers.",
+    "ERROR_MESSAGE": "Een bericht toevoegen."
+}

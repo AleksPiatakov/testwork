@@ -1,0 +1,464 @@
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/uk/noutbuki/c-378.html
+            [message] => 
+E_WARNING: 
+Use of undefined constant PRODUCT_MODAL_ON - assumed 'PRODUCT_MODAL_ON' (this will throw an Error in a future version of PHP) in 
+C:\xampp\htdocs\sites\solomono\includes\javascript\javascript.php
+on line 35
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/images/pixel_trans.png
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/images/pixel_trans.png
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/httpwww.xbook.ruuploadiblock50a5_.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/httpwww.xbook.ruuploadiblock50a5_.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/acer_nitro_shale_black.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/acer_nitro_shale_black.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/apple_macbook_air_space_gray.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/apple_macbook_air_space_gray.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/httpwww.lenovo.comimagesgallery1060x596lenovo-laptop-convertible-yoga-2-pro-orange-front-mouse-18_.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/httpwww.lenovo.comimagesgallery1060x596lenovo-laptop-convertible-yoga-2-pro-orange-front-mouse-18_.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/yooga2(1).jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/yooga2(1).jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/httphotline.uaimgtx11311338955_.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/httphotline.uaimgtx11311338955_.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/macbook_space-gray_1_1(1).jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/macbook_space-gray_1_1(1).jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/yooga2.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/yooga2.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/macbook_pro_1.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/macbook_pro_1.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/httpecx.images-amazon.comimagesi518iy2bz4bxl._sl1000___.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/httpecx.images-amazon.comimagesi518iy2bz4bxl._sl1000___.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/asus_vivobook.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/asus_vivobook.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/7yga996p___.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/150x150/products/7yga996p___.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/38x38/articles/televizor_1.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/38x38/articles/televizor_1.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/38x38/articles/smart_hand_1.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/38x38/articles/smart_hand_1.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/images/350x350/sm_demo.png
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/images/350x350/sm_demo.png
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/38x38/articles/notebook_1.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/38x38/articles/notebook_1.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [url] => https://solomono.loc/getimage/articles/block_1.jpg
+            [message] => 
+E_WARNING: 
+getimagesize(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 86
+
+        )
+
+    [1] => Array
+        (
+            [url] => https://solomono.loc/getimage/articles/block_1.jpg
+            [message] => 
+E_WARNING: 
+mime_content_type(C:\xampp\htdocs\sites\solomono/images/default.png): failed to open stream: No such file or directory in 
+C:\xampp\htdocs\sites\solomono\r_imgs.php
+on line 277
+
+        )
+
+)

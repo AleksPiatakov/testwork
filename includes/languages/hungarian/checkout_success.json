@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Pénztár",
+    "NAVBAR_TITLE_2": "Siker",
+    "HEADING_TITLE": "Megrendelését feldolgoztuk!",
+    "TEXT_SUCCESS": "Megrendelését sikeresen feldolgoztuk! Termékei a szállítási információkban meghatározott időn belül megérkeznek.",
+    "TEXT_THANKS_FOR_SHOPPING": "Köszönjük, hogy nálunk vásárolt!",
+    "TABLE_HEADING_COMMENTS": "Hamarosan felvesszük Önnel a kapcsolatot",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Lejárat dátuma: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " letöltés maradt",
+    "SMS_NEW_ORDER": "Új rendelése van",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Új gyorsrendelésed van",
+    "SMS_CALL_BACK": "Hívjon vissza a számomon: ",
+    "TEXT_SUCCESS_INFO": "A fizetési és minden további információt emailben küldünk Önnek."
+}

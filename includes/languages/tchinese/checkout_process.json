@@ -1,0 +1,14 @@
+{
+    "EMAIL_TEXT_SUBJECT": "訂單結帳完成確認",
+    "EMAIL_TEXT_ORDER_NUMBER": "訂單編號 :",
+    "EMAIL_TEXT_INVOICE_URL": "訂單明細：",
+    "EMAIL_TEXT_DATE_ORDERED": "訂單日期：",
+    "EMAIL_TEXT_PRODUCTS": "產品",
+    "EMAIL_TEXT_DELIVERY_ADDRESS": "商品運送地址",
+    "EMAIL_TEXT_BILLING_ADDRESS": "帳單郵寄地址",
+    "EMAIL_TEXT_PAYMENT_METHOD": "付款方式",
+    "EMAIL_SEPARATOR": "------------------------------------------------------",
+    "EMAIL_TEXT_CUSTOMER_NAME": "客戶名稱：",
+    "EMAIL_TEXT_CUSTOMER_EMAIL_ADDRESS": "電子郵件：",
+    "EMAIL_TEXT_CUSTOMER_TELEPHONE": "連絡電話："
+}

@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "My Account",
+    "NAVBAR_TITLE_2": "History",
+    "NAVBAR_TITLE_3": "Order #%s",
+    "HEADING_TITLE": "Order Information",
+    "HEADING_ORDER_NUMBER": "Order #%s",
+    "HEADING_ORDER_DATE": "Order Date:",
+    "HEADING_ORDER_TOTAL": "Order Total:",
+    "HEADING_DELIVERY_ADDRESS": "Delivery Address",
+    "HEADING_SHIPPING_METHOD": "Shipping Method",
+    "HEADING_PRODUCTS": "Products",
+    "HEADING_TAX": "Tax",
+    "HEADING_TOTAL": "Total",
+    "HEADING_PAYMENT_METHOD": "Payment Method",
+    "HEADING_ORDER_HISTORY": "Order History",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Link expires: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " downloads remaining",
+    "TABLE_HEADING_DATE_ADDED": "Date",
+    "TABLE_HEADING_STATUS": "Order status",
+    "TABLE_HEADING_COMMENTS": "Comments"
+}

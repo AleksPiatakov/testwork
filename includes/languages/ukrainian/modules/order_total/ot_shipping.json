@@ -1,0 +1,6 @@
+{
+    "MODULE_ORDER_TOTAL_SHIPPING_TITLE": "Доставка",
+    "MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION": "Вартість доставки",
+    "FREE_SHIPPING_TITLE": "Безкоштовна доставка при сумі >",
+    "FREE_SHIPPING_DESCRIPTION": "Безкоштовна доставка для замовлень понад %s"
+}

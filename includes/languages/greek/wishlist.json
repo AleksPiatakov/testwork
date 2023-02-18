@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Η λίστα επιθυμιών μου περιέχει:",
+    "BOX_TEXT_PRICE": "Τιμή",
+    "BOX_TEXT_PRODUCT": "όνομα προϊόντος",
+    "BOX_TEXT_IMAGE": "Εικόνα",
+    "BOX_TEXT_NO_ITEMS": "Δεν υπάρχουν προϊόντα στην Λίστα επιθυμιών σας. <br><br>",
+    "TEXT_EMAIL": "Email: ",
+    "TEXT_MESSAGE": "Μήνυμα: ",
+    "TEXT_ITEM_IN_CART": "Προιόντα στο καλάθι",
+    "TEXT_ITEM_NOT_AVAILABLE": "Το προιόν δεν είναι πλέον διαθέσιμο",
+    "WISHLIST_EMAIL_SUBJECT": "σας έστειλε τη λίστα επιθυμιών τους %s",
+    "WISHLIST_SENT": "Η λίστα επιθυμιών σας έχει σταλεί.",
+    "WISHLIST_EMAIL_LINK": "\r\n\r\n$from_name's public wishlist is located here:\r\n$link\r\n\r\nThank you, %s",
+    "WISHLIST_EMAIL_GUEST": "Ευχαριστώ πολύ, %s",
+    "ERROR_YOUR_NAME": "Παρακαλώ εισάγετε το όνομά σας.",
+    "ERROR_YOUR_EMAIL": "Παρακαλώ εισαγάγετε το Email σας.",
+    "ERROR_VALID_EMAIL": "Παρακαλώ εισάγετε την διεύθυνση του  ηλεκτρονικού ταχυδρομείου σας .",
+    "ERROR_ONE_EMAIL": "Πρέπει να συμπεριλάβετε τουλάχιστον ένα όνομα και ένα email.",
+    "ERROR_ENTER_EMAIL": "Παρακαλώ να εισάγετε μια διεύθυνση ηλεκτρονικού ταχυδρομείου.",
+    "ERROR_ENTER_NAME": "Εισαγάγετε το όνομα του παραλήπτη του ηλεκτρονικού ταχυδρομείου.",
+    "ERROR_MESSAGE": "Συμπεριλάβετε εαν θέλετε ένα σύντομο μήνυμα."
+}

@@ -1,0 +1,17 @@
+{
+    "NAVBAR_TITLE": "登入系統",
+    "HEADING_TITLE": "歡迎登入系統",
+    "TEXT_NEW_CUSTOMER": "我是新客戶",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "By creating an account at %s you will be able to shop faster, be up to date on an orders status, and keep track of the orders you have previously made.",
+    "TEXT_RETURNING_CUSTOMER": "我是舊客戶",
+    "TEXT_PASSWORD_FORGOTTEN": "密碼忘記了嗎？請點選這裡...",
+    "TEXT_LOGIN_ERROR": "登入錯誤，可能是  E-Mail Address 或 密碼 Password不正確喔...",
+    "NO_CUSTOMER": "There is no such user in our database",
+    "NO_PASS": "密碼錯誤",
+    "SOC_VK": "VK",
+    "SOC_SITE": "site",
+    "SOC_ENTER_FROM_OTHER": "Login from another social network or enter your login\/password.",
+    "SOC_NOW_FROM": "You are trying to login from",
+    "SOC_NEED_FROM": "You was registered via",
+    "SOC_LOGIN_THX": "您已成功登入系統"
+}

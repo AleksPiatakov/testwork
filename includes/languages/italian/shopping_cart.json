@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Il contenuto del carrello",
+    "HEADING_TITLE": "Il mio carrello",
+    "TABLE_HEADING_REMOVE": "Rimuovere",
+    "TABLE_HEADING_REMOVE_FROM": "dal cestino",
+    "TABLE_HEADING_QUANTITY": "Nr.",
+    "TABLE_HEADING_IMAGE": "Immagine",
+    "TABLE_HEADING_NAME": "Commerciale",
+    "TABLE_HEADING_PRICE": "Prezzo",
+    "TABLE_HEADING_MODEL": "Codice articolo",
+    "TABLE_HEADING_PRICE_TOTAL": "Il costo",
+    "TABLE_HEADING_PRODUCTS": "Prodotti",
+    "TABLE_HEADING_TOTAL": "Il costo",
+    "TEXT_CART_EMPTY": "Il tuo carrello è vuoto!",
+    "SUB_TITLE_COUPON": "Coupon",
+    "SUB_TITLE_COUPON_SUBMIT": "Applicare",
+    "SUB_TITLE_COUPON_VALID": "Complimenti! <br \/>Hai inserito fedele coupon!",
+    "SUB_TITLE_COUPON_INVALID": "Hai inserito non valido il coupon!",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Gli articoli, dedicati %s sono disponibili nel nostro magazzino insufficiente per il Tuo ordine numero.<br>si Prega di modificare la quantità dei prodotti selezionati (%s), grazie",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Gli articoli, dedicati %s sono disponibili nel nostro magazzino insufficiente per il Tuo ordine numero.<br>Tuttavia, È possibile acquistare e verificare la quantità disponibile per le fasi di consegna durante l'esecuzione del Vostro ordine."
+}

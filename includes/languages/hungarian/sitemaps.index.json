@@ -1,0 +1,21 @@
+{
+    "GOOGLE_SITEMAPS_PRODUCT_SUCCESS": "Google termékek oldaltérképe sikeresen generálva",
+    "GOOGLE_SITEMAPS_IMAGE_SUCCESS": "Google képek oldaltérkép sikeresen generálva",
+    "GOOGLE_SITEMAPS_PRODUCT_ERROR": "HIBA: Google termékek oldaltérkép generálás SIKERTELEN!",
+    "GOOGLE_SITEMAPS_IMAGE_ERROR": "HIBA: Google képek oldaltérkép generálás SIKERTELEN!",
+    "GOOGLE_SITEMAPS_CATEGORY_SUCCESS": "Google kategóriák oldaltérkép sikeresen generálva",
+    "GOOGLE_SITEMAPS_CATEGORY_ERROR": "HIBA: Google kategóriák oldaltérkép generálás SIKERTELEN!",
+    "GOOGLE_SITEMAPS_INDEX_SUCCESS": "Google oldaltérkép index sikeresen generálva",
+    "GOOGLE_SITEMAPS_INDEX_ERROR": "HIBA: Google oldaltérkép index generálás SIKERTELEN!",
+    "GOOGLE_SITEMAPS_CONGRATULATION": "GRATULÁLUNK! Az összes fájl sikeresen generálva.",
+    "GOOGLE_SITEMAPS_ALREADY_SUBMITTED": "Ha korábban már jóváhagyott egy oldaltérkép indexet a Google számára, klikkeljen alul a linkre.",
+    "GOOGLE_SITEMAPS_HIGHLY_RECCOMMEND": "Mielõtt elkezdi, ERÕSEN ajánlott, hogy nézzen bele az XML-fájlba, és bizonyosodjon meg róla, az adatok helyesek.",
+    "GOOGLE_SITEMAPS_CONVENIENCE": "A kényelmes kezelés érdekében itt egy CRON parancs az oldalához:",
+    "GOOGLE_SITEMAPS_HERE_INDEX": "Ez az oldaltérkép index fájl: ",
+    "GOOGLE_SITEMAPS_HERE_PRODUCT": "Ez a termékek oldaltérképe: ",
+    "GOOGLE_SITEMAPS_HERE_CATEGORY": "Ez a kategóriák oldaltérképe: ",
+    "GOOGLE_SITEMAPS_HERE_IMAGE": "Ez a képek oldaltérképe: ",
+    "GOOGLE_SITEMAPS_HERE_ARTICLES": "Ez a cikkek oldaltérképe: ",
+    "GOOGLE_SITEMAPS_ARTICLES_SUCCESS": "Google cikkek oldaltérképe sikeresen generálva",
+    "GOOGLE_SITEMAPS_ARTICLES_ERROR": "HIBA: Google cikkek oldaltérkép generálás SIKERTELEN!"
+}

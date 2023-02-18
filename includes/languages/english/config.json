@@ -1,0 +1,7 @@
+{
+    "OG_LOCALE": "en_US",
+    "DATE_FORMAT_SHORT": "%s",
+    "DATE_FORMAT_LONG": "%s",
+    "DATE_FORMAT": "%s",
+    "DATE_TIME_FORMAT": "%s %H:%M:%S"
+}

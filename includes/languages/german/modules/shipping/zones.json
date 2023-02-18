@@ -1,0 +1,8 @@
+{
+    "MODULE_SHIPPING_ZONES_TEXT_TITLE": "Tarife für die Zone",
+    "MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION": "Zonenbasisrate",
+    "MODULE_SHIPPING_ZONES_TEXT_WAY": "Lieferung an",
+    "MODULE_SHIPPING_ZONES_TEXT_UNITS": "Kg.",
+    "MODULE_SHIPPING_ZONES_INVALID_ZONE": "Es gibt keine Lieferoption für das ausgewählte Land",
+    "MODULE_SHIPPING_ZONES_UNDEFINED_RATE": "Weiterleitungskosten können jetzt nicht ermittelt werden"
+}

@@ -1,0 +1,14 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Coupon",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Certificati\/Tagliandi",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Coupon",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Non valido il codice coupon",
+    "ERROR_RESTRICTION_COUPON": "Il coupon non è valido per questi prodotti",
+    "ERROR_MINIMUM_CART_AMOUNT": "Importo minimo di ordine per questo coupon: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "Specificato coupon ancora non è valido",
+    "ERROR_INVALID_FINISDATE_COUPON": "Il coupon è scaduto",
+    "ERROR_INVALID_USES_COUPON": "Il coupon è già stato utilizzato ",
+    "TIMES": " volta.",
+    "ERROR_INVALID_USES_USER_COUPON": "Si è utilizzato un coupon maggior numero di volte possibile.",
+    "TEXT_ENTER_COUPON_CODE": "Il codice:&nbsp;&nbsp;"
+}

@@ -1,0 +1,22 @@
+<?php 
+define('HEADING_TITLE','Gli autori');
+define('TABLE_HEADING_AUTHORS','Gli autori');
+define('TABLE_HEADING_ACTION','L\'azione');
+define('TEXT_HEADING_NEW_AUTHOR','Aggiungere autore');
+define('TEXT_HEADING_EDIT_AUTHOR','Modificare autore');
+define('TEXT_HEADING_DELETE_AUTHOR','Rimuovere autore');
+define('TEXT_ARTICLE_BY','L\'autore dell\'articolo: ');
+define('TEXT_AUTHORS','Gli autori:');
+define('TEXT_DATE_ADDED','Data aggiunta:');
+define('TEXT_LAST_MODIFIED','Ultima modifica:');
+define('TEXT_ARTICLES','Articolo:');
+define('TEXT_NEW_INTRO','Compila questo modulo');
+define('TEXT_EDIT_INTRO','Apportare le modifiche necessarie.');
+define('TEXT_AUTHORS_NAME','Il nome dell\'autore:');
+define('TEXT_AUTHORS_DESCRIPTION','Descrizione:');
+define('TEXT_AUTHORS_URL','URL di riferimento:');
+define('TEXT_DELETE_INTRO','Vuoi davvero cancellare questo autore?');
+define('TEXT_DELETE_ARTICLES','Rimuovere gli articoli di questo autore? (tra cui recensioni di articoli e un articolo non pubblicato)');
+define('TEXT_DELETE_WARNING_ARTICLES','<b>Attenzione:</b> Dispone di %s articoli di questo autore!');
+define('ERROR_DIRECTORY_NOT_WRITEABLE','Errore: la Directory è protetto da scrittura, impostare i diritti di accesso necessari: %s');
+define('ERROR_DIRECTORY_DOES_NOT_EXIST','Errore: la Directory non esiste ancora: %s');

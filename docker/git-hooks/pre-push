@@ -1,0 +1,16 @@
+#!/bin/sh
+
+##to make sum link run git-hook-install
+dockerRun() {
+    docker-compose exec -T app $@
+}
+
+error() {
+  RED='\033[0;31m'
+  NC='\033[0m' # No Color
+  printf "${RED} $1 ${NC}\n"
+}
+
+echo "Running pre push hook.."
+
+exit $?

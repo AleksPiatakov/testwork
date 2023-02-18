@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_OSHAD_TEXT_TITLE": "Oshad",
+    "MODULE_PAYMENT_OSHAD_TEXT_PUBLIC_TITLE": "Oshadbank Visa\/Mastercard",
+    "MODULE_PAYMENT_OSHAD_TEXT_DESCRIPTION": "Después de hacer clic en el botón Confirmar orden, irá al sitio del sistema de pago para pagar la orden, luego de que el pago se ejecutará.",
+    "MODULE_PAYMENT_OSHAD_TEXT_ADMIN_DESCRIPTION": "Oshad..",
+    "MODULE_PAYMENT_OSHAD_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

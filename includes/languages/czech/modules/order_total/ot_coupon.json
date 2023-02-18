@@ -1,0 +1,13 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Slevové kupony",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Dárkové poukazy\/slevové kupony",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Slevový kupón",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Neplatný kód kupónu",
+    "ERROR_MINIMUM_CART_AMOUNT": "Minimální částka košíku pro tento kupón je: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "Tento kupón zatím není dostupný",
+    "ERROR_INVALID_FINISDATE_COUPON": "Platnost tohoto kupónu vypršela",
+    "ERROR_INVALID_USES_COUPON": "Tento kupón lze použít pouze ",
+    "TIMES": "krát.",
+    "ERROR_INVALID_USES_USER_COUPON": "Použili jste kupón v maximálním počtu povolených na jednoho zákazníka.",
+    "TEXT_ENTER_COUPON_CODE": "Zadejte kód pro uplatnění&nbsp;&nbsp;"
+}

@@ -1,0 +1,20 @@
+{
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_TITLE": "Authorize.net",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_PUBLIC_TITLE": "Authorize.net",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_DESCRIPTION": "<a href=\"https:\/\/www.authorize.net\" target=\"_blank\" style=\"text-decoration: underline; font-weight: bold;\">Odwiedź stronę Authorize.net<\/a>",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_OWNER": "Właściciel karty kredytowej:",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_NUMBER": "Numer karty",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES": "Data ważności karty kredytowej:",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_MM": "Wygasa (miesiąc)",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_YY": "Wygasa (rok)",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_CVC": "Kod CVC",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_TITLE": "Wystąpił błąd podczas przetwarzania Twojej karty kredytowej",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_GENERAL": "Spróbuj ponownie, a jeśli problemy będą się powtarzać, spróbuj innej metody płatności.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_DECLINED": "Ta transakcja kartą kredytową została odrzucona. Spróbuj ponownie, a jeśli problemy będą się powtarzać, spróbuj użyć innej karty kredytowej lub metody płatności.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_INVALID_EXP_DATE": "Data ważności karty kredytowej jest nieprawidłowa. Sprawdź informacje o karcie i spróbuj ponownie.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_EXPIRED": "Karta kredytowa wygasła. Spróbuj ponownie przy użyciu innej karty lub metody płatności.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_CVC": "Numer czeku karty kredytowej (CVC) jest nieprawidłowy. Sprawdź informacje o karcie i spróbuj ponownie.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

@@ -1,0 +1,19 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "WayForPay fizetési rendszer",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Bekapcsolt \/ Kikapcsolt modul",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Alapértelmezett állapot",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Kereskedõi fiók",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Kereskedõi jelszó",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "Rendezési sorrend",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "Fizetés állapota",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "True – bekapcsolva, False – kikapcsolva",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "A rendelés létrehozásakor beállított állapot.",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Kereskedõi fiók",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Kereskedõi jelszó",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "A modul rendezési sorrendje a fizetési modulokkal",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "Az állapot, amelyet a megrendelés a sikeres fizetés után állít be",
+    "MODULE_PAYMENT_WAYFORPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

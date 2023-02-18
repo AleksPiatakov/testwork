@@ -1,0 +1,1 @@
+ALTER TABLE `orders_total` CHANGE `value` `value` VARCHAR(50) NOT NULL DEFAULT '0.0000';

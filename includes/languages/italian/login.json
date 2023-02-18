@@ -1,0 +1,16 @@
+{
+    "NAVBAR_TITLE": "La password",
+    "HEADING_TITLE": "Permettetemi di entrare!",
+    "TEXT_NEW_CUSTOMER": "Iscriversi!",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "Registrazione presso il nostro negozio, sarai in grado di acquistare molto di <b>più veloce e più conveniente<\/b>, inoltre, È in grado di seguire l'esecuzione degli ordini, visualizzare la cronologia degli ordini.",
+    "TEXT_RETURNING_CUSTOMER": "Sono già registrato!",
+    "TEXT_LOGIN_ERROR": "<span><b>ERRORE:<\/b><\/span> non Valido 'Indirizzo E-Mail e\/o Password'.",
+    "NO_CUSTOMER": "Questo utente non esiste nel database",
+    "NO_PASS": "Password errata",
+    "SOC_VK": "Vkontakte",
+    "SOC_SITE": "sito",
+    "SOC_ENTER_FROM_OTHER": "Vai da un altro soc. rete o sotto il tuo username\/password.",
+    "SOC_NOW_FROM": "Ora si sta cercando di andare da",
+    "SOC_NEED_FROM": "Registrato dal",
+    "SOC_LOGIN_THX": "Grazie, è entrato con successo!"
+}

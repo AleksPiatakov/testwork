@@ -1,0 +1,14 @@
+{
+    "EMAIL_TEXT_SUBJECT": "Potvrzení objednávky",
+    "EMAIL_TEXT_ORDER_NUMBER": "Číslo objednávky:",
+    "EMAIL_TEXT_INVOICE_URL": "Podrobná faktura:",
+    "EMAIL_TEXT_DATE_ORDERED": "Datum objednávky:",
+    "EMAIL_TEXT_PRODUCTS": "Produkty",
+    "EMAIL_TEXT_DELIVERY_ADDRESS": "Doručovací adresa",
+    "EMAIL_TEXT_BILLING_ADDRESS": "Fakturační adresa",
+    "EMAIL_TEXT_PAYMENT_METHOD": "Způsob platby",
+    "EMAIL_SEPARATOR": "--------------------------------------------- ---------",
+    "EMAIL_TEXT_CUSTOMER_NAME": "Zákazník:",
+    "EMAIL_TEXT_CUSTOMER_EMAIL_ADDRESS": "E-mail:",
+    "EMAIL_TEXT_CUSTOMER_TELEPHONE": "Telefon:"
+}

@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "Mi cuenta",
+    "NAVBAR_TITLE_2": "Directorio",
+    "HEADING_TITLE": "Mi libreta de direcciones personal",
+    "PRIMARY_ADDRESS_TITLE": "Direccion primaria",
+    "PRIMARY_ADDRESS_DESCRIPTION": "Esta direccion se utiliza como la direccion de envio y facturacion preseleccionada para los pedidos realizados en esta tienda. <br> <br> Esta direccion tambien se utiliza como base para calculos de impuestos sobre productos y servicios.",
+    "ADDRESS_BOOK_TITLE": "Entradas de la libreta de direcciones",
+    "PRIMARY_ADDRESS": "(direccion primaria)",
+    "TEXT_MAXIMUM_ENTRIES": "<span><b>NOTE:<\/b><\/span> Se permite un maximo de% s entradas de la libreta de direcciones."
+}

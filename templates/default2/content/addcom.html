@@ -1,0 +1,57 @@
+# Шаблон блока ввода комментариев
+#{$smilebar} - Смайлики
+#{$htmlz} - Сообщение об отключенных HTML тэгах
+#{$wwp} - Папка со скриптом
+#{$rssico} - RSS
+#{$capt} - Каптча
+#{$novis} - Режим каптчи
+#{$novismail} - Режим почты
+#{$autoarea} - Авторазмер
+#{$panelbar} - Панель редактора
+
+<div class="row add-comment-row">
+    <div class="col-md-4 comment-skin-body">
+
+        <form class="comment_form clearfix" name="addcomm" ENCTYPE="multipart/form-data"
+              onKeyPress="if (event.keyCode==10 || (event.ctrlKey && event.keyCode==13)) {send_message();}"
+              method="post">
+            <!-- <p>{$langcommentit[skin_post_comment]}</p> -->
+
+
+            <div class="form-group">
+                <input class="form-control" placeholder="{$langcommentit[skin_name]}" {$novisnick} name="namenew"
+                       id="nickComment" maxlength="{$sumvlname}" value="{$oldname}" size="20"/>
+                {$icoservice} {$exitbut}
+            </div>
+            <div class="comment_homepage" style="">{$langcommentit[skin_homepage]}</div>
+            <div>
+                <input id="usurl" {$novisurl} name="useurl" value="{$oldurl}"/>
+            </div>
+            <div>{$langcommentit[skin_mail]}</div>
+
+            <div class="comment_mail">
+                <input style="border:1px solid #d6d6d6;width:99%;color:#88898a;margin-bottom:8px;" id="usmail"
+                       {$novismail} name="usemail" value="{$oldmail}"/>
+            </div>
+
+            <div class="form-group">
+                <textarea class="form-control" placeholder="{$langcommentit[skin_comment]}" {$autoarea}
+                          rows="5" name="comment">{$oldmess}</textarea>
+            </div>
+            <div class="captcha">
+                <input {$novis} id="keystringz" autocomplete="off" name="keystring"/>
+                <br>
+                <div>
+                    <input class="btn bold " type='submit' id="enter" onclick="send_message();return false;"
+                           name="addcomment" value="{$langcommentit[skin_addcomment]}"/>
+                </div>
+                <img alt="{$langcommentit[core_loading]}" style="display:none;border:none;vertical-align:middle;"
+                     id="miniload" class="lazyload" src="'.DIR_WS_IMAGES_CDN.'pixel_trans.png"
+                     data-src="/{$wwp}/im/loadermini.gif"/>
+            </div>
+
+
+        </form>
+
+    </div>
+</div>

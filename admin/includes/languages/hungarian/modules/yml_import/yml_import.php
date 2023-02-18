@@ -1,0 +1,25 @@
+<?php
+define('YML_IMPORT_UPLOAD_IMAGES', 'Képeket importálni?');
+define('YML_IMPORT_TRUNCATE_TABLE', 'A termékek/kategóriák/gyártók/attribútumok aktuális adatbázisának törlése');
+define('YML_IMPORT_UPLOAD_FILE', 'Válasszon .xml fájlt');
+define('YML_IMPORT_UPLOAD_BUTTON', 'Feltöltés');
+define('YML_IMPORT_MAIN_CATEGORY', 'Importálás kategóriába:');
+define('YML_IMPORT_VENDOR_TEMPLATE', 'Sablon importálása');
+define('YML_IMPORT_REPLACE_TEXT', 'Mezők átírása meglévő termékekhez:');
+define('YML_IMPORT_REPLACE_NAME', 'Név és leírás');
+define('YML_IMPORT_REPLACE_DESCRIPTION', 'Leírás');
+define('YML_IMPORT_REPLACE_PRICE', 'Ár');
+define('YML_IMPORT_REPLACE_QUANTITY', 'Mennyiség');
+define('YML_IMPORT_REPLACE_IMAGE', 'Képek');
+define('YML_IMPORT_UPLOAD_PRESETS', 'Előbeállítások');
+define('YML_IMPORT_UPLOAD_TEMPLATE', 'Sablon');
+define('YML_IMPORT_UPLOAD_LINK', 'Link');
+define('YML_IMPORT_UPLOAD_BUTTON_LINK', 'Link feltöltése');
+define('YML_IMPORT_UPLOAD_UPLOADED', 'Feltöltés');
+define('YML_IMPORT_MISSING_OFFERS', 'A fájlban nem szereplő termékek:');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_NOTHING', 'Miss');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_TURN_OFF', 'Letiltás');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_DELETE', 'Törlés');
+define('YML_IMPORT_MARKUP', 'Jelölés:');
+define('YML_IMPORT_LANGUAGE', 'Nyelv:');
+define('YML_IMPORT_NUMBER', 'szám');

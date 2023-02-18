@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "De inhoud van de mand",
+    "HEADING_TITLE": "Mijn winkelwagen",
+    "TABLE_HEADING_REMOVE": "Verwijderen",
+    "TABLE_HEADING_REMOVE_FROM": "uit de mand",
+    "TABLE_HEADING_QUANTITY": "Aantal",
+    "TABLE_HEADING_IMAGE": "Foto",
+    "TABLE_HEADING_NAME": "Naam",
+    "TABLE_HEADING_PRICE": "Prijs",
+    "TABLE_HEADING_MODEL": "Product code",
+    "TABLE_HEADING_PRICE_TOTAL": "De kosten",
+    "TABLE_HEADING_PRODUCTS": "Producten",
+    "TABLE_HEADING_TOTAL": "De kosten",
+    "TEXT_CART_EMPTY": "Uw winkelwagen is leeg!",
+    "SUB_TITLE_COUPON": "Coupon",
+    "SUB_TITLE_COUPON_SUBMIT": "Toepassing",
+    "SUB_TITLE_COUPON_VALID": "Van harte gefeliciteerd! <br \/>U hebt de juiste coupon!",
+    "SUB_TITLE_COUPON_INVALID": "Je hebt een ongeldige coupon!",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Goederen toegewezen %s zijn beschikbaar in ons magazijn in onvoldoende voor Uw bestelling hoeveelheden.<br>wijzig de hoeveelheid van de geselecteerde producten (%s), dank U",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Goederen toegewezen %s zijn beschikbaar in ons magazijn in onvoldoende voor Uw bestelling hoeveelheden.<br>Echter, Je kunt ze kopen en controleer het nummer van de beschikbaar-voor-gefaseerde-de levering van Uw bestelling."
+}

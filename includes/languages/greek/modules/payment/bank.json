@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Τραπεζική μεταφορά",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Τα τραπεζικά μας στοιχεία:<br><br>Όνομα τράπεζας: &nbsp;&nbsp;&nbsp;%s<br>Τραπεζικός λογαριασμός: &nbsp;&nbsp;&nbsp;%s<br>ΝΧΙ: &nbsp;&nbsp;&nbsp;%s<br>Κουτί \/ τιμολόγιο: &nbsp;&nbsp;&nbsp;%s<br>ΙΝΝ: &nbsp;&nbsp;&nbsp;%s<br>Παραλήπτης: &nbsp;&nbsp;&nbsp;%s<br>ΔΕΗ: &nbsp;&nbsp;&nbsp;%s<br>Σκοπός πληρωμής: &nbsp;&nbsp;&nbsp;%s<br><br>Μετά την πληρωμή της παραγγελίας, φροντίστε να μας ενημερώσετε μέσω e-mail %s<\/a> για το γεγονός της πληρωμής. Η παραγγελία σας θα αποσταλεί αμέσως μετά την επιβεβαίωση της πληρωμής.<br><br><a href=kvitan.php target=_blank><b><span>Απόδειξη πληρωμής<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Τα τραπεζικά μας στοιχεία:\n\nΌνομα τράπεζας: %s<br>Τραπεζικός λογαριασμός: %s<br>ΝΧΙ: %s<br>Κουτί \/ τιμολόγιο: %s<br>ΙΝΝ: %s<br>Παραλήπτης: %s\nΔΕΗ: %s\nΣκοπός πληρωμής: %s\n\nΜετά την πληρωμή της παραγγελίας, φροντίστε να μας ενημερώσετε μέσω e-mail %s για το γεγονός της πληρωμής. Η παραγγελία σας θα αποσταλεί αμέσως μετά την επιβεβαίωση της πληρωμής.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

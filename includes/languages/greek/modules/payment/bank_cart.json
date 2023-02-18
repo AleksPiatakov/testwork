@@ -1,0 +1,6 @@
+{
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_TITLE": "Πληρωμή με τραπεζική κάρτα",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_DESCRIPTION": "Τα τραπεζικά μας στοιχεία:<br>Όνομα τράπεζας: &nbsp;&nbsp;&nbsp;&nbsp;%s<br>Αριθμός κάρτας: &nbsp;&nbsp;&nbsp;%s<br>Παραλήπτης: &nbsp;&nbsp;&nbsp;%s",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_EMAIL_FOOTER": "Τα τραπεζικά μας στοιχεία:<br>Όνομα τράπεζας: &nbsp;&nbsp;&nbsp;&nbsp;%s<br>Αριθμός κάρτας: &nbsp;&nbsp;&nbsp;%s<br>Παραλήπτης: &nbsp;&nbsp;&nbsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_IMAGES": "<span><img src=images/payment_method/visa.png><img src=images/payment_method/mastercard.png></span>"
+}

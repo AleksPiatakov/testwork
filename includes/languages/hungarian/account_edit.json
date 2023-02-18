@@ -1,0 +1,9 @@
+{
+    "NAVBAR_TITLE_1": "Fiókom",
+    "NAVBAR_TITLE_2": "Fiók szerkesztése",
+    "HEADING_TITLE": "Adataim",
+    "MY_ACCOUNT_TITLE": "Fiókom",
+    "SUCCESS_ACCOUNT_UPDATED": "Az adatok sikeresen frissítve.",
+    "SUCCESS_EMAIL_NEW_SENT": "Értesítés a fiókjában lévő e-mail-cím változásáról.\nAz új e-mail címed: %s",
+    "SUCCESS_EMAIL_SENT": "Értesítés a fiókjában lévő e-mail-cím változásáról."
+}

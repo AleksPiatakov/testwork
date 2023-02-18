@@ -1,0 +1,7 @@
+{
+    "NAVBAR_TITLE": "Ajándékutalvány beváltása",
+    "HEADING_TITLE": "Váltsa be az utalványt",
+    "TEXT_INFORMATION": "",
+    "TEXT_INVALID_GV": "Ez az ajándékutalvány érvénytelen vagy már korábban felhasználták. Hiba esetén lépjen kapcsolatba üzletünkkel!",
+    "TEXT_VALID_GV": "Gratulálunk, sikeresen beváltotta ajándékutalványát %s értékben"
+}

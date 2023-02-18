@@ -1,0 +1,20 @@
+{
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_TITLE": "Authorize.net",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_PUBLIC_TITLE": "Authorize.net",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_DESCRIPTION": "<a href=\\\"https:\/\/www.authorize.net\\\" target=\\\"_blank\\\" style=\\\"text-decoration: underline; font-weight: bold;\\\">visita il sito Authorize.net<\/a>",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_OWNER": "Il proprietario della carta di credito:",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_NUMBER": "Numero di carta",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES": "Il periodo di validità della carta di credito:",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_MM": "Scade (mese)",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_YY": "Scade (anno)",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_CVC": "Codice CVC",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_TITLE": "Si è verificato un errore durante l'elaborazione della tua carta di credito",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_GENERAL": "Si prega di provare ancora una volta, e se il problema persiste, si prega di provare un altro metodo di pagamento.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_DECLINED": "Questa transazione con carta di credito è stata respinta. Si prega di provare ancora una volta, e se il problema persiste, si prega di provare un'altra carta di credito o il metodo di pagamento.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_INVALID_EXP_DATE": "Data di scadenza della carta di credito non è valida. Si prega di controllare le informazioni della carta e riprovare.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_EXPIRED": "Il periodo di validità della carta di credito è scaduto. Si prega di riprovare con un'altra carta di credito o metodi di pagamento.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_CVC": "Il numero di verifica della carta di credito (CVC) non è valido. Si prega di controllare le informazioni della carta e riprovare.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

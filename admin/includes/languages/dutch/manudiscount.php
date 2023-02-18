@@ -1,0 +1,28 @@
+<?php 
+define('HEADING_TITLE','Kortingen fabrikanten');
+define('HEADING_TITLE_SEARCH','Zoeken:');
+define('TABLE_HEADING_NAME','Naam');
+define('TABLE_HEADING_DISCOUNT','Korting');
+define('TABLE_HEADING_CUSTOMERS','Korting voor koper');
+define('TABLE_HEADING_GROUPS','Korting voor groepen');
+define('TABLE_HEADING_MANUFACTURERS','Fabrikant');
+define('TABLE_HEADING_ACTION','Actie');
+define('ENTRY_MANUDISCOUNT_NAME','Naam:');
+define('ENTRY_CUSTOMERS_NAME','Korting voor de koper:');
+define('ENTRY_GROUPS_NAME','Korting voor groepen:');
+define('ENTRY_MANUFACTURERS_NAME','Fabrikant:');
+define('ENTRY_DEFAULT_DISCOUNT','Korting:');
+define('TEXT_DELETE_INTRO','Wilt u deze korting?');
+define('TEXT_INFO_HEADING_DELETE_MANUDISCOUNT','Voor het verwijderen van een korting?');
+define('ERROR_MANUDISCOUNT_NAME','Voer de naam van de nieuwe korting');
+define('BUTTON_CANCEL_NEW','annuleren');
+define('BUTTON_EDIT_NEW','veranderen');
+define('BUTTON_UNLOCK_NEW','deblokkeren');
+define('BUTTON_PREVIEW_NEW','voorbeeld');
+define('BUTTON_BACK_NEW','geleden');
+define('BUTTON_NEWSLETTER_NEW','nieuwe nieuwsbrief');
+define('BUTTON_DELETE_NEW','verwijderen');
+define('BUTTON_LOCK_NEW','blok');
+define('BUTTON_SEND_NEW','verzenden');
+define('BUTTON_INSERT_NEW','plaats');
+define('BUTTON_RESET_NEW','reset');

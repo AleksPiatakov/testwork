@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Banki átutalás",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "A banki átutalás adatai a következők:<br>Bank neve: %s<br>Bankszámlaszám: %s<br>BIC: %s<br>Bankszámlaszám 2: %s<br>TIN: %s<br>Befogadó: %s<br>Befogadó 2: %s<br>Utalás célja: %s<br><br>A sikeres átutalás után, kérjük, értesítsen bennünket emailben: %s. Megrendelését azonnal teljesítjük az utalás beérkezését követően.<br><br><a href=kvitan.php target=_blank><b><span>Fizetési bizonylat<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Banki átutalás:<br>Bank neve: %s<br>Bankszámlaszám: %s<br>BIC: %s<br>Bankszámlaszám 2: %s<br>TIN: %s<br>Befogadó: %s<br>Befogadó 2: %s<br>Utalás célja: %s<br><br>A sikeres átutalás után, kérjük, értesítsen bennünket emailben: %s. Megrendelését azonnal teljesítjük az utalás beérkezését követően.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

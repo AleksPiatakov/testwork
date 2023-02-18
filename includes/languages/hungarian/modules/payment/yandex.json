@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_YANDEX_TEXT_TITLE": "Yandex",
+    "MODULE_PAYMENT_YANDEX_TEXT_PUBLIC_TITLE": "Yandex",
+    "MODULE_PAYMENT_YANDEX_TEXT_DESCRIPTION": "Leírás",
+    "MODULE_PAYMENT_YANDEX_TEXT_ADMIN_DESCRIPTION": "Yandex",
+    "MODULE_PAYMENT_YANDEX_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

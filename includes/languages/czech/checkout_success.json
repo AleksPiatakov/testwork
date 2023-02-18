@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Pokladna",
+    "NAVBAR_TITLE_2": "Úspěch",
+    "HEADING_TITLE": "Vaše objednávka byla zpracována!",
+    "TEXT_SUCCESS": "Vaše objednávka byla úspěšně zpracována! Vaše produkty dorazí na místo určení během 2–5 pracovních dnů.",
+    "TEXT_THANKS_FOR_SHOPPING": "Děkujeme, že u nás nakupujete online!",
+    "TABLE_HEADING_COMMENTS": "Brzy vás budeme kontaktovat",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Datum vypršení platnosti: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": "zbývající stažení",
+    "SMS_NEW_ORDER": "Máte novou objednávku",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Máte novou rychlou objednávku",
+    "SMS_CALL_BACK": "Zavolej mi zpět na moje číslo: ",
+    "TEXT_SUCCESS_INFO": "Všechny další pokyny a podrobnosti k platbě vám byly zaslány e-mailem"
+}

@@ -1,0 +1,14 @@
+{
+    "MODULE_PAYMENT_CC_TEXT_TITLE": "Karta płatnicza",
+    "MODULE_PAYMENT_CC_TEXT_DESCRIPTION": "Informacja o karcie płatniczej dla testu:<br><br>Numer karty: 4111111111111111<br>Ważna do: data",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_OWNER": "Posiadacz karty płatniczej:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_NUMBER": "Numer karty",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES": "Ważna do:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM": "Wygasa (miesiąc)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY": "Wygasa (rok)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_CVC": "Kod CVC",
+    "MODULE_PAYMENT_CC_TEXT_ERROR": "Wprowadziłeś błędny numer karty!",
+    "MODULE_PAYMENT_CC_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

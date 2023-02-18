@@ -1,0 +1,14 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Coupon",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Certificats\/Coupons",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Coupon",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Mauvais code promo",
+    "ERROR_RESTRICTION_COUPON": "Le coupon n'est pas valide pour ces produits",
+    "ERROR_MINIMUM_CART_AMOUNT": "Le montant minimum du panier pour ce coupon est: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "Spécifié encore coupon n'est pas valide",
+    "ERROR_INVALID_FINISDATE_COUPON": "Ce coupon a expiré",
+    "ERROR_INVALID_USES_COUPON": "Le coupon a déjà été utilisé ",
+    "TIMES": " fois.",
+    "ERROR_INVALID_USES_USER_COUPON": "Vous avez utilisé un coupon, le nombre maximum de fois.",
+    "TEXT_ENTER_COUPON_CODE": "Votre code:&nbsp;&nbsp;"
+}

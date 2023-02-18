@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Вміст кошика",
+    "HEADING_TITLE": "Мій кошик",
+    "TABLE_HEADING_REMOVE": "Видалити",
+    "TABLE_HEADING_REMOVE_FROM": "із кошика",
+    "TABLE_HEADING_QUANTITY": "Кіл-ть",
+    "TABLE_HEADING_IMAGE": "Зображення",
+    "TABLE_HEADING_NAME": "Найменування",
+    "TABLE_HEADING_PRICE": "Ціна",
+    "TABLE_HEADING_PRICE_TOTAL": "Разом",
+    "TABLE_HEADING_MODEL": "Код товару",
+    "TABLE_HEADING_PRODUCTS": "Товари",
+    "TABLE_HEADING_TOTAL": "Вартість",
+    "TEXT_CART_EMPTY": "Ваш кошик порожній!",
+    "SUB_TITLE_COUPON": "Купон",
+    "SUB_TITLE_COUPON_SUBMIT": "Застосувати",
+    "SUB_TITLE_COUPON_VALID": "Вітаємо! <br \/>Ви ввели вірний купон!",
+    "SUB_TITLE_COUPON_INVALID": "Ви ввели невірний купон!",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Товари, виділені %s є на нашому складі в недостатньому для Вашого замовлення кількості. <br>Будь ласка, поміняйте кількість продуктів виділених (%s), дякуємо Вам",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Товари, виділені %sє на нашому складі в недостатньому для Вашого замовлення кількості.<br> Проте, Ви можете купити їх і перевірити кількість наявних для поетапної доставки в процесі виконання Вашого замовлення."
+}

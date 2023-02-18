@@ -1,0 +1,19 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "Opis",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Włącz \/ wyłącz moduł",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Status domyślny",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Konto sprzedawcy",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Tajemnica handlowa",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "Porządek sortowania",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "Stan płatności",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "Prawda - włącz, False - wyłącz",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "Stan, który jest ustawiany zgodnie z kolejnością podczas jego tworzenia",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Konto sprzedawcy",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Tajemnica handlowa",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "Kolejność sortowania modułu w bloku z modułami płatności",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "Status ustawiony dla zamówienia po pomyślnej płatności",
+    "MODULE_PAYMENT_WAYFORPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

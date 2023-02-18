@@ -1,0 +1,18 @@
+.field-exist {
+    color: #027202;
+}
+
+.field-not-exist {
+    color: #a91717;
+}
+.field-missing {
+    color: #0008ff;
+}
+
+.show-fields {
+    cursor: pointer;
+}
+
+#oscImportResponse .row:hover {
+    background: #e2efff;
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="65px" viewBox="0 0 64 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>design-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.41421356,12.5857864 L12.5857864,1.41421356 C13.366835,0.633164979 14.633165,0.633164979 15.4142136,1.41421356 L62.5857864,48.5857864 C63.366835,49.366835 63.366835,50.633165 62.5857864,51.4142136 L51.4142136,62.5857864 C50.633165,63.366835 49.366835,63.366835 48.5857864,62.5857864 L1.41421356,15.4142136 C0.633164979,14.633165 0.633164979,13.366835 1.41421356,12.5857864 Z" id="path-1"></path>
+        <polygon id="path-3" points="4 50 45 9 54 19 14 59"></polygon>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Admin---Simplified---Drag`nDrop" transform="translate(-810.000000, -262.000000)">
+            <g id="Group-5">
+                <g id="Basic-Usage" transform="translate(380.000000, 90.000000)">
+                    <g id="Blocks">
+                        <g id="Items">
+                            <g id="Item" transform="translate(404.000000, 146.000000)">
+                                <g id="image" transform="translate(10.000000, 10.000000)">
+                                    <rect id="Mask" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="96" height="96"></rect>
+                                    <g id="Icon" transform="translate(16.000000, 16.000000)">
+                                        <g id="measure">
+                                            <mask id="mask-2" fill="white">
+                                                <use xlink:href="#path-1"></use>
+                                            </mask>
+                                            <use id="Rectangle" fill="#00A6FC" xlink:href="#path-1"></use>
+                                            <rect id="Rectangle" fill="#0065C7" mask="url(#mask-2)" transform="translate(20.207107, 12.792893) rotate(45.000000) translate(-20.207107, -12.792893) " x="18.7071068" y="8.29289322" width="3" height="9"></rect>
+                                            <rect id="Rectangle" fill="#0065C7" mask="url(#mask-2)" transform="translate(49.828427, 41.535534) rotate(45.000000) translate(-49.828427, -41.535534) " x="48.3284271" y="37.0355339" width="3" height="9"></rect>
+                                            <rect id="Rectangle" fill="#0065C7" mask="url(#mask-2)" transform="translate(17.560660, 7.439340) rotate(45.000000) translate(-17.560660, -7.439340) " x="16.0606602" y="4.43933983" width="3" height="6"></rect>
+                                            <rect id="Rectangle" fill="#0065C7" mask="url(#mask-2)" transform="translate(47.181981, 36.181981) rotate(45.000000) translate(-47.181981, -36.181981) " x="45.6819805" y="33.1819805" width="3" height="6"></rect>
+                                            <rect id="Rectangle" fill="#0065C7" mask="url(#mask-2)" transform="translate(25.500000, 16.000000) rotate(45.000000) translate(-25.500000, -16.000000) " x="24" y="13" width="3" height="6"></rect>
+                                            <rect id="Rectangle" fill="#0065C7" mask="url(#mask-2)" transform="translate(55.121320, 44.742641) rotate(45.000000) translate(-55.121320, -44.742641) " x="53.6213203" y="41.7426407" width="3" height="6"></rect>
+                                        </g>
+                                        <g id="Pen" transform="translate(1.000000, 0.000000)">
+                                            <polygon id="Rectangle" fill="#ADBEC6" points="45 9 50 4 59 14 54 19"></polygon>
+                                            <path d="M50,4 L51.7640951,2.23590487 C52.935668,1.06433199 54.8351629,1.06433199 56.0067358,2.23590487 C56.0439198,2.27308885 56.0801197,2.31124408 56.1152979,2.35033102 L61.0959541,7.88439345 C62.1633405,9.07037834 62.1156371,10.8843629 60.987392,12.012608 L59,14 L59,14 L50,4 Z" id="Rectangle" fill="#F66B6F"></path>
+                                            <g id="Rectangle">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                                <use fill="#FF9300" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                            </g>
+                                            <polygon id="Rectangle" fill="#D8D8D8" points="4 50 14 59 7 61 2 56"></polygon>
+                                            <polygon id="Rectangle" fill="#334750" points="2 56 7 61 -1.59161573e-12 63"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

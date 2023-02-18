@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "Moje dane",
+    "NAVBAR_TITLE_2": "Kontakty",
+    "NAVBAR_TITLE_ADD_ENTRY": "Nowy kontakt",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "Edycja",
+    "NAVBAR_TITLE_DELETE_ENTRY": "Usuń kontakt",
+    "HEADING_TITLE_ADD_ENTRY": "Nowy kontakt",
+    "HEADING_TITLE_MODIFY_ENTRY": "Edycja",
+    "HEADING_TITLE_DELETE_ENTRY": "Usuń kontakt",
+    "DELETE_ADDRESS_TITLE": "Usuń adres",
+    "DELETE_ADDRESS_DESCRIPTION": "Na pewno chcesz usunąć wybrany adres?",
+    "NEW_ADDRESS_TITLE": "Nowy adres",
+    "SELECTED_ADDRESS": "Wybrany adres",
+    "SET_AS_PRIMARY": "Ustaw jako domyślny.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "Wybrany adres został usunięty.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "Twoje kontakty zostały zaktualizowane.",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "Adres, ustawiony jako domyślny, nie może być usunięty. Ustaw inny adres jako domyślny i spróbuj ponownie.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "Nie masz książki adresowej.",
+    "ERROR_ADDRESS_BOOK_FULL": "Twoja książka adresowa jest pełna. Usuń adres, którego nie potrzebujesz i dopiero wtedy możesz dodać nowy adres."
+}

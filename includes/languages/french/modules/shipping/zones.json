@@ -1,0 +1,8 @@
+{
+    "MODULE_SHIPPING_ZONES_TEXT_TITLE": "Tarifs pour la zone",
+    "MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION": "zonale, le tarif de base",
+    "MODULE_SHIPPING_ZONES_TEXT_WAY": "Livraison à",
+    "MODULE_SHIPPING_ZONES_TEXT_UNITS": "Kg.",
+    "MODULE_SHIPPING_ZONES_INVALID_ZONE": "Le pays n'est pas des capacités de livraison ",
+    "MODULE_SHIPPING_ZONES_UNDEFINED_RATE": "Les frais d'affranchissement maintenant ne peut pas être déterminée "
+}

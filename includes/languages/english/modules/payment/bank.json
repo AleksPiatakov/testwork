@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Bank Transfer",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Our bank details:<br>Bank name: %s<br>Account number: %s<br>BIC: %s<br>Account number 2: %s<br>TIN: %s<br>Recipient: %s<br>Recipient 2: %s<br>Purpose: %s<br><br>After payment of the order, please inform us by e-mail %s about your payment. Your order will be sent immediately after confirming the fact of payment.<br><br><a href=kvitan.php target=_blank><b><span>Receipt for payment<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Our bank details:<br>Bank name: %s<br>Account number: %s<br>BIC: %s<br>Account number 2: %s<br>TIN: %s<br>Recipient: %s<br>Recipient 2: %s<br>Purpose: %s<br><br>After payment of the order, please inform us by e-mail %s about your payment. Your order will be sent immediately after confirming the fact of payment.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

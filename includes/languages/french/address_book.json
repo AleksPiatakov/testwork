@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "Mes adresses",
+    "NAVBAR_TITLE_2": "Carnet d'adresses",
+    "HEADING_TITLE": "Mon carnet d'adresses",
+    "PRIMARY_ADDRESS_TITLE": "Votre adresse",
+    "PRIMARY_ADDRESS_DESCRIPTION": "Cette adresse est sélectionnée par défaut.<br>Il sera utilisé lors de l'achat et de toute autre action dans notre magasin.",
+    "ADDRESS_BOOK_TITLE": "Entrées de carnet d'adresses",
+    "PRIMARY_ADDRESS": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": "<b>REMARQUE:<\/b> la quantité Maximale de carnet d'adresses <b>%s<\/b> "
+}

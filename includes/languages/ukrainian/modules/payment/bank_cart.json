@@ -1,0 +1,6 @@
+{
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_TITLE": "Оплата на банківську картку",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_DESCRIPTION": "Наші банківські реквізити:<br>Назва банку: &nbsp;&nbsp;&nbsp;%s<br>Номер карти: &nbsp;&nbsp;&nbsp;%s<br>Отримувач: &nbsp;&nbsp;&nbsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_EMAIL_FOOTER": "Наші банківські реквізити:<br>Назва банку: &nbsp;&nbsp;&nbsp;%s<br>Номер карти: &nbsp;&nbsp;&nbsp;%s<br>Отримувач: &nbsp;&nbsp;&nbsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_IMAGES": "<span><img src=images/payment_method/visa.png><img src=images/payment_method/mastercard.png></span>"
+}

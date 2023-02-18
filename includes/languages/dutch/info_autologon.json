@@ -1,0 +1,10 @@
+{
+    "HEADING_TITLE": "'Automatische Sessie' voorzorgsmaatregelen.",
+    "SUB_HEADING_TITLE_1": "Wat is 'Auto-sessie'?",
+    "SUB_HEADING_TITLE_2": "Is het veilig?",
+    "SUB_HEADING_TITLE_3": "En...",
+    "SUB_HEADING_TEXT_1": "Om te voorkomen dat teken in bij elk bezoek aan %s we hebben het 'Automatisch Aanmelden'.<br>met Deze functie slaat u uw referenties (E-mailadres en wachtwoord) op uw computer. Wanneer u ons opnieuw bezoekt, wordt de opgeslagen informatie wordt gebruikt voor het automatiseren van het Teken in het proces.",
+    "SUB_HEADING_TEXT_2": "Uw wachtwoord wordt alleen verzonden via het Internet met behulp van een beveiligde verbinding (SSL). Omdat van deze veilige koppeling, de transmissie van uw wachtwoord niet kunnen worden onderschept. Als extra zekerheid hebben alleen een versleutelde versie van uw wachtwoord is opgeslagen in de Cookie. Als uw computer is gebruikt door andere mensen dan uzelf, dan raden we je het <b> niet<\/b> voor het gebruik van de 'onthoud mij' - functie.",
+    "SUB_HEADING_TEXT_3": "Het gebruik van het 'Automatisch Aanmelden' is optioneel. Als u ervoor kiest om deze functie te gebruiken, moet u handmatig aanmelden bij elk bezoek aan %s.",
+    "TEXT_CLOSE_WINDOW": "[ Sluit venster ]"
+}

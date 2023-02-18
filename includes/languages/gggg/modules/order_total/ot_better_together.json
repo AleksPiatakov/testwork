@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Сопутствующая скидка",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Сопутствующая скидка",
+    "TWOFER_PROMO_STRING": "Купите этот товар и получите другой бесплатно!",
+    "TWOFER_QUALIFY_STRING": "Вы можете получить другой %s бесплатно",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " второй ",
+    "FREE_STRING": " бесплатно",
+    "REV_GET_ANY": "Купите товар из ",
+    "REV_GET_THIS": "Купите ",
+    "REV_GET_DISC": ", получите этот товар ",
+    "FREE": " бесплатно",
+    "GET_YOUR_PROD": ", получите ",
+    "GET_YOUR_CAT": ", получите ваш выбор из ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s на комплект",
+    "BETTER_TOGETHER_SAVING": "экономия ",
+    "BETTER_TOGETHER_SUBMIT": "Купить комплект"
+}

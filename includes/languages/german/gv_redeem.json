@@ -1,0 +1,7 @@
+{
+    "NAVBAR_TITLE": "Zertifikat aktivieren",
+    "HEADING_TITLE": "Zertifikat aktivieren",
+    "TEXT_INFORMATION": "",
+    "TEXT_INVALID_GV": "Das angegebene Zertifikat existiert entweder nicht oder es wurde bereits verwendet.) Wenn Sie Fragen haben, kontaktieren Sie uns bitte.",
+    "TEXT_VALID_GV": "Sie haben Ihr Zertifikat erfolgreich für den Betrag von %s aktiviert! Jetzt können Sie Ihr Zertifikat verwenden, um Einkäufe in unserem Online-Shop zu tätigen."
+}

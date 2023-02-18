@@ -1,0 +1,31 @@
+<?php
+define('HEADING_TITLE', 'Spedizione-Pagamento');
+define('TABLE_HEADING_ACTION', 'L\'azione');
+define('TEXT_DISPLAY_NUMBER_OF_PAYMENTS', 'Illustrato <b>%d</b> - <b>%d</b> (per un totale di <b>%d</b> elementi)');
+define('TEXT_INFO_EDIT_INTRO', 'Apportare le modifiche necessarie');
+define('TEXT_INFO_INSERT_INTRO', 'Inserire i dati per la nuova regola');
+define('TEXT_INFO_DELETE_INTRO', 'Vuoi davvero cancellare la registrazione?');
+define('TABLE_HEADING_SHIPMENT', 'Metodo di spedizione');
+define('TABLE_HEADING_ZONE', 'Zona');
+define('TABLE_HEADING_PAYMENTS', 'Consentiti metodi di pagamento');
+define('TABLE_HEADING_STATUS', 'Lo stato');
+define('TEXT_INFO_PAYMENTS_ALLOWED', 'Quando si seleziona il metodo di spedizione saranno disponibili i seguenti metodi di pagamento: ');
+define('TEXT_INFO_SHIPMENT', '<b>il Metodo di consegna:</b>');
+define('TEXT_INFO_ZONE', '<b>Zona:</b>');
+define('TEXT_INFO_PAYMENTS', '<b>Consentiti metodi di pagamento per il metodo di cui sopra di consegna:</b>');
+define('TEXT_INFO_HEADING_EDIT_SHP2PAY', 'Cambiare');
+define('TEXT_INFO_HEADING_NEW_SHP2PAY', 'Aggiungere');
+define('TEXT_INFO_HEADING_DELETE_SHP2PAY', 'Rimuovere');
+define('TEXT_INFO_SHIP2PAY_ZONE_ALREADY_EXIST', 'La zona per questo metodo di spedizione esiste già!');
+
+define('BUTTON_CANCEL_NEW', 'Annullare');
+define('BUTTON_EDIT_NEW', 'Cambiare');
+define('BUTTON_UNLOCK_NEW', 'Sbloccare');
+define('BUTTON_PREVIEW_NEW', 'Anteprima');
+define('BUTTON_BACK_NEW', 'Indietro');
+define('BUTTON_NEWSLETTER_NEW', 'Nuova newsletter');
+define('BUTTON_DELETE_NEW', 'Rimuovere');
+define('BUTTON_LOCK_NEW', 'Bloccare');
+define('BUTTON_SEND_NEW', 'Inviare');
+define('BUTTON_INSERT_NEW', 'Inserire');
+define('BUTTON_RESET_NEW', 'Reset');

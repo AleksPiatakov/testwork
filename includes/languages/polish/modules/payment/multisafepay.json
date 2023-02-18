@@ -1,0 +1,17 @@
+{
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_TITLE": "MultiSafepay Connect",
+    "MODULE_PAYMENT_MULTISAFEPAY_EMAIL_TEXT_ORDER_STATUS": "Status zamówienia:",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_RETURN_TO_SHOP": "Wróć do% s",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR": "Wystąpił błąd",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REDIRECT": "Nie można wykonać przekierowania",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_STATUS": "Nie można pobrać stanu zamówienia",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNKNOWN": "Brak dostępnych szczegółów",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNCLEARED": "Transakcja nie została rozliczona",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_RESERVED": "Transakcja jest zarezerwowana",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_VOID": "Transakcja została anulowana",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_DECLINED": "Transakcja została odrzucona",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REVERSED": "Transakcja została cofnięta",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REFUNDED": "Transakcja jest zwracana",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_EXPIRED": "Transakcja wygasła",
+    "MODULE_PAYMENT_MULTISAFEPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/maestro.png\"><img src=\"images/payment_method/paypal.png\"><img src=\"images/payment_method/ae.png\"></span>"
+}

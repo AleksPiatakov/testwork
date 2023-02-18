@@ -1,0 +1,15 @@
+{
+    "TEXT_MAIN": "&nbsp;",
+    "TABLE_HEADING_DATE_EXPECTED": "La data di ricevimento",
+    "TABLE_HEADING_DEFAULT_SPECIALS": "Sconto %s",
+    "HEADING_TITLE": "Elenco dei prodotti",
+    "TABLE_HEADING_IMAGE": "<span class=\\\"sort\\\">Ordina per:<\/span>",
+    "TABLE_HEADING_MODEL": "Codice articolo",
+    "TABLE_HEADING_PRODUCTS": "<span class=\\\"cena\\\">Nome del prodotto<\/span>",
+    "TABLE_HEADING_MANUFACTURER": "Il costruttore",
+    "TABLE_HEADING_QUANTITY": "Il numero di",
+    "TABLE_HEADING_PRICE": "<span class=\\\"cena\\\">Prezzo<\/span>",
+    "TABLE_HEADING_WEIGHT": "Peso",
+    "TABLE_HEADING_PRODUCT_SORT": "L'ordine",
+    "TEXT_ALL_MANUFACTURERS": "Tutti i produttori"
+}

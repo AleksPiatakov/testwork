@@ -1,0 +1,12 @@
+{
+    "NAVBAR_TITLE_1": "Мои данные",
+    "NAVBAR_TITLE_2": "История заказов",
+    "HEADING_TITLE": "История заказов",
+    "TEXT_ORDER_STATUS": "Статус заказа",
+    "TEXT_ORDER_DATE": "Дата заказа",
+    "TEXT_ORDER_SHIPPED_TO": "Адрес доставки:",
+    "TEXT_ORDER_BILLED_TO": "Покупатель:",
+    "TEXT_ORDER_COST": "Сумма",
+    "TEXT_ORDER_PC": "шт.",
+    "TEXT_NO_PURCHASES": "К сожалению, Вы ещё ничего не купили в нашем магазине."
+}

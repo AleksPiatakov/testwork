@@ -1,0 +1,127 @@
+<?php
+
+include(DIR_WS_MODULES . 'filters.php');
+global $all_pids_string;
+if (!isset($config)) {
+    $config = $template->checkConfig('LEFT', 'L_FILTER');
+}
+if ((!empty($_GET['cPath']) or isset($_GET['manufacturers_id']) or isset($_GET['keywords'])) and ATTRIBUTES_PRODUCTS_MODULE_ENABLED == 'true' && is_array($config) && in_array(1, array_column($config, 'val')) && $all_pids_string) { ?>
+    <div id="filters_box" class="box filter_box">
+        <div class="filter_box_in">
+            <?php
+            //if checkbox "all" is checked
+            if ($_GET['filter_id'] == '') {
+                $allchecked = 'checked';
+            } else {
+                $allchecked = '';
+            }
+
+            //price range filter
+            global $rmin, $rmax, $price_fltr, $listing_sql_max;
+            $priceRangeFilterHtml = '';
+            if ($config['price_range']['val'] == 1 && $rmin != $rmax) {
+                $priceRangeFilterHtml .= '<div class="dipcen">
+                         <div><span class="filter_heading">' . COMP_PROD_PRICE . '</span></div>
+                         <div id="slider-range"></div>
+                         <span class="left slider-from">
+                           <input type="number" min="0" class="input-type-number-custom" name="rmin" id="range1" value="' . $rmin . '"  />
+                         </span>
+                         <span class="left slider-to">                                                                                                             
+                           <input type="number" min="0" class="input-type-number-custom" name="rmax" id="range2" value="' . $rmax . '" />
+                         </span>
+                         &nbsp;&nbsp;<span class="price_fltr">' . $price_fltr . '</span>
+                       </div>';
+
+                // show max price value for js:
+                $priceRangeFilterHtml .= '<input type="hidden" name="slider_max" value="' . ($listing_sql_max['max_price'] + 0) . '" />';
+                $priceRangeFilterHtml .= '<input type="hidden" name="slider_min" value="' . ($listing_sql_max['min_price'] + 0) . '" />';
+                $priceRangeFilterHtml .= '<div class="clear"></div>';
+            }
+
+            //manufacturers
+            global $manuf_sql, $filterManufacturers, $manufacturersCount, $redirectOptionsIdsArrayForCheck;
+            $manufacturersFilterHtml = '';
+            if ($config['manufacturers']['val'] == 1 && !empty($filterManufacturers) && empty($_GET['manufacturers_id'])) {
+                unset($tempSeoFilterInfo);
+                $manufacturersFilterHtml .= '<div class="attrib_divs ajax">
+                          <div id="ajax_search_brands" class="block">
+                            <div class="filter_heading">' . FILTER_BRAND . '</div>
+                              <div class="inner-scroll">
+                                <div class="item">
+                                  <input class="filter_all" type="checkbox" id="brand_all" ' . $allchecked . ' name="filter_id[]" value="not" />
+                                  <label for="brand_all">
+                                    <a href="' . getFilterUrl($_GET['cPath'], '', $redirectOptionsIdsArrayForCheck) . '">' . FILTER_ALL . '</a>
+                                  </label>
+                                </div>';
+
+
+                foreach ($filterManufacturers as $manufacturers_values) {
+                    $manufacturersFilterHtml .= '<div class="item">';
+                    $manufacturersFilterHtml .= '<input type="checkbox" id="brand_' . $manufacturers_values['manufacturers_id'] . '" name="filter_id[]" ' . $manufacturers_values['check'] . ' value="' . $manufacturers_values['manufacturers_id'] . '" />
+                                   <label for="brand_' . $manufacturers_values['manufacturers_id'] . '"><a href="' . $manufacturers_values['href'] . '">' . $manufacturers_values['manufacturers_name'] . $manufacturers_values['count'] . '</a></label>';
+                    $manufacturersFilterHtml .= '</div>';
+                }
+
+                $manufacturersFilterHtml .= '</div></div></div>';
+            }
+
+            //attributes filter
+            global $attrs_array, $attr_vals_array, $attr_vals_names_array, $attr_names_array, $redirectOptionsIdsArrayForCheck, $checkFilterNext, $checkFilterRobots;
+            $attributesFilterHtml = '';
+            if ($config['attributes']['val'] == 1) {
+
+                if (is_array($attrs_array)) {
+                    foreach ($attrs_array as $at_id) {
+                        if (is_array($show_in_filter) and in_array($at_id, $show_in_filter)) {
+                            $attributesFilterHtml .= '<span class="filter_heading">' . $attr_names_array[$at_id] . '</span>';
+                            $attributesFilterHtml .= '<div class="attrib_divs">';
+
+                            // if checkbox "all" is checked
+                            if ($_GET[$at_id] == '') {
+                                $allchecked = 'checked';
+                            } else {
+                                $allchecked = '';
+                            }
+
+                            $allOptionsVal = $redirectOptionsIdsArrayForCheck;
+                            if (isset($allOptionsVal[$at_id])) {
+                                unset($allOptionsVal[$at_id]);
+                            }
+                            $filterText = ($checkFilterNext || $checkFilterRobots) ? FILTER_ALL : '<a href="' . getFilterUrl($_GET['cPath'], $_GET['filter_id'], $allOptionsVal) . '">' . FILTER_ALL . '</a>';
+                            // output checkbox "all"
+                            $attributesFilterHtml .= '<div class="item"><input class="filter_all" id="filter_all_' . $at_id . '" type="checkbox" ' . $allchecked . ' name="' . $at_id . '" value="not" />
+                            <label for="filter_all_' . $at_id . '">
+                                    ' . $filterText . '
+                            </label></div>';
+                            // get all values for current option (attribute)
+                            if (is_array($attr_vals_array[$at_id])) {
+                                foreach ($attr_vals_array[$at_id] as $at_val_id => $at_val_name) {
+                                    // check if current attribute value is checked
+                                    $optionValueData = getOptionValueData($at_id, $at_val_id, $at_val_name);
+                                    $attributesFilterHtml .= '<div class="item' . ($optionValueData['count'] ? '' : ' pointer_events_none') . '">
+                                     <input id="' . $at_val_id . '2" type="checkbox" name="' . $at_id . '" ' . $optionValueData['checked'] . ' value="' . $at_val_id . '" />
+                                     <label for="' . $at_val_id . '2">' . $optionValueData['text'] . '</label>                                    
+                                   </div>';
+                                }
+                            }
+
+                            $attributesFilterHtml .= '</div>';
+                        }
+                    }
+                }
+            }
+
+            //collect html
+            $filterContentHtml = $priceRangeFilterHtml .
+                $manufacturersFilterHtml .
+                '<div class="filter_cont" id="attribs" ><noindex>' .
+                $attributesFilterHtml .
+                '</noindex></div>';
+
+            echo $filterContentHtml;
+            ?>
+        </div>
+    </div>
+    <?php
+}
+?>

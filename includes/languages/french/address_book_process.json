@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "Mes données",
+    "NAVBAR_TITLE_2": "Carnet d'adresses",
+    "NAVBAR_TITLE_ADD_ENTRY": "Nouvelle entrée",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "Modifier une entrée",
+    "NAVBAR_TITLE_DELETE_ENTRY": "Supprimer un enregistrement",
+    "HEADING_TITLE_ADD_ENTRY": "Nouvelle entrée",
+    "HEADING_TITLE_MODIFY_ENTRY": "Modifier une entrée",
+    "HEADING_TITLE_DELETE_ENTRY": "Supprimer un enregistrement",
+    "DELETE_ADDRESS_TITLE": "Supprimer l'adresse",
+    "DELETE_ADDRESS_DESCRIPTION": "Voulez-vous vraiment supprimer les adresses du carnet d'adresses?",
+    "NEW_ADDRESS_TITLE": "Nouvelle entrée",
+    "SELECTED_ADDRESS": "L'adresse sélectionnée",
+    "SET_AS_PRIMARY": "Faire par défaut.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "L'adresse sélectionnée est supprimé à partir du carnet d'adresses.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "Votre carnet d'adresses à jour.",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "L'adresse par défaut ne peut pas être supprimé. Définissez l'état par défaut à une autre adresse et essayez encore une fois.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "Le carnet d'adresses n'est pas trouvée.",
+    "ERROR_ADDRESS_BOOK_FULL": "Votre carnet d'adresses est complètement rempli. Supprimez inutile Vous adresse, et seulement après cela, Vous pouvez ajouter une nouvelle adresse."
+}

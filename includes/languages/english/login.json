@@ -1,0 +1,17 @@
+{
+    "NAVBAR_TITLE": "Login",
+    "HEADING_TITLE": "Welcome, Please Sign In",
+    "TEXT_NEW_CUSTOMER": "I am a new customer.",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "By creating an account at %s you will be able to shop faster, be up to date on an orders status, and keep track of the orders you have previously made.",
+    "TEXT_RETURNING_CUSTOMER": "I am a returning customer.",
+    "TEXT_PASSWORD_FORGOTTEN": "Password forgotten? Click here.",
+    "TEXT_LOGIN_ERROR": "Error: No match for E-Mail Address and\/or Password.",
+    "NO_CUSTOMER": "There is no such user in our database",
+    "NO_PASS": "Wrong password",
+    "SOC_VK": "VK",
+    "SOC_SITE": "site",
+    "SOC_ENTER_FROM_OTHER": "Login from another social network or enter your login\/password.",
+    "SOC_NOW_FROM": "You are trying to login from",
+    "SOC_NEED_FROM": "You was registered via",
+    "SOC_LOGIN_THX": "You was successfully login"
+}

@@ -1,0 +1,17 @@
+{
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_TITLE": "MultiSafepay Connect",
+    "MODULE_PAYMENT_MULTISAFEPAY_EMAIL_TEXT_ORDER_STATUS": "Statut de la commande:",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_RETURN_TO_SHOP": "Revenir à% s",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR": "Une erreur est survenue",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REDIRECT": "Impossible d&#39;effectuer la redirection",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_STATUS": "Impossible de récupérer l&#39;état de la commande",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNKNOWN": "Aucun détail disponible",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNCLEARED": "La transaction n&#39;est pas effacée",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_RESERVED": "La transaction est réservée",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_VOID": "La transaction est annulée",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_DECLINED": "La transaction est refusée",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REVERSED": "La transaction est annulée",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REFUNDED": "La transaction est remboursée",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_EXPIRED": "La transaction est expirée",
+    "MODULE_PAYMENT_MULTISAFEPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/maestro.png\"><img src=\"images/payment_method/paypal.png\"><img src=\"images/payment_method/ae.png\"></span>"
+}

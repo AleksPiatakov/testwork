@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Zawartość koszyka",
+    "HEADING_TITLE": "Mój koszyk",
+    "TABLE_HEADING_REMOVE": "Usuń",
+    "TABLE_HEADING_REMOVE_FROM": "z koszyka",
+    "TABLE_HEADING_QUANTITY": "Ilość",
+    "TABLE_HEADING_IMAGE": "Zdjęcie",
+    "TABLE_HEADING_NAME": "Nazwa",
+    "TABLE_HEADING_PRICE": "Cena",
+    "TABLE_HEADING_PRICE_TOTAL": "Cena",
+    "TABLE_HEADING_MODEL": "Kod produktu",
+    "TABLE_HEADING_PRODUCTS": "Towary",
+    "TABLE_HEADING_TOTAL": "Cena",
+    "TEXT_CART_EMPTY": "Twój koszyk jest pusty!",
+    "SUB_TITLE_COUPON": "Kupon",
+    "SUB_TITLE_COUPON_SUBMIT": "Zastosuj",
+    "SUB_TITLE_COUPON_VALID": "Gratulacje! <br \/>Wprowadziłeś odpowiedni kupon!",
+    "SUB_TITLE_COUPON_INVALID": "Podałeś nieprawidłowy kupon!",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Wybrane towary %s są niedostępne w naszym magazynie w ilości wystarczającej dla Twojego zamówienia.<br>Zmień liczbę wybranych produktów (%s), dziękujemy",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Wybrane towary %s są niedostępne w naszym magazynie w ilości wystarczającej dla Twojego zamówienia.<br>Można je jednak kupić i sprawdzić ilość dostępną do dostawy etapowej w procesie realizacji zamówienia."
+}

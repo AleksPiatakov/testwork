@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Złożenie zamówienia",
+    "NAVBAR_TITLE_2": "Pomyślnie",
+    "HEADING_TITLE": "Twoje zamówienie zostało złożone",
+    "TEXT_SUCCESS": "Twoje zamówienie zostało pomyślnie złożone!",
+    "TEXT_THANKS_FOR_SHOPPING": "Twoje zamówienie zostało pomyślnie złożone!",
+    "TABLE_HEADING_COMMENTS": "W najbliższym czasie skontaktujemy się ze tobą",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Ten link jest ważny do: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " raz można pobrać plik.",
+    "SMS_NEW_ORDER": "Masz nowe zamówienie",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Masz nowe szybkie zamówienie",
+    "SMS_CALL_BACK": "Oddzwoń na mój numer: ",
+    "TEXT_SUCCESS_INFO": "Wszystkie dalsze instrukcje i szczegóły dotyczące płatności zostały wysłane do Ciebie pocztą"
+}

@@ -1,0 +1,20 @@
+{
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_TITLE": "Authorize.net",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_PUBLIC_TITLE": "Authorize.net",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_TEXT_DESCRIPTION": "<a href=\"https:\/\/www.authorize.net\" target=\"_blank\" style=\"text-decoration: underline; font-weight: bold;\">Επισκεφθείτε τον ιστότοπο του Authorize.net<\/a>",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_OWNER": "Ιδιοκτήτης Πιστωτικής Κάρτας:",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_NUMBER": "Αριθμός κάρτας",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES": "Ημερομηνία λήξης πιστωτικής κάρτας:",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_MM": "Λήγει (μήνας)",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_YY": "Λήγει (έτος)",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_CREDIT_CARD_CVC": "Κωδικός CVC",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_TITLE": "Υπήρξε σφάλμα κατά την επεξεργασία της πιστωτικής σας κάρτας",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_GENERAL": "Δοκιμάστε ξανά και εάν τα προβλήματα παραμένουν, δοκιμάστε έναν άλλο τρόπο πληρωμής.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_DECLINED": "Αυτή η συναλλαγή με πιστωτική κάρτα έχει απορριφθεί. Δοκιμάστε ξανά και εάν τα προβλήματα παραμένουν, δοκιμάστε άλλη πιστωτική κάρτα ή μέθοδο πληρωμής",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_INVALID_EXP_DATE": "Η ημερομηνία λήξης της πιστωτικής κάρτας δεν είναι έγκυρη. Ελέγξτε τα στοιχεία της κάρτας και δοκιμάστε ξανά.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_EXPIRED": "Η πιστωτική κάρτα έχει λήξει. Δοκιμάστε ξανά με άλλη κάρτα ή μέθοδο πληρωμής.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_ERROR_CVC": "Ο αριθμός ελέγχου πιστωτικής κάρτας (CVC) δεν είναι έγκυρος. Ελέγξτε τα στοιχεία της κάρτας και προσπαθήστε ξανά.",
+    "MODULE_PAYMENT_AUTHORIZENET_CC_AIM_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

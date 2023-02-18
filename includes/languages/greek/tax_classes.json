@@ -1,0 +1,15 @@
+{
+    "HEADING_TITLE": "Φορολογικές κλάσεις",
+    "TABLE_HEADING_TAX_CLASSES": "Φορολογικές κλάσεις",
+    "TABLE_HEADING_ACTION": "Δράση",
+    "TEXT_INFO_EDIT_INTRO": "Κάντε τις απαραίτητες αλλαγές",
+    "TEXT_INFO_CLASS_TITLE": "Τίτλος Φορολογίας:",
+    "TEXT_INFO_CLASS_DESCRIPTION": "Περιγραφή:",
+    "TEXT_INFO_DATE_ADDED": "Ημερομηνία προστέθηκε:",
+    "TEXT_INFO_LAST_MODIFIED": "Τελευταία τροποποίηση:",
+    "TEXT_INFO_INSERT_INTRO": "Εισαγάγετε τη νέα φορολογική κλάση με τα σχετικά δεδομένα της",
+    "TEXT_INFO_DELETE_INTRO": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη φορολογική κλάση?",
+    "TEXT_INFO_HEADING_NEW_TAX_CLASS": "Νέα φορολογική κατηγορία",
+    "TEXT_INFO_HEADING_EDIT_TAX_CLASS": "Επεξεργασία φορολογικής κλάσης",
+    "TEXT_INFO_HEADING_DELETE_TAX_CLASS": "Διαγραφή της φορολογικής κλάσης"
+}

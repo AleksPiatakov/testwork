@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "訂單結帳作業",
+    "NAVBAR_TITLE_2": "結帳完成",
+    "HEADING_TITLE": "您的訂單結帳已完成",
+    "TEXT_SUCCESS": "您的訂單結帳已完成，我們會將您的產品運送到您指定的運送地址，約需 2-3 工作天，例假日不算。",
+    "TEXT_THANKS_FOR_SHOPPING": "謝謝您完成線上購物。",
+    "TABLE_HEADING_COMMENTS": "我們將儘快處理您的訂單",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Expiry date: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " downloads remaining",
+    "SMS_NEW_ORDER": "您有新的訂單",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "You have a new quick order",
+    "SMS_CALL_BACK": "Call me back at my number: ",
+    "TEXT_SUCCESS_INFO": "All further instructions and details for payment have been sent to you by mail"
+}

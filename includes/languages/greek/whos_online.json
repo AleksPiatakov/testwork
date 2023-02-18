@@ -1,0 +1,14 @@
+{
+    "HEADING_TITLE": "Ποιος είναι συνδεδεμένος",
+    "TABLE_HEADING_ONLINE": "Συνδεδεμένος",
+    "TABLE_HEADING_CUSTOMER_ID": "ID",
+    "TABLE_HEADING_FULL_NAME": "Πλήρες όνομα",
+    "TABLE_HEADING_IP_ADDRESS": "IP Διεύθυνση",
+    "TABLE_HEADING_ENTRY_TIME": "Χρόνος εισόδου",
+    "TABLE_HEADING_LAST_CLICK": "Τελευταίο κλικ",
+    "TABLE_HEADING_LAST_PAGE_URL": "Τελευταιο URL",
+    "TABLE_HEADING_ACTION": "Δράση",
+    "TABLE_HEADING_SHOPPING_CART": "Χρήστης Καλάθιου αγορών",
+    "TEXT_SHOPPING_CART_SUBTOTAL": "Υποσύνολοl",
+    "TEXT_NUMBER_OF_CUSTOMERS": "Επί του παρόντος υπάρχουν πελάτες% s σε απευθείας σύνδεση"
+}

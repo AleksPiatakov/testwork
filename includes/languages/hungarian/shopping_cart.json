@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "A kosár tartalma",
+    "HEADING_TITLE": "Bevásárlókosár",
+    "TABLE_HEADING_REMOVE": "Eltávolítás",
+    "TABLE_HEADING_REMOVE_FROM": "a kosárból",
+    "TABLE_HEADING_QUANTITY": "Db",
+    "TABLE_HEADING_IMAGE": "Kép",
+    "TABLE_HEADING_NAME": "Név",
+    "TABLE_HEADING_PRICE": "Ár",
+    "TABLE_HEADING_PRICE_TOTAL": "Összesen",
+    "TABLE_HEADING_MODEL": "Modell",
+    "TABLE_HEADING_PRODUCTS": "Termék",
+    "TABLE_HEADING_TOTAL": "Összesen",
+    "TEXT_CART_EMPTY": "A bevásárlókosara üres!",
+    "SUB_TITLE_COUPON": "Kupon",
+    "SUB_TITLE_COUPON_SUBMIT": "Jóváhagy",
+    "SUB_TITLE_COUPON_VALID": "A kupon érvényes, ellenõrizze a kedvezményt:",
+    "SUB_TITLE_COUPON_INVALID": "Ez a kupon sajnos érvénytelen.",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "A termékek ezzel a címkével %s nincsenek raktáron a kívánt darabszámban.<br>Kérjük, módosítsa a (%s) jelölt termékek mennyiségét, köszönjük!",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "A %s megjelölt termékek nincsenek raktáron a kívánt darabszámban.<br>Megvásárolhatja õket, és a készletet ellenõrizheti késõbb a fizetési folyamat során."
+}

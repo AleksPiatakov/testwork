@@ -1,0 +1,13 @@
+{
+    "HEADING_TITLE": "聯絡我們",
+    "HEADING_SUBTITLE": "Contact us now and get your own Internet-shop &amp; easy-to-use cms for the online store!",
+    "NAVBAR_TITLE": "聯絡我們",
+    "TEXT_SUCCESS": "我們已收到您的留言，並已將您的訊息傳送給網站客服人員，敬請稍候。",
+    "EMAIL_SUBJECT": "客戶詢問事項： %s",
+    "ENTRY_NAME": "您的全名",
+    "ENTRY_EMAIL": "電子郵件地址",
+    "ENTRY_PHONE": "連絡電話",
+    "ENTRY_ENQUIRY": "您要詢問的事項",
+    "SEND_TO_TEXT": "傳送到:",
+    "POP_CONTACT_US": "收到您的email後, 我們會儘快與您連絡 ~ "
+}

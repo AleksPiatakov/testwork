@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "Mijn e-mail adressen",
+    "NAVBAR_TITLE_2": "Adresboek",
+    "HEADING_TITLE": "Mijn adresboek",
+    "PRIMARY_ADDRESS_TITLE": "Uw adres",
+    "PRIMARY_ADDRESS_DESCRIPTION": "Dit adres is de standaard.<br>Het zal worden gebruikt bij het maken van aankopen en elke andere handeling in onze winkel.",
+    "ADDRESS_BOOK_TITLE": "De vermelding in het adressenboek",
+    "PRIMARY_ADDRESS": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": "<b>OPMERKING:<\/b> de Maximale hoeveelheid adresboek <b>%s<\/b> records"
+}

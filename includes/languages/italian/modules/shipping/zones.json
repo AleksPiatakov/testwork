@@ -1,0 +1,8 @@
+{
+    "MODULE_SHIPPING_ZONES_TEXT_TITLE": "Le tariffe per la zona",
+    "MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION": "zonale tariffa base",
+    "MODULE_SHIPPING_ZONES_TEXT_WAY": "Consegna a",
+    "MODULE_SHIPPING_ZONES_TEXT_UNITS": "Kg.",
+    "MODULE_SHIPPING_ZONES_INVALID_ZONE": "Per il paese selezionato nessuna possibilità di spedizione ",
+    "MODULE_SHIPPING_ZONES_UNDEFINED_RATE": "Il costo della spedizione per ora non può essere determinato "
+}

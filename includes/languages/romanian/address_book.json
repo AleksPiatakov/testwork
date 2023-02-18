@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "My Account",
+    "NAVBAR_TITLE_2": "Address Book",
+    "HEADING_TITLE": "Adrese",
+    "PRIMARY_ADDRESS_TITLE": "Adresa principala",
+    "PRIMARY_ADDRESS_DESCRIPTION": "This address is used as the pre-selected shipping and billing address for orders placed on this store.<br><br>This address is also used as the base for product and service tax calculations.",
+    "ADDRESS_BOOK_TITLE": "Adrese",
+    "PRIMARY_ADDRESS": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": ""
+}

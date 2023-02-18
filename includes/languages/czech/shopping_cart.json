@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Obsah košíku",
+    "HEADING_TITLE": "Nákupní košík",
+    "TABLE_HEADING_REMOVE": "Odstranit",
+    "TABLE_HEADING_REMOVE_FROM": "z košíku",
+    "TABLE_HEADING_QUANTITY": "Množství.",
+    "TABLE_HEADING_IMAGE": "Obrázek",
+    "TABLE_HEADING_NAME": "Jméno",
+    "TABLE_HEADING_PRICE": "Cena",
+    "TABLE_HEADING_PRICE_TOTAL": "Cena",
+    "TABLE_HEADING_MODEL": "Model",
+    "TABLE_HEADING_PRODUCTS": "Produkty",
+    "TABLE_HEADING_TOTAL": "Celkem",
+    "TEXT_CART_EMPTY": "Váš nákupní košík je prázdný!",
+    "SUB_TITLE_COUPON": "Kupón",
+    "SUB_TITLE_COUPON_SUBMIT": "Odeslat",
+    "SUB_TITLE_COUPON_VALID": "Váš kupón je platný. Zkontrolujte slevu:",
+    "SUB_TITLE_COUPON_INVALID": "Váš kupón je neplatný.",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Produkty označené %s neexistují v požadovaném množství na našem skladě.<br>Změňte prosím množství produktů označených (%s), děkujeme",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Produkty označené %s neexistují v požadovaném množství na našem skladě.<br>Můžete si je přesto koupit a zkontrolovat množství, které máme na skladě pro okamžité dodání v procesu pokladny."
+}

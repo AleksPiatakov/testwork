@@ -1,0 +1,48 @@
+<?php 
+define('HEADING_TITLE','Rabais');
+define('TABLE_HEADING_PRODUCTS','Marchandises');
+define('TABLE_HEADING_PRODUCTS_ID', 'ID');
+define('TABLE_HEADING_PRODUCTS_PRICE','Prix');
+define('TABLE_HEADING_PRODUCTS_VENDOR_CODE', 'Vendor Code');
+define('TABLE_HEADING_STATUS','L\'état');
+define('TABLE_HEADING_ACTION','L\'action');
+define('TABLE_HEADING_MODEL','Modèle');
+define('TEXT_SPECIALS_PRODUCT','Marchandises:');
+define('TEXT_SPECIALS_PRODUCT_WITHOUT_ATTRIBUTES', 'Without attributes');
+define('TEXT_SPECIALS_PRODUCT_All_ATTRIBUTES', 'All attributes');
+define('TEXT_SPECIALS_SPECIAL_PRICE','Prix spécial:');
+define('TEXT_SPECIALS_EXPIRES_DATE','Valable Jusqu\'Au:');
+define('TEXT_SPECIALS_START_DATE', 'Start Date:');
+define('TEXT_DISPLAY_COUNTDOWN', 'Display countdown:');
+define('TEXT_SPECIALS_PRICE_TIP','<b>Remarque:</b><ul><li>Vous pouvez saisir un pourcentage de réduction dans le champ "Prix Spécial", par exemple: <b>20%</b></li><li>Si Vous entrez un nouveau prix, le séparateur décimal doit être un \'.\' (le point), par exemple: <b>49.99</b></li></ul>');
+define('TEXT_SPECIALS_CUSTOMERS','Customer Special Price:');
+define('TEXT_ENTER_NAME','Entrez le nom ou le code du produit:');
+define('TEXT_SPECIALS_GROUPS','Group Special Price:');
+define('TEXT_INFO_DATE_ADDED','Date d\'addition:');
+define('TEXT_INFO_LAST_MODIFIED','Dernière modification:');
+define('TEXT_INFO_NEW_PRICE','Nouveau Prix:');
+define('TEXT_INFO_ORIGINAL_PRICE','Le Prix D\'Origine:');
+define('TEXT_INFO_PERCENTAGE','Pourcentage:');
+define('TEXT_INFO_EXPIRES_DATE','Valable jusqu\'au:');
+define('TEXT_INFO_STATUS_CHANGE','Modifier le statut:');
+define('TEXT_INFO_HEADING_DELETE_SPECIALS','Supprimer Rabais');
+define('TEXT_INFO_DELETE_INTRO','Voulez-vous vraiment supprimer специальнцю le prix de l\'article?');
+define('TABLE_HEADING_NAME','Le nom de');
+define('TABLE_HEADING_PRICE','Prix');
+define('TABLE_HEADING_PRICE_DISCOUNT','Prix discount');
+define('TABLE_HEADING_DISCOUNT_PERCENT','Réduction en %');
+define('TABLE_HEADING_DATE_ADD_DISCOUNT','Date de création de rabais');
+define('TABLE_HEADING_EXPIRES_DATE','Valable Jusqu\'Au');
+define('TABLE_HEADING_ATTR','Les attributs');
+define('TEXT_INFO_ONLY_DISCOUNT','Que de réduction');
+define('TEXT_INFO_CATEGORY','Toutes les catégories');
+define('TEXT_INFO_MANUFACTURERS','Toutes les marques');
+define('BUTTON_CANCEL_NEW','annuler');
+define('BUTTON_EDIT_NEW','modifier');
+define('BUTTON_DELETE_NEW','supprimer');
+define('BUTTON_NEW_PRODUCT_NEW','un nouveau produit');
+
+// Validation
+define('TEXT_SPECIAL_ALREADY_EXIST', 'Special for this product and this customers is already existing.');
+define('TEXT_EMPTY_PRODUCT', 'Choose product.');
+define('TEXT_EMPTY_CUSTOMER', 'Choose customer or group.');

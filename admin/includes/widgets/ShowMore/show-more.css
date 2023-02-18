@@ -1,0 +1,19 @@
+.pagination>.active>span{
+    background: #393f4f!important;
+    color: white!important;
+}
+.row_pagin_admin .show-more-btn {
+    display: flex;
+    align-items: center;
+    width: auto;
+}
+.row_pagin_admin .show-more-btn.disabled {
+    background-color: #ccc;
+    opacity: 0;
+}
+.show-more-btn #loadMoreI {
+    width: 14px;
+    height: 14px;
+    margin-left: 5px;
+    fill: #fff;
+}

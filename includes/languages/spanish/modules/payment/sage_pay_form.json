@@ -1,0 +1,10 @@
+{
+    "MODULE_PAYMENT_SAGE_PAY_FORM_TEXT_TITLE": "Formulario de pago sabio",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_TEXT_PUBLIC_TITLE": "Tarjeta de crédito o tarjeta bancaria (procesada por Sage Pay)",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_ERROR_ADMIN_MCRYPT": "Este módulo requiere que Mcrypt esté habilitado en PHP y no se cargará hasta que se haya habilitado en este servidor web.",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_ERROR_ADMIN_CONFIGURATION": "Este módulo no se cargará hasta que se hayan configurado los parámetros Nombre de inicio de sesión del proveedor y Contraseña de cifrado. Edite y configure los ajustes de este módulo.",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_ERROR_TITLE": "Se ha producido un error al procesar la transacción de su pedido.",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_ERROR_GENERAL": "Intente nuevamente y si los problemas persisten, intente con otro método de pago.",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_TEXT_DESCRIPTION": "<img src=\"images\/icon_info.gif\" border=\"0\" \/>&nbsp;<a href=\"http:\/\/library.oscommerce.com\/Package&en&sage_pay&oscom23&form\" target=\"_blank\" style=\"text-decoration: underline; font-weight: bold;\">View Online Documentation<\/a><br \/><br \/><img src=\"images\/icon_popup.gif\" border=\"0\">&nbsp;<a href=\"https:\/\/support.sagepay.com\/apply\/default.aspx?PartnerID=E194E079-84A9-493C-AB9A-91CB362D3238&PromotionCode=osc3MF\" target=\"_blank\" style=\"text-decoration: underline; font-weight: bold;\">Visit Sage Pay Website<\/a>&nbsp;<a href=\"javascript:toggleDivBlock('sagePayInfo');\">(info)<\/a><span id=\"sagePayInfo\" style=\"display: none;\"><br \/><i>Using the above link to signup at Sage Pay grants osCommerce a small financial bonus for referring a customer.<\/i><\/span>",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/paypal.png\"><img src=\"images/payment_method/ae.png\"></span>"
+}

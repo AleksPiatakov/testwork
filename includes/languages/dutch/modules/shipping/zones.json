@@ -1,0 +1,8 @@
+{
+    "MODULE_SHIPPING_ZONES_TEXT_TITLE": "De tarieven voor de zone",
+    "MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION": "zonale basis tarief",
+    "MODULE_SHIPPING_ZONES_TEXT_WAY": "Levering",
+    "MODULE_SHIPPING_ZONES_TEXT_UNITS": "Kg.",
+    "MODULE_SHIPPING_ZONES_INVALID_ZONE": "Voor bepaalde landen is er geen mogelijkheid van levering ",
+    "MODULE_SHIPPING_ZONES_UNDEFINED_RATE": "Verzendkosten kan nu niet worden bepaald "
+}

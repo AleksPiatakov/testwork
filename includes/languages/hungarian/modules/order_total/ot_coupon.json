@@ -1,0 +1,14 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Kedvezmény kuponok",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Ajándékutalványok\/Kedvezmény kuponok",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Kedvezmény kupon",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Érvénytelen kuponkód",
+    "ERROR_RESTRICTION_COUPON": "A kupon ezekre a termékekre érvénytelen",
+    "ERROR_MINIMUM_CART_AMOUNT": "Minimum rendelési összeg ehhez a kuponhoz: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "Ez a kupon még nem elérhetõ",
+    "ERROR_INVALID_FINISDATE_COUPON": "Ez a kupon már lejárt",
+    "ERROR_INVALID_USES_COUPON": "Ez a kupon csak ",
+    "TIMES": " alkalommal használható.",
+    "ERROR_INVALID_USES_USER_COUPON": "A kupont a megengedett maximális számú alkalommal használta fel.",
+    "TEXT_ENTER_COUPON_CODE": "Ha van kuponkódja, itt írja be&nbsp;&nbsp;"
+}

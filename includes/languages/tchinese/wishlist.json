@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "下次購買清單:",
+    "BOX_TEXT_PRICE": "價格",
+    "BOX_TEXT_PRODUCT": "產品名稱",
+    "BOX_TEXT_IMAGE": "圖片",
+    "BOX_TEXT_NO_ITEMS": "No products are in your Wishlist. <br><br>",
+    "TEXT_EMAIL": "電子郵件：",
+    "TEXT_MESSAGE": "Message: ",
+    "TEXT_ITEM_IN_CART": "Item in Cart",
+    "TEXT_ITEM_NOT_AVAILABLE": "Item no longer available",
+    "WISHLIST_EMAIL_SUBJECT": "has sent you their wishlist from %s",
+    "WISHLIST_SENT": "Your wishlist has been sent.",
+    "WISHLIST_EMAIL_LINK": "\n$from_name's public wishlist is located here:\n$link\n\n謝謝您　Thank you,\n%s",
+    "WISHLIST_EMAIL_GUEST": "謝謝您, %s",
+    "ERROR_YOUR_NAME": "Please enter your Name.",
+    "ERROR_YOUR_EMAIL": "Please enter your Email.",
+    "ERROR_VALID_EMAIL": "Please enter a valid email address.",
+    "ERROR_ONE_EMAIL": "You must include atleast one name and email.",
+    "ERROR_ENTER_EMAIL": "Please enter an email address.",
+    "ERROR_ENTER_NAME": "Please enter the email recipents name.",
+    "ERROR_MESSAGE": "Please include a brief message."
+}

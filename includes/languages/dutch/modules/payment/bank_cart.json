@@ -1,0 +1,6 @@
+{
+  "MODULE PAYMENT BANK_CART_TRANSFER_TEXT_TITLE": "Bankkaart Betaling",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_DESCRIPTION": "Onze bankgegevens:<br>Naam bank: &nbsp;&nbsp;%s<br>Kaartnummer: &nbsp;&nbsp;%s<br>Ontvanger: &nbsp;&nbsp;&nbsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_EMAIL_FOOTER": "Onze bankgegevens:<br>Banknaam: &nbsp;&nbsp;%s<br>Kaartnummer: &nbsp;&nbsp;%s<br>Ontvanger: &nbsp;&nbsp;&nbsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_IMAGES": "<span><img src=images/payment_method/visa.png><img src=images/payment_method/mastercard.png></span>"
+}

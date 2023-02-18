@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "La prsentation de la commande",
+    "NAVBAR_TITLE_2": "Avec succès",
+    "HEADING_TITLE": "Votre commande est décoré!",
+    "TEXT_SUCCESS": "Votre commande avec succès à la décoration!",
+    "TEXT_THANKS_FOR_SHOPPING": "Votre commande avec succès à la décoration!",
+    "TABLE_HEADING_COMMENTS": "Bientôt notre manager vous contactera.",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Le lien est valide jusqu'à: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " fois vous pouvez télécharger un fichier.",
+    "SMS_NEW_ORDER": "Vous avez une nouvelle commande",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Vous avez une nouvelle commande rapide",
+    "SMS_CALL_BACK": "Rappelle-moi sur mon numéro: ",
+    "TEXT_SUCCESS_INFO": "Toutes les autres instructions et détails pour le paiement vous ont été envoyés par courrier"
+}

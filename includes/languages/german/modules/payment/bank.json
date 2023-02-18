@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Bargeldlose Abrechnung",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Unsere Bank:<br><br>Bankname: &nbsp;&nbsp;&nbsp;%s<br> Kontokorrent: &nbsp;&nbsp;&nbsp;%s<br> BIC: &nbsp;&nbsp;&nbsp; %s<br> Cor.\/account: &nbsp;&nbsp;&nbsp; %s <br> INN: &nbsp;&nbsp;&nbsp; %s <br>Empfänger: &nbsp;&nbsp;&nbsp; %s Gearbox: &nbsp;&nbsp;&nbsp; %s<br>Zahlung: &nbsp;&nbsp;&nbsp;%s<br> Nach Zahlungsauftrag müssen uns informieren per E-Mail %s Zahlung Tatsache. Ihre Bestellung wird sofort versendet werden, nachdem Zahlung Tatsache bestätigt.<br><br><a href=kvitan.php target=_blank><b><span>Die Quittung für die Zahlung<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Unsere Bankverbindung: \n\nBankname: %s\nRaschetny Konto:%s \nBIK:%s \nKor \/ Kosten: %s \ninn: %s \nPoluchatel: %s \nKPP: %s \nNaznachenie Zahlung: %s \n\nNach die Reihenfolge der Zahlung sollten Sie uns per E-Mail wissen lassen, %s die Tatsache der Zahlung. Wird Ihre Bestellung sofort nach Zahlungsbestätigung der Tatsache gesendet wird.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

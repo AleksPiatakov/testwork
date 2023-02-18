@@ -1,0 +1,9 @@
+{
+    "NAVBAR_TITLE_1": "我的帳戶",
+    "NAVBAR_TITLE_2": "編輯帳戶",
+    "HEADING_TITLE": "我的帳戶資訊",
+    "MY_ACCOUNT_TITLE": "我的帳戶",
+    "SUCCESS_ACCOUNT_UPDATED": "您的帳戶資訊已經完成更新",
+    "SUCCESS_EMAIL_NEW_SENT": "您帳戶中的電子郵件地址更改通知.\n您的新電子郵件地址: %s",
+    "SUCCESS_EMAIL_SENT": "您帳戶中的電子郵件地址更改通知."
+}

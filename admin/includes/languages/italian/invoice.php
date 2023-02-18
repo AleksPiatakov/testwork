@@ -1,0 +1,28 @@
+<?php 
+define('TITLE_PRINT_ORDER','Ordine n ° ');
+define('TABLE_HEADING_COMMENTS','Commenti');
+define('TABLE_HEADING_PRODUCTS_MODEL','Codice articolo');
+define('TABLE_HEADING_PRODUCTS','Prodotti');
+define('TABLE_HEADING_TAX','Tassa');
+define('TABLE_HEADING_TOTAL','Tutto');
+define('TABLE_HEADING_PRICE_EXCLUDING_TAX','Prezzo');
+define('TABLE_HEADING_PRICE_INCLUDING_TAX','Prezzo (iva inclusa)');
+define('TABLE_HEADING_TOTAL_EXCLUDING_TAX','Totale (iva esclusa)');
+define('TABLE_HEADING_TOTAL_INCLUDING_TAX','Totale');
+define('ENTRY_SOLD_TO','Acquirente:');
+define('ENTRY_SHIP_TO','Indirizzo di spedizione:');
+define('ENTRY_PAYMENT_METHOD','Metodo di pagamento:');
+define('ENTRY_SUB_TOTAL','Pre-Importo:');
+define('ENTRY_TAX','Tassa di soggiorno:');
+define('ENTRY_SHIPPING','Spedizione:');
+define('ENTRY_TOTAL','Totale:');
+define('ENTRY_SELLER','Venditore:');
+define('ENTRY_QTY','Q.tà (pz)');
+define('ENTRY_QTY_SUM','Articoli in ordine, pz');
+define('ENTRY_SUMBIT1','Ordine ricevuto. Pretese per la quantità e la qualità no.');
+define('ENTRY_SUMBIT2','Pretese per la quantità e la qualità no.');
+define('ENTRY_SIGN','firma del cliente');
+define('INVOICE_CLOSE_BTN','Chiudere');
+define('INVOICE_SELLER_NAME','Solomono Sergei');
+define('INVOICE_SELLER_EMAIL','solomono.net');
+define('INVOIC_BOX_ORDER_DATE','Data ordine:');

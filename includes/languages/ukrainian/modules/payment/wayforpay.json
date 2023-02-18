@@ -1,0 +1,19 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "Description",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Включити \/ Виключити модуль",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Статус за замовчуванням",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Merchant account",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Merchant secret",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "Порядок сортування",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "статус оплати",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "True - включити, False - вимкнути",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "Статус який встановлюється замовлення при його створенні",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Merchant account",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Merchant secret",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "Порядок сортування модуля в блоці з модулями оплати",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "Статус який встановлюється замовлення при успішну оплату",
+    "MODULE_PAYMENT_WAYFORPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

@@ -1,0 +1,12 @@
+{
+    "NAVBAR_TITLE_1": "Meine Daten",
+    "NAVBAR_TITLE_2": "Bestellhistorie",
+    "HEADING_TITLE": "Bestellhistorie",
+    "TEXT_ORDER_STATUS": "Auftragsstatus",
+    "TEXT_ORDER_DATE": "Bestelldatum",
+    "TEXT_ORDER_SHIPPED_TO": "Lieferadresse:",
+    "TEXT_ORDER_BILLED_TO": "Käufer:",
+    "TEXT_ORDER_COST": "Summe",
+    "TEXT_ORDER_PC": "pcs.",
+    "TEXT_NO_PURCHASES": "Du hast leider noch nichts bei uns gekauft."
+}

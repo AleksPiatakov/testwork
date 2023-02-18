@@ -1,0 +1,28 @@
+<?php 
+define('HEADING_TITLE','Le Menu De L\'Administrateur De Boîtes');
+define('TABLE_HEADING_ACTION','L\'action');
+define('TABLE_HEADING_BOXES','Boxes');
+define('TABLE_HEADING_FILENAME','Liste des fichiers');
+define('TABLE_HEADING_GROUPS','Groupe');
+define('TABLE_HEADING_STATUS','Le statut de');
+define('TEXT_COUNT_BOXES','Boxes: ');
+define('TEXT_COUNT_FILES','Fichiers: ');
+define('TEXT_INFO_HEADING_DEFAULT_BOXES','Nom du fichier: ');
+define('TEXT_INFO_DEFAULT_BOXES_INTRO','Pour la boxe a été activé, cliquez sur le bouton vert pour faire de la boxe inactif(invisible), appuyez sur le bouton rouge.<br><br><b>ATTENTION:</b> Si Vous désactivez la boxe, tous les fichiers situés dans cette case aussi ne seront pas visibles!');
+define('TEXT_INFO_DEFAULT_BOXES_INSTALLED',' Actif');
+define('TEXT_INFO_DEFAULT_BOXES_NOT_INSTALLED',' Inactif');
+define('STATUS_BOX_INSTALLED','Actif');
+define('STATUS_BOX_NOT_INSTALLED','Inactif');
+define('STATUS_BOX_REMOVE','Désactiver');
+define('STATUS_BOX_INSTALL','Activer');
+define('TEXT_INFO_HEADING_DEFAULT_FILE','Fichier: ');
+define('TEXT_INFO_HEADING_DELETE_FILE','Confirmation de la suppression:');
+define('TEXT_INFO_HEADING_NEW_FILE','Ajouter un fichier à la boxe');
+define('TEXT_INFO_DEFAULT_FILE_INTRO','Appuyez sur la touche <b>ajouter</b> et les fichiers que Vous sélectionnez seront ajoutés à la boxe: ');
+define('TEXT_INFO_DELETE_FILE_INTRO','Voulez-vous vraiment supprimer le fichier <span><b>%s</b></span> de la boxe <b>%s</b>? ');
+define('TEXT_INFO_NEW_FILE_INTRO','Assurez-vous que le fichier que Vous voulez ajouter manquant <p><b>la liste des fichiers</b></span> gauche. Peut-être, le fichier que Vous voulez ajouter, est déjà dans la liste.');
+define('TEXT_INFO_NEW_FILE_BOX','Actuel de la boxe: ');
+define('BUTTON_CANCEL_NEW','l\'annulation de la');
+define('BUTTON_BACK_NEW','de retour');
+define('BUTTON_ADMIN_FILES_NEW','ajouter des fichiers');
+define('BUTTON_ADMIN_REMOVE_NEW','supprimer');

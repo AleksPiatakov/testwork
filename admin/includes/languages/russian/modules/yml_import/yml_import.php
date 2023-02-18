@@ -1,0 +1,25 @@
+<?php
+define('YML_IMPORT_UPLOAD_IMAGES', 'Импортировать изображения?');
+define('YML_IMPORT_TRUNCATE_TABLE', 'Очистить текущую базу данных от товаров/категорий/производителей/атрибутов');
+define('YML_IMPORT_UPLOAD_FILE', 'Выберите .xml файл');
+define('YML_IMPORT_UPLOAD_BUTTON', 'Загрузить');
+define('YML_IMPORT_MAIN_CATEGORY', 'Импортировать в категорию:');
+define('YML_IMPORT_VENDOR_TEMPLATE', 'Шаблон импорта');
+define('YML_IMPORT_REPLACE_TEXT', 'Перезаписывать у существующих товаров поля:');
+define('YML_IMPORT_REPLACE_NAME', 'Название и описание');
+define('YML_IMPORT_REPLACE_DESCRIPTION', 'Описание');
+define('YML_IMPORT_REPLACE_PRICE', 'Цена');
+define('YML_IMPORT_REPLACE_QUANTITY', 'Количество');
+define('YML_IMPORT_REPLACE_IMAGE', 'Изображения');
+define('YML_IMPORT_UPLOAD_PRESETS', 'Предустановки');
+define('YML_IMPORT_UPLOAD_TEMPLATE', 'Шаблон');
+define('YML_IMPORT_UPLOAD_LINK', 'Ссылка');
+define('YML_IMPORT_UPLOAD_BUTTON_LINK', 'Загрузить ссылку');
+define('YML_IMPORT_UPLOAD_UPLOADED', 'Загрузить');
+define('YML_IMPORT_MISSING_OFFERS', 'Товары, которых нет в файле:');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_NOTHING', 'Пропустить');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_TURN_OFF', 'Отключить');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_DELETE', 'Удалить');
+define('YML_IMPORT_MARKUP', 'Наценка:');
+define('YML_IMPORT_LANGUAGE', 'Язык:');
+define('YML_IMPORT_NUMBER', 'число');

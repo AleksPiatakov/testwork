@@ -1,0 +1,14 @@
+{
+    "EMAIL_TEXT_SUBJECT": "Ваш заказ",
+    "EMAIL_TEXT_ORDER_NUMBER": "Номер заказа:",
+    "EMAIL_TEXT_INVOICE_URL": "Информация о заказе:",
+    "EMAIL_TEXT_DATE_ORDERED": "Дата заказа:",
+    "EMAIL_TEXT_PRODUCTS": "Вы заказали:",
+    "EMAIL_TEXT_DELIVERY_ADDRESS": "Адрес доставки",
+    "EMAIL_TEXT_BILLING_ADDRESS": "Адрес покупателя",
+    "EMAIL_TEXT_PAYMENT_METHOD": "Способ оплаты",
+    "EMAIL_SEPARATOR": "------------------------------------------------------",
+    "EMAIL_TEXT_CUSTOMER_NAME": "Покупатель:",
+    "EMAIL_TEXT_CUSTOMER_EMAIL_ADDRESS": "Email:",
+    "EMAIL_TEXT_CUSTOMER_TELEPHONE": "Телефон:"
+}

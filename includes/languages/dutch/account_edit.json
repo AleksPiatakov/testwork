@@ -1,0 +1,9 @@
+{
+    "NAVBAR_TITLE_1": "Mijn gegevens",
+    "NAVBAR_TITLE_2": "Bewerken",
+    "HEADING_TITLE": "Mijn gegevens",
+    "MY_ACCOUNT_TITLE": "Mijn gegevens",
+    "SUCCESS_ACCOUNT_UPDATED": "Uw gegevens worden bijgewerkt.",
+    "SUCCESS_EMAIL_NEW_SENT": "Meddelelse om ændring af e-mailadressen på din konto.\nDin nye e-mailadresse: %s",
+    "SUCCESS_EMAIL_SENT": "Meddelelse om ændring af e-mailadressen på din konto."
+}

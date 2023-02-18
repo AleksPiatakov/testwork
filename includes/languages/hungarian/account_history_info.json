@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "Fiókom",
+    "NAVBAR_TITLE_2": "Elõzmények",
+    "NAVBAR_TITLE_3": "Rendelés #%s",
+    "HEADING_TITLE": "Rendelés információk",
+    "HEADING_ORDER_NUMBER": "Rendelés #%s",
+    "HEADING_ORDER_DATE": "Rendelés dátuma:",
+    "HEADING_ORDER_TOTAL": "Rendelés összesen:",
+    "HEADING_DELIVERY_ADDRESS": "Szállítási cím",
+    "HEADING_SHIPPING_METHOD": "Szállítás módja",
+    "HEADING_PRODUCTS": "Termék,",
+    "HEADING_TAX": "Adó",
+    "HEADING_TOTAL": "Összesen",
+    "HEADING_PAYMENT_METHOD": "Fizetés módja",
+    "HEADING_ORDER_HISTORY": "Rendelési elõzmények",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Lejárat napja: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " letöltés maradt",
+    "TABLE_HEADING_DATE_ADDED": "Dátum",
+    "TABLE_HEADING_STATUS": "Rendelés állapota",
+    "TABLE_HEADING_COMMENTS": "Vélemények"
+}

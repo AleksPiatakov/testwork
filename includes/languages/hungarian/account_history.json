@@ -1,0 +1,12 @@
+{
+    "NAVBAR_TITLE_1": "Fiókom",
+    "NAVBAR_TITLE_2": "Elõzmények",
+    "HEADING_TITLE": "Korábbi rendelések",
+    "TEXT_ORDER_STATUS": "Rendelés állapota",
+    "TEXT_ORDER_DATE": "Rendelés dátuma",
+    "TEXT_ORDER_SHIPPED_TO": "Kiszállítva:",
+    "TEXT_ORDER_BILLED_TO": "Számlázva:",
+    "TEXT_ORDER_COST": "Rendelés értéke",
+    "TEXT_ORDER_PC": "db",
+    "TEXT_NO_PURCHASES": "Még nem volt rendelése."
+}

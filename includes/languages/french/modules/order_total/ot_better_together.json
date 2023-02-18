@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "En marge de réduction",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "En marge de réduction",
+    "TWOFER_PROMO_STRING": "Achetez ce produit et obtenez un autre gratuitement!",
+    "TWOFER_QUALIFY_STRING": "Vous pouvez obtenir un autre point de %s gratuit",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " le deuxième ",
+    "FREE_STRING": " gratuit",
+    "REV_GET_ANY": "Achetez de la marchandise ",
+    "REV_GET_THIS": "Achetez ",
+    "REV_GET_DISC": ", recevez ce produit ",
+    "FREE": " gratuit",
+    "GET_YOUR_PROD": ", obtenez ",
+    "GET_YOUR_CAT": " votre choix de ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s par ensemble",
+    "BETTER_TOGETHER_SAVING": "économie ",
+    "BETTER_TOGETHER_SUBMIT": "Acheter un kit"
+}

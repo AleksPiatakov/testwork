@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "I miei dati",
+    "NAVBAR_TITLE_2": "Rubrica",
+    "NAVBAR_TITLE_ADD_ENTRY": "Nuovo record",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "Modificare la voce",
+    "NAVBAR_TITLE_DELETE_ENTRY": "Eliminare la voce",
+    "HEADING_TITLE_ADD_ENTRY": "Nuovo record",
+    "HEADING_TITLE_MODIFY_ENTRY": "Modificare la voce",
+    "HEADING_TITLE_DELETE_ENTRY": "Eliminare la voce",
+    "DELETE_ADDRESS_TITLE": "Rimuovere l'indirizzo",
+    "DELETE_ADDRESS_DESCRIPTION": "Vuoi davvero cancellare indirizzi selezionati dalla rubrica?",
+    "NEW_ADDRESS_TITLE": "Nuovo record",
+    "SELECTED_ADDRESS": "L'indirizzo selezionato",
+    "SET_AS_PRIMARY": "Fare default.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "L'indirizzo selezionato rimosso dalla rubrica.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "La rubrica aggiornata.",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "L'indirizzo predefinito non può essere rimosso. Impostare lo stato di default su un altro indirizzo e provare ancora una volta.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "La rubrica non è stata trovata.",
+    "ERROR_ADDRESS_BOOK_FULL": "La rubrica è piena. Rimuovere inutile indirizzo e solo allora Si sarà in grado di aggiungere un nuovo indirizzo."
+}

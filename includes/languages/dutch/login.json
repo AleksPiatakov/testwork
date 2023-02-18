@@ -1,0 +1,16 @@
+{
+    "NAVBAR_TITLE": "Wachtwoord",
+    "HEADING_TITLE": "Laat ons in!",
+    "TEXT_NEW_CUSTOMER": "Schrijf u nu in!",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "Door zich te registreren bij onze winkel, zult U in staat om aankopen te doen veel <b>sneller en gemakkelijker<\/b>, in toevoeging, zult U in staat zijn orders op te volgen, bekijk de geschiedenis van hun orders.",
+    "TEXT_RETURNING_CUSTOMER": "Ik ben al ingeschreven!",
+    "TEXT_LOGIN_ERROR": "<span><b>FOUT:<\/b><\/span> Ongeldig E-Mailadres' en\/of 'Wachtwoord'.",
+    "NO_CUSTOMER": "Deze gebruiker is niet in de database",
+    "NO_PASS": "Verkeerde wachtwoord",
+    "SOC_VK": "Vkontakte",
+    "SOC_SITE": "site",
+    "SOC_ENTER_FROM_OTHER": "Komen uit verschillende sociale. netwerk of uw login\/wachtwoord.",
+    "SOC_NOW_FROM": "Nu je probeert te gaan van",
+    "SOC_NEED_FROM": "Je registreren van",
+    "SOC_LOGIN_THX": "Bedankt, u bent succesvol ingeschreven!"
+}

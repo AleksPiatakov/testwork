@@ -1,0 +1,16 @@
+{
+    "NAVBAR_TITLE": "Le mot de passe",
+    "HEADING_TITLE": "Laissez entrer!",
+    "TEXT_NEW_CUSTOMER": "Pour vous inscrire!",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "En vous inscrivant dans notre magasin, Vous serez en mesure de faire des achats beaucoup <b>plus rapide et plus pratique<\/b> en outre, Vous serez en mesure de suivre l'exécution des commandes, de regarder l'historique de ses commandes.",
+    "TEXT_RETURNING_CUSTOMER": "J'ai déjà enregistré!",
+    "TEXT_LOGIN_ERROR": "<p><b>ERREUR:<\/b><\/span> Incorrect 'E-Mail' et\/ou 'Mot de passe'.",
+    "NO_CUSTOMER": "Cet utilisateur n'est pas dans la base",
+    "NO_PASS": "Mot de passe incorrect",
+    "SOC_VK": "Facebook",
+    "SOC_SITE": "site",
+    "SOC_ENTER_FROM_OTHER": "Rendez-vous à partir d'un autre sots. réseau ou sous son nom d'utilisateur\/mot de passe.",
+    "SOC_NOW_FROM": "Maintenant, vous essayez d'aller de",
+    "SOC_NEED_FROM": "Vous vous êtes inscrit des",
+    "SOC_LOGIN_THX": "Merci, vous êtes connecté avec succès!"
+}

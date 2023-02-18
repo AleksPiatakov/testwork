@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "Můj účet",
+    "NAVBAR_TITLE_2": "Adresář",
+    "HEADING_TITLE": "Můj osobní adresář",
+    "PRIMARY_ADDRESS_TITLE": "Primární adresa",
+    "PRIMARY_ADDRESS_DESCRIPTION": "Tato adresa se používá jako předem vybraná dodací a fakturační adresa pro objednávky zadané v tomto obchodě.<br><br>Tato adresa se také používá jako základ pro výpočet daně z produktů a služeb.",
+    "ADDRESS_BOOK_TITLE": "Záznamy v adresáři",
+    "PRIMÁRNÍ ADRESA": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": "<span><b>POZNÁMKA:<\/b><\/span> Je povoleno maximálně %s záznamů v adresáři."
+}

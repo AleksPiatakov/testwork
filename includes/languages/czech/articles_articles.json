@@ -1,0 +1,10 @@
+{
+    "TEXT_MAIN": "",
+    "TOTAL_ARTICLES": "Celkový počet článků",
+    "HEADING_TITLE": "%s",
+    "TEXT_NO_ARTICLES": "V tomto tématu momentálně nejsou žádné články.",
+    "TEXT_ARTICLES": "Níže je seznam článků, přičemž nejnovější jsou uvedeny jako první.",
+    "TEXT_DATE_ADDED": "Publikováno:",
+    "TEXT_TOPIC": "Téma:",
+    "TEXT_BY": "by"
+}

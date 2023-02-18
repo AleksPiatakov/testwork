@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Revisa",
+    "NAVBAR_TITLE_2": "Exito",
+    "HEADING_TITLE": "?Su orden ha sido procesada!",
+    "TEXT_SUCCESS": "?Su pedido ha sido procesado correctamente! Sus productos llegaran a su destino dentro de 2-5 dias laborables.",
+    "TEXT_THANKS_FOR_SHOPPING": "Gracias por comprar con nosotros en linea!",
+    "TABLE_HEADING_COMMENTS": "Introduzca un comentario para el pedido procesado",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Fecha de caducidad: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " Descargas restantes",
+    "SMS_NEW_ORDER": "Tienes un nuevo pedido",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Tienes un nuevo pedido rápido",
+    "SMS_CALL_BACK": "Llámame a mi número: ",
+    "TEXT_SUCCESS_INFO": "Todas las instrucciones y detalles adicionales para el pago le han sido enviados por correo"
+}

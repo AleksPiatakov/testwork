@@ -1,0 +1,28 @@
+<?php 
+define('TEXT_POLLB_RESULTS','I risultati del sondaggio');
+define('TEXT_POLLB_TOTAL','Voti');
+define('_WARNING','Avviso: ');
+define('_ALREADY_VOTED','Avete già votato.');
+define('_NO_VOTE_SELECTED','Non hai scelto la risposta per il voto.');
+define('_TOTALVOTES','Voti');
+define('_OTHERPOLLS','Altri sondaggi');
+define('NAVBAR_TITLE_1','I risultati del sondaggio');
+define('_POLLRESULTS','I risultati del sondaggio');
+define('_VOTING','Votare');
+define('_RESULTS','Risultati');
+define('_VOTES','Voti');
+define('_VOTE','Votare');
+define('_COMMENT','Opinione');
+define('_COMMENTS_POSTED','Recensioni aggiunte');
+define('_COMMENTS_BY','Opinione aggiunto ');
+define('_COMMENTS_ON','  ');
+define('_YOURNAME','Il tuo nome:');
+define('_OTZYV','Opinione:');
+define('TEXT_CONTINUE','Aggiungi un commento');
+define('_PUBLIC','Votazioni');
+define('_PRIVATE','Votazione chiusa');
+define('_POLLOPEN','L\'indagine è aperta');
+define('_POLLCLOSED','Sondaggio per gli utenti registrati');
+define('_POLLPRIVATE','Sondaggio solo per gli utenti registrati');
+define('_ADD_COMMENTS','Aggiungi un commento');
+define('TEXT_DISPLAY_NUMBER_OF_COMMENTS','Illustrato <b>%d</b> - <b>%d</b> (per un totale di <b>%d</b> recensioni)');

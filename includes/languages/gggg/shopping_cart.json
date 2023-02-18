@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Содержимое корзины",
+    "HEADING_TITLE": "Моя корзина",
+    "TABLE_HEADING_REMOVE": "Удалить",
+    "TABLE_HEADING_REMOVE_FROM": "из корзины",
+    "TABLE_HEADING_QUANTITY": "Кол-во",
+    "TABLE_HEADING_IMAGE": "Картинка",
+    "TABLE_HEADING_NAME": "Наименование",
+    "TABLE_HEADING_PRICE": "Цена",
+    "TABLE_HEADING_MODEL": "Код товара",
+    "TABLE_HEADING_PRICE_TOTAL": "Стоимость",
+    "TABLE_HEADING_PRODUCTS": "Товары",
+    "TABLE_HEADING_TOTAL": "Стоимость",
+    "TEXT_CART_EMPTY": "Ваша корзина пуста!",
+    "SUB_TITLE_COUPON": "Купон",
+    "SUB_TITLE_COUPON_SUBMIT": "Применить",
+    "SUB_TITLE_COUPON_VALID": "Поздравляем! <br \/>Вы ввели верный купон!",
+    "SUB_TITLE_COUPON_INVALID": "Вы ввели неверный купон!",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Товары, выделенные %s имеются на нашем складе в недостаточном для Вашего заказа количестве.<br>Пожалуйста, измените количество продуктов выделенных (%s), благодарим Вас",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Товары, выделенные %s имеются на нашем складе в недостаточном для Вашего заказа количестве.<br>Тем не менее, Вы можете купить их и проверить количество имеющихся в наличии для поэтапной доставки в процессе выполнения Вашего заказа."
+}

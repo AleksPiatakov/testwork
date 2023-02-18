@@ -1,0 +1,21 @@
+{
+    "GOOGLE_SITEMAPS_PRODUCT_SUCCESS": "Úspěšně vygenerován soubor Sitemap pro produkty Google",
+    "GOOGLE_SITEMAPS_IMAGE_SUCCESS": "Úspěšně vygenerován soubor Sitemap pro obrázky Google",
+    "GOOGLE_SITEMAPS_PRODUCT_ERROR": "CHYBA: Generování souboru Sitemap pro produkty Google SE NEZDALO!",
+    "GOOGLE_SITEMAPS_IMAGE_ERROR": "CHYBA: Generování souboru Sitemap pro obrázky se nezdařilo!",
+    "GOOGLE_SITEMAPS_CATEGORY_SUCCESS": "Úspěšně vygenerován soubor Sitemap kategorie Google",
+    "GOOGLE_SITEMAPS_CATEGORY_ERROR": "CHYBA: Generování souboru Sitemap kategorie Google SE NEZDALO!",
+    "GOOGLE_SITEMAPS_INDEX_SUCCESS": "Úspěšně vygenerován index souborů Sitemap Google",
+    "GOOGLE_SITEMAPS_INDEX_ERROR": "CHYBA: Generování indexu souborů Sitemap se nezdařilo!",
+    "GOOGLE_SITEMAPS_CONGRATULATION": "GRATULUJEME! Všechny soubory byly úspěšně vygenerovány.",
+    "GOOGLE_SITEMAPS_ALREADY_SUBMITTED": "Pokud jste index souborů Sitemap ještě neodeslali Googlu, klikněte na odkaz níže.",
+    "GOOGLE_SITEMAPS_HIGHLY_RECCOMMEND": "Než to uděláte, VELMI DOPORUČUJI, abyste si prohlédli soubory XML, abyste se ujistili, že jsou data správná.",
+    "GOOGLE_SITEMAPS_CONVENIENCE": "Pro vaše pohodlí zde je příkaz CRON pro váš web:",
+    "GOOGLE_SITEMAPS_HERE_INDEX": "Zde je váš index souborů Sitemap: ",
+    "GOOGLE_SITEMAPS_HERE_PRODUCT": "Zde je mapa webu vašeho produktu: ",
+    "GOOGLE_SITEMAPS_HERE_CATEGORY": "Zde je mapa webu vaší kategorie: ",
+    "GOOGLE_SITEMAPS_HERE_IMAGE": "Zde je váš obrázek Sitemap: ",
+    "GOOGLE_SITEMAPS_HERE_ARTICLES": "Zde je mapa webu vašich článků: ",
+    "GOOGLE_SITEMAPS_ARTICLES_SUCCESS": "Úspěšně vygenerován soubor Sitemap pro články Google",
+    "GOOGLE_SITEMAPS_ARTICLES_ERROR": "CHYBA: Generování souboru Sitemap pro články Google SE NEZDALO!"
+}

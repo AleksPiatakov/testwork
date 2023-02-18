@@ -1,0 +1,25 @@
+<?php
+define('YML_IMPORT_UPLOAD_IMAGES', 'Εισαγωγή εικόνων;');
+define('YML_IMPORT_TRUNCATE_TABLE', 'Εκκαθάριση της τρέχουσας βάσης δεδομένων προϊόντων/κατηγοριών/κατασκευαστών/ιδιοτήτων');
+define('YML_IMPORT_UPLOAD_FILE', 'Επιλογή αρχείου .xml');
+define('YML_IMPORT_UPLOAD_BUTTON', 'Μεταφόρτωση');
+define('YML_IMPORT_MAIN_CATEGORY', 'Εισαγωγή στην κατηγορία:');
+define('YML_IMPORT_VENDOR_TEMPLATE', 'Εισαγωγή προτύπου');
+define('YML_IMPORT_REPLACE_TEXT', 'Επανεγγραφή πεδίων για υπάρχοντα προϊόντα:');
+define('YML_IMPORT_REPLACE_NAME', 'Όνομα και Περιγραφή');
+define('YML_IMPORT_REPLACE_DESCRIPTION', 'Περιγραφή');
+define('YML_IMPORT_REPLACE_PRICE', 'Τιμή');
+define('YML_IMPORT_REPLACE_QUANTITY', 'Ποσότητα');
+define('YML_IMPORT_REPLACE_IMAGE', 'Εικόνες');
+define('YML_IMPORT_UPLOAD_PRESETS', 'Προεπιλογές');
+define('YML_IMPORT_UPLOAD_TEMPLATE', 'Πρότυπο');
+define('YML_IMPORT_UPLOAD_LINK', 'Σύνδεσμος');
+define('YML_IMPORT_UPLOAD_BUTTON_LINK', 'Μεταφόρτωση συνδέσμου');
+define('YML_IMPORT_UPLOAD_UPLOADED', 'Μεταφόρτωση');
+define('YML_IMPORT_MISSING_OFFERS', 'Προϊόντα που δεν είναι στο αρχείο:');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_NOTHING', 'Δεσποινίς');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_TURN_OFF', 'Απενεργοποίηση');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_DELETE', 'Διαγραφή');
+define('YML_IMPORT_MARKUP', 'Σήμανση:');
+define('YML_IMPORT_LANGUAGE', 'Γλώσσα:');
+define('YML_IMPORT_NUMBER', 'number');

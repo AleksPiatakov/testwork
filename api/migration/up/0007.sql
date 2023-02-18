@@ -1,0 +1,13 @@
+DROP PROCEDURE IF EXISTS `insert_once`;
+
+DELIMITER $$
+CREATE PROCEDURE insert_once()
+Begin
+
+UPDATE `configuration` SET `depends_on` = 'auth' WHERE `configuration`.`configuration_key` IN ('GOOGLE_OAUTH_STATUS','FACEBOOK_AUTH_STATUS','GOOGLE_OAUTH_CLIENT_ID','GOOGLE_OAUTH_CLIENT_SECRET','FACEBOOK_APP_ID','FACEBOOK_APP_SECRET');
+
+END$$
+DELIMITER ;
+CALL insert_once();
+
+DROP PROCEDURE IF EXISTS `insert_once`;

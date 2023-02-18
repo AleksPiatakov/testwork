@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS `road`;
+DROP TABLE IF EXISTS `road_config`;

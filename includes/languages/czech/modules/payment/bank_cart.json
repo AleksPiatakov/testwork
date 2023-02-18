@@ -1,0 +1,6 @@
+{
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_TITLE": "Platba bankovní kartou",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_DESCRIPTION": "Údaje o naší bance:<br>Název banky: &nbsp;&nbsp;&nbsp;%s<br>Číslo karty: &nbsp;&nbsp;&nbsp;%s<br>Příjemce: &nbsp;&nbsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_EMAIL_FOOTER": "Údaje o naší bance:<br>Název banky: &nbsp;&nbsp;&nbsp;%s<br>Číslo karty: &nbsp;&nbsp;&nbsp;%s<br>Příjemce: &nbsp;&nbn;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

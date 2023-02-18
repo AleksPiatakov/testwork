@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Отложенные товары",
+    "BOX_TEXT_PRICE": "Стоимость",
+    "BOX_TEXT_PRODUCT": "Название",
+    "BOX_TEXT_IMAGE": "Картинка",
+    "BOX_TEXT_NO_ITEMS": "Нет отложенных товаров.",
+    "TEXT_EMAIL": "Email: ",
+    "TEXT_MESSAGE": "Сообщение: ",
+    "TEXT_ITEM_IN_CART": "Товар в корзине",
+    "TEXT_ITEM_NOT_AVAILABLE": "Товар более недоступен",
+    "WISHLIST_EMAIL_SUBJECT": "отправил Вам сообщение",
+    "WISHLIST_SENT": "Отложенные товары успешно отправлены.",
+    "WISHLIST_EMAIL_LINK": "\r\n\r\nСписок отложенных товаров посетителя $from_name:\r\n$link\r\n\r\nСпасибо, %s",
+    "WISHLIST_EMAIL_GUEST": "Спасибо, %s",
+    "ERROR_YOUR_NAME": "Укажите Ваше имя.",
+    "ERROR_YOUR_EMAIL": "Укажите Ваш email.",
+    "ERROR_VALID_EMAIL": "Укажите верные email адреса.",
+    "ERROR_ONE_EMAIL": "Вы должны как минимум указать одно имя и один email адрес.",
+    "ERROR_ENTER_EMAIL": "Укажите email адрес.",
+    "ERROR_ENTER_NAME": "Укажите имена получателей.",
+    "ERROR_MESSAGE": "Добавьте сообщение."
+}

@@ -1,0 +1,21 @@
+{
+    "GOOGLE_SITEMAPS_PRODUCT_SUCCESS": "Gegenereerd Google-Product Met Succes Sitemap",
+    "GOOGLE_SITEMAPS_IMAGE_SUCCESS": "Google Image Sitemap Gegenereerd",
+    "GOOGLE_SITEMAPS_PRODUCT_ERROR": "FOUT: Google Product Sitemap-Generatie MISLUKT!",
+    "GOOGLE_SITEMAPS_IMAGE_ERROR": "FOUT: Google Image Sitemap-Generatie MISLUKT!",
+    "GOOGLE_SITEMAPS_CATEGORY_SUCCESS": "Gegenereerd Google Categorie Sitemap Succes",
+    "GOOGLE_SITEMAPS_CATEGORY_ERROR": "FOUT: Google Categorie Sitemap-Generatie MISLUKT!",
+    "GOOGLE_SITEMAPS_INDEX_SUCCESS": "Gegenereerd Google Sitemap Index Succes",
+    "GOOGLE_SITEMAPS_INDEX_ERROR": "FOUT: Google Sitemap Index-Generatie MISLUKT!",
+    "GOOGLE_SITEMAPS_CONGRATULATION": "Van harte GEFELICITEERD! Alle bestanden die zijn gegenereerd met succes.",
+    "GOOGLE_SITEMAPS_ALREADY_SUBMITTED": "Als u dat nog niet hebt ingediend, wordt de sitemap index van Google klik op de link hieronder.",
+    "GOOGLE_SITEMAPS_HIGHLY_RECCOMMEND": "Voor u kan ik raden dat u de XML-bestanden te zorgen dat de data correct is.",
+    "GOOGLE_SITEMAPS_CONVENIENCE": "Voor uw gemak is hier de CRON opdracht voor uw website:",
+    "GOOGLE_SITEMAPS_HERE_INDEX": "Hier is uw sitemap index: ",
+    "GOOGLE_SITEMAPS_HERE_PRODUCT": "Hier is uw product sitemap: ",
+    "GOOGLE_SITEMAPS_HERE_CATEGORY": "Hier is uw categorie sitemap: ",
+    "GOOGLE_SITEMAPS_HERE_IMAGE": "Hier is uw beeld sitemap: ",
+    "GOOGLE_SITEMAPS_HERE_ARTICLES": "Here is your articles sitemap: ",
+    "GOOGLE_SITEMAPS_ARTICLES_SUCCESS": "Generated Google Articles Sitemap Successfully",
+    "GOOGLE_SITEMAPS_ARTICLES_ERROR": "ERROR: Google Articles Sitemap Generation FAILED!"
+}

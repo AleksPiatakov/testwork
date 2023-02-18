@@ -1,0 +1,14 @@
+{
+    "HEADING_TITLE": "Contactenos",
+    "HEADING_SUBTITLE": "Contáctenos ahora y nuestros especialistas nos responderán pronto!",
+    "NAVBAR_TITLE": "Contactenos",
+    "TEXT_SUCCESS": "Tu solicitud ha sido enviada correctamente al propietario de la tienda.",
+    "EMAIL_SUBJECT": "Consulta desde v",
+    "ENTRY_NAME": "Nombre completo:",
+    "ENTRY_EMAIL": "Direccion de correo electronico:",
+    "ENTRY_PHONE": "Numero de telefono:",
+    "ENTRY_ENQUIRY": "Investigacion:",
+    "SEND_TO_TEXT": "Enviar a:",
+    "SEND_TO_TYPE": "",
+    "POP_CONTACT_US": "Envienos un correo electronico y le llamaremos!"
+}

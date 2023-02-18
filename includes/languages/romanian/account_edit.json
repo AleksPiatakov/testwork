@@ -1,0 +1,9 @@
+{
+    "NAVBAR_TITLE_1": "Cont",
+    "NAVBAR_TITLE_2": "Editare cont",
+    "HEADING_TITLE": "Informatii cont",
+    "MY_ACCOUNT_TITLE": "Cont",
+    "SUCCESS_ACCOUNT_UPDATED": "Contul a fost actualizat cu succes",
+    "SUCCESS_EMAIL_NEW_SENT": "Notificarea unei modificări a adresei de e-mail din contul dvs.\nNoua ta adresă de e-mail: %s",
+    "SUCCESS_EMAIL_SENT": "Notificarea unei modificări a adresei de e-mail din contul dvs."
+}

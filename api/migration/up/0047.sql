@@ -1,0 +1,1 @@
+ALTER TABLE `template` ADD `rent_status` TINYINT(4) NULL DEFAULT '0' AFTER `template_status`;

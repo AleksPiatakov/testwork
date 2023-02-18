@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Produkty odłożone",
+    "BOX_TEXT_PRICE": "Koszt",
+    "BOX_TEXT_PRODUCT": "Nazwa",
+    "BOX_TEXT_IMAGE": "Zdjęcie",
+    "BOX_TEXT_NO_ITEMS": "Brak odłożonych produktów.",
+    "TEXT_EMAIL": "Email: ",
+    "TEXT_MESSAGE": "Wiadomość: ",
+    "TEXT_ITEM_IN_CART": "Produkt w koszyku",
+    "TEXT_ITEM_NOT_AVAILABLE": "Produkt jest niedostępny.",
+    "WISHLIST_EMAIL_SUBJECT": "wysłał do ciebie wiadomość",
+    "WISHLIST_SENT": "Towary odłożone są pomyślnie wysłane.",
+    "WISHLIST_EMAIL_LINK": "\r\n\r\nLista odłożonych produktów dla odwiedzających $from_name:\r\n$link\r\n\r\nDziękujemy, %s",
+    "WISHLIST_EMAIL_GUEST": "Dziękujemy, %s",
+    "ERROR_YOUR_NAME": "Wpisz swoje imię.",
+    "ERROR_YOUR_EMAIL": "Podaj swój adres e-mail.",
+    "ERROR_VALID_EMAIL": "Wprowadź poprawny adres e-mail.",
+    "ERROR_ONE_EMAIL": "Musisz podać przynajmniej jedno imię i jeden adres e-mail.",
+    "ERROR_ENTER_EMAIL": "Wprowadź adres e-mail.",
+    "ERROR_ENTER_NAME": "Podaj nazwy odbiorców.",
+    "ERROR_MESSAGE": "Dodaj wiadomość."
+}

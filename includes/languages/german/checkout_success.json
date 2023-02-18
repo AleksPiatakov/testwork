@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Bestellung",
+    "NAVBAR_TITLE_2": "Erfolgreich",
+    "HEADING_TITLE": "Deine Bestellung ist dekoriert!",
+    "TEXT_SUCCESS": "Ihre Bestellung wurde erfolgreich ausgestellt!",
+    "TEXT_THANKS_FOR_SHOPPING": "Ihre Bestellung wurde erfolgreich ausgestellt!",
+    "TABLE_HEADING_COMMENTS": "Wir werden uns bald mit Ihnen in Verbindung setzen",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Der Link ist gültig bis:",
+    "TABLE_HEADING_DOWNLOAD_COUNT": "mal kannst du die Datei hochladen.",
+    "SMS_NEW_ORDER": "Sie haben eine neue Bestellung",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Sie haben eine neue Schnellbestellung",
+    "SMS_CALL_BACK": "Rufen Sie mich unter meiner Nummer zurück: ",
+    "TEXT_SUCCESS_INFO": "Alle weiteren Zahlungsanweisungen und -details wurden Ihnen per Post zugesandt"
+}

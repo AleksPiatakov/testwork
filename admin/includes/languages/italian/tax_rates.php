@@ -1,0 +1,26 @@
+<?php 
+define('HEADING_TITLE','Le Aliquote Fiscali');
+define('TABLE_HEADING_TAX_RATE_PRIORITY','La priorità');
+define('TABLE_HEADING_TAX_CLASS_TITLE','Tassa');
+define('TABLE_HEADING_COUNTRIES_NAME','Il paese');
+define('TABLE_HEADING_ZONE','Regione');
+define('TABLE_HEADING_TAX_RATE','Il tasso di');
+define('TABLE_HEADING_ACTION','L\'azione');
+define('TEXT_INFO_EDIT_INTRO','Si prega di apportare le modifiche necessarie');
+define('TEXT_INFO_DATE_ADDED','Data Aggiunta:');
+define('TEXT_INFO_LAST_MODIFIED','Ultima Modifica:');
+define('TEXT_INFO_CLASS_TITLE','Tipo di imposta:');
+define('TEXT_INFO_COUNTRY_NAME','Paese:');
+define('TEXT_INFO_ZONE_NAME','Area fiscale:');
+define('TEXT_INFO_TAX_RATE','Tasso (%):');
+define('TEXT_INFO_TAX_RATE_PRIORITY','Priorità:');
+define('TEXT_INFO_RATE_DESCRIPTION','Descrizione:');
+define('TEXT_INFO_INSERT_INTRO','Ti preghiamo di inserire le informazioni richieste per la nuova aliquota');
+define('TEXT_INFO_DELETE_INTRO','Vuoi davvero cancellare aliquota?');
+define('TEXT_INFO_HEADING_NEW_TAX_RATE','La nuova aliquota');
+define('TEXT_INFO_HEADING_EDIT_TAX_RATE','Modificare il tasso');
+define('TEXT_INFO_HEADING_DELETE_TAX_RATE','Rimuovere la puntata');
+define('BUTTON_CANCEL_NEW','Annullare');
+define('BUTTON_EDIT_NEW','Cambiare');
+define('BUTTON_DELETE_NEW','Rimuovere');
+define('BUTTON_NEW_TAX_RATE_NEW','Nuova aliquota');

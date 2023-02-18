@@ -1,0 +1,17 @@
+{
+    "NAVBAR_TITLE": "Login",
+    "HEADING_TITLE": "Bine ati venit. Va invitam sa va logati.",
+    "TEXT_NEW_CUSTOMER": "Sunt client nou",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "Prin crearea unui cont pe %s veti putea vizualiza istoricul comenzilor si sa efectuati mai usor comenzile ulterioare.\r\n",
+    "TEXT_RETURNING_CUSTOMER": "Sunt client inregistrat",
+    "TEXT_PASSWORD_FORGOTTEN": "Password forgotten? Click here.",
+    "TEXT_LOGIN_ERROR": "Eroare: adresa de email sau parola nu se potrivesc",
+    "NO_CUSTOMER": "Ceva nu se potriveste. Nu avem acest user in baza de date",
+    "NO_PASS": "Parola gresita",
+    "SOC_VK": "VK",
+    "SOC_SITE": "site",
+    "SOC_ENTER_FROM_OTHER": "Login from another social network or enter your login\/password.",
+    "SOC_NOW_FROM": "You are trying to login from",
+    "SOC_NEED_FROM": "You was registered via",
+    "SOC_LOGIN_THX": "You was successfully login"
+}

@@ -1,0 +1,12 @@
+{
+    "NAVBAR_TITLE_1": "Оформление заказа",
+    "NAVBAR_TITLE_2": "Успешно",
+    "HEADING_TITLE": "Ваш заказ оформлен!",
+    "TEXT_SUCCESS": "Ваш заказ успешно оформлен!",
+    "TEXT_THANKS_FOR_SHOPPING": "Ваш заказ успешно оформлен!",
+    "TABLE_HEADING_COMMENTS": "В ближайшее время с вами свяжется наш менеджер.",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Ссылка действительна до: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " раз можно загрузить файл.",
+    "SMS_NEW_ORDER": "У Вас новый заказ",
+    "TEXT_SUCCESS_INFO": "Все дальнейшие инструкции и реквизиты для оплаты отправлены вам на почту"
+}

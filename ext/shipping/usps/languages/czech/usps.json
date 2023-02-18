@@ -1,0 +1,16 @@
+{
+    "MODULE_SHIPPING_USPS_TEXT_TITLE": "Poštovní služba Spojených států",
+    "MODULE_SHIPPING_USPS_TEXT_DESCRIPTION": "Poštovní služba Spojených států<br><br>Abyste mohli používat tento modul, budete muset mít zaregistrovaný účet u USPS na adrese https:\/\/secure.shippingapis.com\/registration\/<br>< br>USPS očekává, že jako měřítko hmotnosti svých produktů budete používat libry.",
+    "MODULE_SHIPPING_USPS_TEXT_ERROR": "Došlo k chybě při výpočtech dopravy USPS.<br>Pokud chcete jako způsob dopravy použít USPS, kontaktujte prosím majitele obchodu.",
+    "MODULE_SHIPPING_USPS_TEXT_DAY": "Den",
+    "MODULE_SHIPPING_USPS_TEXT_DAYS": "Pracovní dny",
+    "MODULE_SHIPPING_USPS_TEXT_WEEKS": "Týdny",
+    "MODULE_SHIPPING_USPS_TEXT_BUSINESS_DAYS": "Pracovní dny",
+    "MODULE_SHIPPING_USPS_TEXT_VARIES": "liší se podle místa určení",
+    "MODULE_SHIPPING_USPS_TEXT_ESTIMATED": "---Přibližně ",
+    "MODULE_SHIPPING_USPS_TEXT_INSURED": "---Pojištěno na ",
+    "MODULE_SHIPPING_USPS_TEXT_ESTIMATED_FROM_DATE_OF_SHIPMENT": "od data odeslání",
+    "MODULE_SHIPPING_USPS_TEXT_WEIGHT_DISPLAY": " (%d bal., celkem %01,2f lb)",
+    "MODULE_SHIPPING_USPS_TEXT_CONNECTION_ERROR": "Nepodařilo se připojit k serveru USPS Web Tools&trade; poštovních sazeb.",
+    "MODULE_SHIPPING_USPS_ERROR_NO_SERVICES": "K odeslání tohoto balíku nelze použít žádné povolené služby USPS.<br \/>Pokud chcete jako způsob dopravy použít USPS, kontaktujte prosím majitele obchodu."
+}

@@ -1,0 +1,19 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "Descripción",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Activar \/ Desactivar módulo",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Estado predeterminado",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Cuenta comercial",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Secreto mercantil",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "El orden de clasificación",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "Estado de pago",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "Verdadero: habilitar, Falso: deshabilitar",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "El estado que se establece en el pedido cuando se crea",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Cuenta comercial",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Secreto mercantil",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "Orden de clasificación del módulo en el bloque con módulos de pago",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "El estado que se establece en el pedido tras el pago exitoso",
+    "MODULE_PAYMENT_WAYFORPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

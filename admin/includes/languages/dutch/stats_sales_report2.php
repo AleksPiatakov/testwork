@@ -1,0 +1,37 @@
+<?php 
+define('REPORT_DATE_FORMAT','m. d. Y');
+define('HEADING_TITLE','Verkoop statistieken');
+define('REPORT_TYPE_YEARLY','Jaarlijks');
+define('REPORT_TYPE_MONTHLY','Maandelijks');
+define('REPORT_TYPE_WEEKLY','Week');
+define('REPORT_TYPE_DAILY','Dag');
+define('REPORT_START_DATE','Datum vanaf');
+define('REPORT_END_DATE','(inclusief)');
+define('REPORT_DETAIL','Details');
+define('REPORT_MAX','Toon boven');
+define('REPORT_ALL','Alle');
+define('REPORT_SORT','Sorteren');
+define('REPORT_EXP','Export');
+define('REPORT_SEND','Verzenden');
+define('EXP_NORMAL','Normaal');
+define('EXP_HTML','Alleen HTML');
+define('EXP_CSV','CSV');
+define('TABLE_HEADING_DATE','Datum');
+define('TABLE_HEADING_ORDERS','Het aantal bestellingen');
+define('TABLE_HEADING_ITEMS','De hoeveelheid van de goederen');
+define('TABLE_HEADING_REVENUE','Het bedrag');
+define('TABLE_HEADING_SHIPPING','Verzendkosten');
+define('DET_HEAD_ONLY','Geen details');
+define('DET_DETAIL','Toon details');
+define('DET_DETAIL_ONLY','Toon details met de prijs');
+define('SORT_VAL0','Standaard');
+define('SORT_VAL1','Beschrijving');
+define('SORT_VAL2','Beschrijving aflopend');
+define('SORT_VAL3','De hoeveelheid van de goederen');
+define('SORT_VAL4','De hoeveelheid van het product in aflopende volgorde');
+define('SORT_VAL5','Het bedrag');
+define('SORT_VAL6','Bedrag aflopend');
+define('REPORT_STATUS_FILTER','De status van de bestellingen');
+define('SR_SEPARATOR1',';');
+define('SR_SEPARATOR2',';');
+define('SR_NEWLINE','\\');

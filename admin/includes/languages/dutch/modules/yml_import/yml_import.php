@@ -1,0 +1,25 @@
+<?php
+define('YML_IMPORT_UPLOAD_IMAGES', 'Importeer afbeeldingen?');
+define('YML_IMPORT_TRUNCATE_TABLE', 'Wis de huidige database van producten/categorieën/fabrikanten/attributen');
+define('YML_IMPORT_UPLOAD_FILE', 'Selecteer .xml bestand');
+define('YML_IMPORT_UPLOAD_BUTTON', 'Uploaden');
+define('YML_IMPORT_MAIN_CATEGORY', 'Importeren in categorie:');
+define('YML_IMPORT_VENDOR_TEMPLATE', 'Sjabloon importeren');
+define('YML_IMPORT_REPLACE_TEXT', 'Herschrijf velden voor bestaande producten:');
+define('YML_IMPORT_REPLACE_NAME', 'Naam en beschrijving');
+define('YML_IMPORT_REPLACE_DESCRIPTION', 'Beschrijving');
+define('YML_IMPORT_REPLACE_PRICE', 'Prijs');
+define('YML_IMPORT_REPLACE_QUANTITY', 'Aantal');
+define('YML_IMPORT_REPLACE_IMAGE', 'Afbeeldingen');
+define('YML_IMPORT_UPLOAD_PRESETS', 'Voorinstellingen');
+define('YML_IMPORT_UPLOAD_TEMPLATE', 'Sjabloon');
+define('YML_IMPORT_UPLOAD_LINK', 'Link');
+define('YML_IMPORT_UPLOAD_BUTTON_LINK', 'Uploadlink');
+define('YML_IMPORT_UPLOAD_UPLOADED', 'Uploaden');
+define('YML_IMPORT_MISSING_OFFERS', 'Producten niet in bestand:');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_NOTHING', 'Miss');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_TURN_OFF', 'Uitschakelen');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_DELETE', 'Verwijderen');
+define('YML_IMPORT_MARKUP', 'Opmaak:');
+define('YML_IMPORT_LANGUAGE', 'Taal:');
+define('YML_IMPORT_NUMBER', 'nummer');

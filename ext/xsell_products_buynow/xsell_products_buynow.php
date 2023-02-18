@@ -1,0 +1,5 @@
+<?php
+
+if (is_file(DIR_WS_MODULES . FILENAME_XSELL_PRODUCTS) && getConstantValue('XSELL_PRODUCTS_BUYNOW_ENABLED') == 'true') {
+    include DIR_WS_MODULES . FILENAME_XSELL_PRODUCTS;
+}

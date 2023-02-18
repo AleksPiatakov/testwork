@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>orders-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Admin---Simplified---Drag`nDrop" transform="translate(-811.000000, -116.000000)">
+            <g id="Group-5">
+                <g id="Basic-Usage" transform="translate(380.000000, 90.000000)">
+                    <g id="Blocks">
+                        <g id="Items">
+                            <g id="Item" transform="translate(404.000000, 0.000000)">
+                                <g id="image" transform="translate(11.000000, 10.000000)">
+                                    <g id="Group-7" transform="translate(16.000000, 20.000000)">
+                                        <path d="M24.0208153,-0.97918472 C25.6776695,-0.97918472 27.0208153,0.363961031 27.0208153,2.02081528 L27.0208153,27.0208153 L27.0208153,27.0208153 L21.0208153,27.0208153 L21.0208153,2.02081528 C21.0208153,0.363961031 22.363961,-0.97918472 24.0208153,-0.97918472 Z" id="Rectangle" fill="#587E8D" transform="translate(24.020815, 13.020815) scale(-1, 1) rotate(-45.000000) translate(-24.020815, -13.020815) "></path>
+                                        <path d="M40.0208153,-1.97918472 C41.6776695,-1.97918472 43.0208153,-0.636038969 43.0208153,1.02081528 L43.0208153,26.0208153 L43.0208153,26.0208153 L37.0208153,26.0208153 L37.0208153,1.02081528 C37.0208153,-0.636038969 38.363961,-1.97918472 40.0208153,-1.97918472 Z" id="Rectangle" fill="#3F5B65" transform="translate(40.020815, 12.020815) rotate(-45.000000) translate(-40.020815, -12.020815) "></path>
+                                        <rect id="Rectangle" fill="#FF2825" x="0" y="19" width="64" height="9" rx="3"></rect>
+                                        <path d="M4,28 L60,28 L55.4543949,52.5462678 C55.1910621,53.9682649 53.9507231,55 52.5045488,55 L11.4954512,55 C10.0492769,55 8.80893794,53.9682649 8.54560514,52.5462678 L4,28 L4,28 Z" id="Rectangle" fill="#E60822"></path>
+                                        <rect id="Rectangle" fill="#890009" x="18" y="31" width="3" height="18" rx="1.5"></rect>
+                                        <rect id="Rectangle" fill="#890009" x="24" y="31" width="3" height="18" rx="1.5"></rect>
+                                        <rect id="Rectangle" fill="#890009" x="30" y="31" width="3" height="18" rx="1.5"></rect>
+                                        <rect id="Rectangle" fill="#890009" x="36" y="31" width="3" height="18" rx="1.5"></rect>
+                                        <rect id="Rectangle" fill="#890009" x="42" y="31" width="3" height="18" rx="1.5"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

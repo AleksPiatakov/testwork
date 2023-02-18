@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "Meine Daten",
+    "NAVBAR_TITLE_2": "Bestellhistorie",
+    "NAVBAR_TITLE_3": "Bestellinformation",
+    "HEADING_TITLE": "Bestellinformation",
+    "HEADING_ORDER_NUMBER": "Bestellnummer% s",
+    "HEADING_ORDER_DATE": "Datum",
+    "HEADING_ORDER_TOTAL": "Bestellwert:",
+    "HEADING_DELIVERY_ADDRESS": "Lieferadresse",
+    "HEADING_SHIPPING_METHOD": "Zustellmethode",
+    "HEADING_PRODUCTS": "Produkt",
+    "HEADING_TAX": "Tax",
+    "HEADING_TOTAL": "Total",
+    "HEADING_PAYMENT_METHOD": "Zahlungsart",
+    "HEADING_ORDER_HISTORY": "Bestellhistorie",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Der Link ist gültig bis:",
+    "TABLE_HEADING_DOWNLOAD_COUNT": "mal kannst du die Datei hochladen.",
+    "TABLE_HEADING_DATE_ADDED": "Datum",
+    "TABLE_HEADING_STATUS": "Bestellstatus",
+    "TABLE_HEADING_COMMENTS": "Kommentare"
+}

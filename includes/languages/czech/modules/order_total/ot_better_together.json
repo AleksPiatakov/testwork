@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Spolu lépe",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Modul lépe dohromady",
+    "TWOFER_PROMO_STRING": "Kupte si tuto položku a získejte další zdarma!",
+    "TWOFER_QUALIFY_STRING": "Další %s můžete získat zdarma",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": "second",
+    "FREE_STRING": "zdarma",
+    "REV_GET_ANY": "Koupit položku od ",
+    "REV_GET_THIS": "Koupit",
+    "REV_GET_DISC": ", získat tuto položku ",
+    "ZDARMA": "zdarma",
+    "GET_YOUR_PROD": ", dostanete produkt ",
+    "GET_YOUR_CAT": ", získat položku z ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s za sadu",
+    "BETTER_TOGETHER_SAVING": "ukládám",
+    "BETTER_TOGETHER_SUBMIT": "Kupte si sadu"
+}

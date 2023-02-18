@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Warenkorb",
+    "HEADING_TITLE": "Mein Warenkorb",
+    "TABLE_HEADING_REMOVE": "Delete",
+    "TABLE_HEADING_REMOVE_FROM": "aus dem Papierkorb",
+    "TABLE_HEADING_QUANTITY": "Menge",
+    "TABLE_HEADING_IMAGE": "Bild",
+    "TABLE_HEADING_NAME": "Name",
+    "TABLE_HEADING_PRICE": "Preis",
+    "TABLE_HEADING_PRICE_TOTAL": "Preis",
+    "TABLE_HEADING_MODEL": "Artikelcode",
+    "TABLE_HEADING_PRODUCTS": "Produkte",
+    "TABLE_HEADING_TOTAL": "Cost",
+    "TEXT_CART_EMPTY": "Dein Warenkorb ist leer!",
+    "SUB_TITLE_COUPON": "Coupon",
+    "SUB_TITLE_COUPON_SUBMIT": "Apply",
+    "SUB_TITLE_COUPON_VALID": "Congratulations! <br \/>Sie den richtigen Code eingegeben!",
+    "SUB_TITLE_COUPON_INVALID": "Sie haben den falschen Code eingegeben!",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Waren markiert %s in unserem Lager nicht in ausreichenden Mengen für Ihre Bestellung.<br>Bitte ändern Sie die Anzahl der Produkte ausgewählt (%s), Danke",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Waren der Aufschrift‘. STOCK_MARK_PRODUCT_OUT_OF_STOCK. ‚für Ihre Bestellung in unserem Lager in unzureichender Menge vorhanden. <br> Allerdings können Sie sie kaufen und überprüfen Sie die Menge von zur schrittweisen Lieferung in der Umsetzung Ihrer Bestellung."
+}

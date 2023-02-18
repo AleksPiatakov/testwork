@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Checkout",
+    "NAVBAR_TITLE_2": "Success",
+    "HEADING_TITLE": "Your Order Has Been Processed!",
+    "TEXT_SUCCESS": "Your order has been successfully processed! Your products will arrive at their destination within 2-5 working days.",
+    "TEXT_THANKS_FOR_SHOPPING": "Thanks for shopping with us online!",
+    "TABLE_HEADING_COMMENTS": "We shall contact you soon",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Expiry date: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " downloads remaining",
+    "SMS_NEW_ORDER": "You have new order",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "You have a new quick order",
+    "SMS_CALL_BACK": "Call me back at my number: ",
+    "TEXT_SUCCESS_INFO": "All further instructions and details for payment have been sent to you by mail"
+}

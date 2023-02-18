@@ -1,0 +1,7 @@
+{
+    "NAVBAR_TITLE": "Gift Voucher FAQ",
+    "HEADING_TITLE": "Gift Voucher FAQ",
+    "TEXT_INFORMATION": "<a name=\"Top\"><\/a>\r\n  <a href=\"%s\">Purchasing Gift Vouchers<\/a><br>\r\n  <a href=\"%s\">How to send Gift vouchers<\/a><br>\r\n  <a href=\"%s\">Buying with Gift Vouchers<\/a><br>\r\n  <a href=\"%s\">Redeeming Gift Vouchers<\/a><br>\r\n  <a href=\"%s\">When problems occur<\/a><br>\r\n",
+    "SUB_HEADING_TITLE": "",
+    "SUB_HEADING_TEXT": "Please choose from one of the questions above."
+}

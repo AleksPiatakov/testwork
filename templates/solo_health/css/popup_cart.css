@@ -1,0 +1,403 @@
+
+#cartContent-page { /* width: 100%; */
+    padding: 0 10px;
+}
+
+#cartContent-page th.name {
+    text-align: left;
+}
+
+#cartContent-page th {
+    font-size: 14px;
+    font-weight: normal;
+    border-bottom: 1px solid #CCC;
+}
+
+#cartContent-page th,
+#cartContent-page td {
+    padding: 4px;
+    vertical-align: middle;
+}
+
+#cartContent-page .product_image {
+}
+
+#cartContent-page .product_image img {
+    vertical-align: middle;
+    max-width: 80px;
+    max-height: 80px;
+    margin: 0 auto;
+    line-height: 100px;
+}
+
+#cartContent-page.product_name {
+    vertical-align: top;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+#cartContent-page .attributes_list {
+    line-height: 12px;
+}
+
+#cartContent-page .attributes_list li {
+    font-style: oblique;
+    font-size: 10px;
+}
+
+#cartContent-page .attributes_list li span {
+    font-style: normal;
+}
+
+#cartContent-page td.product_price,
+#cartContent-page td.product_total,
+#cartContent-page td.product_qty,
+#cartContent-page td.product_delete {
+}
+
+#cartContent-page td.product_total {
+    font-weight: bold;
+}
+
+#cartContent-page td.product_qty input {
+    width: 38px;
+    height: 34px;
+    text-align: center;
+    padding: 0 3px;
+    display: inline-block;
+    color: #333;
+    padding: 0;
+}
+
+#cartContent-page td.product_qty > .input-group {
+    width: 77px;
+    float: left;
+}
+
+#cartContent-page td.product_qty input:focus {
+    box-shadow: none;
+    border-radius: 0;
+
+}
+
+#cartContent-page .product_delete .btn {
+    font-size: 17px;
+    padding: 0 6px;
+    border-radius: 30px;
+    outline: 0;
+    box-shadow: none;
+}
+
+#cartContent-page .btn.ok {
+    display: none;
+    position: absolute;
+    color: #49B3F6;
+    font-size: 19px;
+    margin-top: -6px;
+}
+
+#cartContent-page #cart_order_total {
+    margin: 0 0 20px 0;
+    float: right;
+    text-align: right;
+}
+
+.products-list-body .item {
+    position: relative;
+    /* overflow: hidden; */
+    margin-bottom: 0;
+    height: 142px;
+    /* z-index: 1; */
+}
+
+.products-list-body .item:hover {
+    z-index: 2;
+}
+
+.products-list-body .item .product_image {
+    float: left;
+    margin-right: 10px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    flex: 0 0 auto;
+    transition: all 0.3s;
+}
+
+.products-list-body .item .product_image img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 3px;
+}
+
+.products-list-body .item:hover .product_image {
+    transition-delay: 0.1s;
+    transform: scale(1);
+}
+
+.products-list-body .item .product_delete {
+    position: absolute;
+    right: -19px;
+    top: -19px;
+}
+
+.products-list-body .item .product_delete:hover {
+    background: #fff;
+}
+
+.products-list-body .item .product_name {
+    margin-right: 30px;
+    min-height: 54px;
+    margin-bottom: 10px;
+}
+
+.products-list-body .item .product_delete button {
+    font-size: 18px;
+    padding: 0;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    width: 40px;
+    line-height: 1;
+    border: 0;
+    /*opacity: 0.3;*/
+    transition: all 0.3s;
+}
+
+.products-list-body .item .product_delete svg {
+    width: 1em;
+    height: 1em;
+    font-size: 22px;
+    fill: var(--sm-text-color);
+    opacity: 0.4;
+    transition: all 0.3s;
+}
+
+.products-list-body .item .body {
+    position: relative;
+    width: 100%;
+}
+
+.products-list-body .item .product_delete button:hover {
+    opacity: 1;
+    color: #555;
+    box-shadow: none;
+}
+
+.products-list-body .item .product_delete button:hover svg {
+    opacity: 1;
+}
+
+.products-list-body > div {
+    padding: 5px;
+}
+
+.products-list-body .item .sign {
+    display: inline-block;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    margin: 0 10px;
+    color: var(--sm-text-color);
+    opacity: 0.7;
+}
+
+.products-list-body .item .product_total {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: var(--sm-text-color);
+    display: inline-block;
+    margin-left: 10px;
+    float: right;
+}
+
+.products-list-body .item .product_qty input[type="number"] {
+    line-height: 24px;
+    font-size: 13px;
+    border: 1px solid #eee;
+    background: #f9f9f9;
+    background: #fff;
+    font-weight: 600;
+    max-width: 62px;
+    height: 24px;
+    margin: 3px 0;
+    text-align: center;
+    float: left;
+    width: unset;
+    padding: 0 0 0 15px !important;
+    border-radius: 3px;
+    transition: all 0.3s;
+}
+
+.products-list-body .item .product_qty input[type="number"]:focus,
+.products-list-body .item .product_qty input[type="number"]:hover {
+    max-width: 70px;
+    padding: 0 !important;
+}
+
+.products-list-body .item .product_name a {
+    color: var(--sm-text-color);
+    font-size: 13px !important;
+    font-weight: 600;
+    display: block;
+    margin: 0;
+    overflow: hidden;
+    max-height: 54px;
+    transition: all .2s;
+}
+
+.products-list-body .item:hover .product_name a {
+    max-height: 90px;
+    z-index: 1;
+    transition: all .2s;
+}
+
+.products-list-body .item .content {
+    display: flex;
+    padding: 20px;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+    flex: 0 0 auto;
+    background: var(--sm-background);
+    border: 1px solid #eee;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.products-list-body .item:hover .content {
+    position: absolute;
+    left: 0;
+    top: 0;
+    min-height: 142px;
+    max-height: 999px;
+    padding: 20px;
+    z-index: 2;
+    transition: all 0.3s;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.1);
+}
+
+.products-list-body .item .product_total .refresh_total {
+    color: #999;
+    font-size: 13px;
+    margin-right: 10px;
+    display: block;
+    float: left;
+    opacity: 0;
+}
+
+.products-list-body .item .product_name .mask {
+    max-height: 0;
+}
+
+.products-list-body .item .product_name:hover .mask {
+    /*height: 60px;*/
+    /*width: 70%;*/
+    /*display: inline-block;*/
+}
+
+.products-list-body .item .product_price {
+    float: unset;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 30px;
+    color: var(--sm-text-color);
+    opacity: 0.7;
+    display: inline-block;
+}
+
+.products-list-body .item .product_qty {
+    height: 30px;
+    display: block;
+    float: left;
+    margin-left: 0;
+}
+
+.checkout-actions {
+    background: var(--sm-background);
+    border-radius: 0 0 5px 5px;
+    border-top: 1px solid #eee;
+    margin: 30px -20px -20px -20px;
+    box-shadow: 0 -5px 15px 0 rgba(0, 0, 0, 0.02);
+}
+
+.checkout-actions .cart_order_total {
+    float: right;
+    text-align: left;
+    display: inline-block;
+    width: 100%;
+}
+
+.checkout-actions .actions-buttons {
+    margin: 13px 0;
+    text-align: right;
+}
+
+.checkout-actions .actions-buttons .btn-primary {
+    background: var(--sm-btn-color)
+}
+
+.checkout-actions .actions-buttons .btn-primary:hover {
+    background: var(--sm-link-color)
+}
+
+@media (min-width: 768px) {
+    #cartContent-page {
+        margin-top: 50px;
+    }
+
+    #cartContent-page .product_image {
+        width: 100px;
+    }
+
+    #cartContent-page th, #cartContent-page td {
+        padding: 10px;
+    }
+
+    #cartContent-page td:last-of-type {
+        padding-right: 0;
+        text-align: right;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #cartContent-page td {
+        padding: 5px 10px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .products-list-body {
+        padding: 0;
+    }
+
+    #cartContent-page {
+        padding: 0;
+    }
+
+    .products-list-body .item .product_qty input[type="number"] {
+        max-width: 40px;
+        padding: 0 5px !important;
+        text-align: right;
+    }
+
+    .products-list-body > div {
+        padding: 5px 0;
+        margin: 0 -5px;
+    }
+
+    .products-list-body .item .content {
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+    }
+}
+
+.modal-body .product_qty .input-group .input-group-btn > button {
+    padding: 5px;
+    height: 30px;
+}

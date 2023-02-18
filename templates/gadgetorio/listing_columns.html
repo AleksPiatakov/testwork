@@ -1,0 +1,21 @@
+<div class="col_product">
+    <div class="product">
+        <div class="p_description">
+            <div class="product_listing_labels item-list">
+                {{label}}
+            </div>
+            <a class="p_img_href {{add_classes}}" href="{{product_href}}">{{product_image}}{{product_modal_button}}</a>
+            <div class="product_info_render">
+                <a href="{{product_href}}" class="model_product" title="{{product_name}}">
+                    <span class="product-name">{{product_name}}</span> <span
+                        class="card-description">{{product_info}}</span>
+                </a>
+                <div class="new_old_price clearfix">
+                    <p class="price">{{new_price}}</p>
+                </div>
+                {{cart_button}} <span class="category-text">{{category_name}}</span>
+            </div>
+            {{compare_output}} {{wishlist_output}}
+        </div>
+    </div>
+</div>

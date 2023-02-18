@@ -1,0 +1,10 @@
+{
+    "MODULE_PAYMENT_SAGE_PAY_FORM_TEXT_TITLE": "Φόρμα Sage Pay",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_TEXT_PUBLIC_TITLE": "Πιστωτική κάρτα ή τραπεζική κάρτα (Επεξεργασία μέσω Sage Pay)",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_ERROR_ADMIN_MCRYPT": "Αυτή η ενότητα απαιτεί την ενεργοποίηση του Mcrypt σε PHP και δεν θα φορτωθεί έως ότου ενεργοποιηθεί σε αυτόν τον διακομιστή ιστού.",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_ERROR_ADMIN_CONFIGURATION": "Αυτή η ενότητα δεν θα φορτωθεί έως ότου ρυθμιστούν οι παράμετροι Όνομα σύνδεσης προμηθευτή και κωδικός πρόσβασης κρυπτογράφησης. Επεξεργαστείτε και διαμορφώστε τις ρυθμίσεις αυτής της ενότητας.",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_ERROR_TITLE": "Παρουσιάστηκε σφάλμα κατά την επεξεργασία της συναλλαγής παραγγελίας σας",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_ERROR_GENERAL": "Δοκιμάστε ξανά και εάν τα προβλήματα παραμένουν, δοκιμάστε έναν άλλο τρόπο πληρωμής.",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_TEXT_DESCRIPTION": "<img src=\"images\/icon_info.gif\" border=\"0\" \/>&nbsp;<a href=\"http:\/\/library.oscommerce.com\/Package&en&sage_pay&oscom23&form\" target=\"_blank\" style=\"text-decoration: underline; font-weight: bold;\">View Online Documentation<\/a><br \/><br \/><img src=\"images\/icon_popup.gif\" border=\"0\">&nbsp;<a href=\"https:\/\/support.sagepay.com\/apply\/default.aspx?PartnerID=E194E079-84A9-493C-AB9A-91CB362D3238&PromotionCode=osc3MF\" target=\"_blank\" style=\"text-decoration: underline; font-weight: bold;\">Visit Sage Pay Website<\/a>&nbsp;<a href=\"javascript:toggleDivBlock('sagePayInfo');\">(info)<\/a><span id=\"sagePayInfo\" style=\"display: none;\"><br \/><i>Using the above link to signup at Sage Pay grants osCommerce a small financial bonus for referring a customer.<\/i><\/span>",
+    "MODULE_PAYMENT_SAGE_PAY_FORM_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/paypal.png\"><img src=\"images/payment_method/ae.png\"></span>"
+}

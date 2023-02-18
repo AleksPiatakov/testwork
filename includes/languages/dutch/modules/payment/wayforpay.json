@@ -1,0 +1,19 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "Omschrijving",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Module in- \/ uitschakelen",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Standaardstatus",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Handelaarsaccount",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Koopmansgeheim",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "De sorteervolgorde",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "Betalingsstaat",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "Waar - inschakelen, Onwaar - uitschakelen",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "De status die is ingesteld op de volgorde wanneer deze wordt gemaakt",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Handelaarsaccount",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Koopmansgeheim",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "Sorteervolgorde van de module in het blok met betalingsmodules",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "De status die bij succesvolle betaling aan de bestelling is toegewezen",
+    "MODULE_PAYMENT_WAYFORPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

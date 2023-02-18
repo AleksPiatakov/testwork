@@ -1,0 +1,14 @@
+{
+    "MODULE_PAYMENT_CC_TEXT_TITLE": "Creditcard",
+    "MODULE_PAYMENT_CC_TEXT_DESCRIPTION": "De credit card gegevens die voor de test:<br><br>kaart Nummer: 4111111111111111<br>vervaldatum: datum",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_OWNER": "De eigenaar van de credit card:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_NUMBER": "Kaartnummer",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES": "Geldig tot en met:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM": "Vervalt (maand)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY": "Vervalt (jaar)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_CVC": "CVC Code",
+    "MODULE_PAYMENT_CC_TEXT_ERROR": "De gegevens verkeerd hebt ingevoerd!",
+    "MODULE_PAYMENT_CC_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

@@ -1,0 +1,28 @@
+<?php 
+define('HEADING_TITLE','Statistiche di vendita');
+define('HEADING_TITLE_STATUS','Lo stato');
+define('HEADING_TITLE_REPORTED','Data');
+define('TEXT_ALL_ORDERS','Tutti gli ordini');
+define('TEXT_NOTHING_FOUND','Non ci sono stato ordini nel periodo selezionato');
+define('TEXT_BUTTON_REPORT_PRINT','Versione per la stampa');
+define('TEXT_BUTTON_REPORT_FILE','Il file');
+define('TEXT_BUTTON_REPORT_HELP','Aiuto');
+define('TEXT_BUTTON_REPORT_PRINT_DESC','Visualizza versione stampabile');
+define('TEXT_BUTTON_REPORT_FILE_DESC','Scarica il report in formato txt, delimitato da virgole');
+define('TEXT_BUTTON_REPORT_HELP_DESC','Su questo rapporto');
+define('TEXT_REPORT_DATE_FORMAT','j M Y g:i a');
+define('TABLE_HEADING_YEAR','Anno');
+define('TABLE_HEADING_MONTH','Mese');
+define('TABLE_HEADING_DAYS','Giorno');
+define('TABLE_HEADING_INCOME','Tutto il<br>');
+define('TABLE_HEADING_PRODUCTS_QUANTITY','Ordini di soli<br>');
+define('TABLE_HEADING_SALES','Il costo totale<br> prodotto');
+define('TABLE_HEADING_NONTAXED','Costo<br> prodotto');
+define('TABLE_HEADING_TAXED','Compreso<br> le tasse');
+define('TABLE_HEADING_TAX_COLL','Le tasse');
+define('TABLE_HEADING_SHIPHNDL','Gratuita');
+define('TABLE_HEADING_LOWORDER','Bassa<br> costo');
+define('TABLE_HEADING_OTHER','Certificati');
+define('TABLE_FOOTER_YTD','Anno');
+define('TABLE_FOOTER_YEAR','Anno');
+define('SHOW_TEXT','Mostrare');

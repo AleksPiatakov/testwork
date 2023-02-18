@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Відкладені товари",
+    "BOX_TEXT_PRICE": "Вартість",
+    "BOX_TEXT_PRODUCT": "Назва",
+    "BOX_TEXT_IMAGE": "Зображення",
+    "BOX_TEXT_NO_ITEMS": "Нема відкладених товарів.",
+    "TEXT_EMAIL": "Email: ",
+    "TEXT_MESSAGE": "Повідомлення: ",
+    "TEXT_ITEM_IN_CART": "Товар в кошику",
+    "TEXT_ITEM_NOT_AVAILABLE": "Товар більше недоступний",
+    "WISHLIST_EMAIL_SUBJECT": "відправив Вам повідомлення",
+    "WISHLIST_SENT": "Відкладені товари успішно відправлено.",
+    "WISHLIST_EMAIL_LINK": "\r\n\r\nСписок відкладених товарів відвідувача $from_name:\r\n$link\r\n\r\nДякуємо, %s",
+    "WISHLIST_EMAIL_GUEST": "Дякуємо, %s",
+    "ERROR_YOUR_NAME": "Вкажіть Ваше ім'я.",
+    "ERROR_YOUR_EMAIL": "Вкажіть Ваш email.",
+    "ERROR_VALID_EMAIL": "Вкажіть вірні email адреси.",
+    "ERROR_ONE_EMAIL": "Ви повинні як мінімум вказати одне ім'я і одну email адресу.",
+    "ERROR_ENTER_EMAIL": "Вкажіть email адресу.",
+    "ERROR_ENTER_NAME": "Вкажіть імена одержувачів.",
+    "ERROR_MESSAGE": "Додайте повідомлення."
+}

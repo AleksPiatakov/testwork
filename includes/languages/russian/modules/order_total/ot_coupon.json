@@ -1,0 +1,14 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Купон",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Сертификаты\/Купоны",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Купон",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Неверный код купона",
+    "ERROR_RESTRICTION_COUPON": "Купон недействителен для этих товаров",
+    "ERROR_MINIMUM_CART_AMOUNT": "Минимальная сумма заказа для этого купона: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "Указанный купон еще недействителен",
+    "ERROR_INVALID_FINISDATE_COUPON": "У данного купона истёк срок действия",
+    "ERROR_INVALID_USES_COUPON": "Купон уже был использован ",
+    "TIMES": " раз.",
+    "ERROR_INVALID_USES_USER_COUPON": "Вы использовали купон максимально возможное количество раз.",
+    "TEXT_ENTER_COUPON_CODE": "Ваш код:&nbsp;&nbsp;"
+}

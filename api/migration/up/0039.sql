@@ -1,0 +1,2 @@
+UPDATE `configuration` SET `use_function` = 'sage_pay_form->sage_pay_form_clip_text' WHERE `use_function` = 'sage_pay_form_clip_text';
+UPDATE `configuration` SET `use_function` = 'upsxml->get_multioption_upsxml' WHERE `use_function` = 'get_multioption_upsxml';

@@ -1,0 +1,12 @@
+{
+    "NAVBAR_TITLE_1": "Mes données",
+    "NAVBAR_TITLE_2": "Historique des commandes",
+    "HEADING_TITLE": "Historique des commandes",
+    "TEXT_ORDER_STATUS": "Le statut de la commande",
+    "TEXT_ORDER_DATE": "Date de commande",
+    "TEXT_ORDER_SHIPPED_TO": "Adresse de livraison:",
+    "TEXT_ORDER_BILLED_TO": "L'acheteur:",
+    "TEXT_ORDER_COST": "Le montant",
+    "TEXT_ORDER_PC": "pièces",
+    "TEXT_NO_PURCHASES": "Malheureusement, Vous n'avez encore rien acheté dans notre magasin."
+}

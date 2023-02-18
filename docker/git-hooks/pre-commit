@@ -1,0 +1,68 @@
+#!/bin/sh
+
+##to make sum link run git-hook-install
+dockerRun() {
+    docker-compose exec -T app $@
+}
+
+error() {
+  RED='\033[0;31m'
+  NC='\033[0m' # No Color
+  printf "${RED} $1 ${NC}\n"
+}
+
+STAGED_FILES_CMD=$(git diff --cached --name-only --diff-filter=ACMR HEAD | grep \\.php)
+UNSTAGED_FILES_CMD=$(git diff --name-only --diff-filter=ACMR | grep \\.php)
+
+# Determine if a file list is passed
+if [ "$#" -eq 1 ]
+then
+    oIFS=$IFS
+    IFS='
+    '
+    SFILES="$1"
+    IFS=$oIFS
+fi
+
+SFILES=${SFILES:-$STAGED_FILES_CMD}
+STAGED_BUT_MODIFIED_FILES=$(php -r "\$sfiles=(explode(\"\\n\", '$SFILES'));\$usfiles=(explode(\"\\n\", '$UNSTAGED_FILES_CMD'));echo implode(\"\\n\",array_intersect(\$usfiles,\$sfiles));")
+
+if [ -z "$STAGED_BUT_MODIFIED_FILES" ]; then
+    echo "OK"
+else
+    error "Files staged but then modified:\n"
+    error "${STAGED_BUT_MODIFIED_FILES}"
+    exit 1
+fi
+
+
+echo "Checking PHP Lint..."
+for FILE in $SFILES
+do
+    FILE="/var/www/html/"$FILE;
+    dockerRun php -l -d display_errors=0 $FILE
+    if [ $? != 0 ]
+    then
+        error "Fix the error before commit."
+        exit 1
+    fi
+    FILES="$FILES $FILE"
+done
+
+echo "Running Code Sniffer."
+for FILE in $SFILES
+do
+    FILE="/var/www/html/"$FILE;
+    dockerRun ./vendor/bin/phpcs -n -p $FILE
+    if [ $? != 0 ]
+    then
+      error "Fix the error before commit!"
+      error "Run"
+      error "  ./vendor/bin/phpcbf $FILES"
+      error "for automatic fix or fix it manually."
+      exit 1
+    fi
+    FILES="$FILES $FILE"
+done
+
+exit $?

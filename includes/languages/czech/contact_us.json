@@ -1,0 +1,13 @@
+{
+    "HEADING_TITLE": "CONTACTS",
+"HEADING_SUBTITLE": "Kontaktujte nás nyní a získejte svůj vlastní internetový obchod a snadno použitelné cms pro internetový obchod!",
+"NAVBAR_TITLE": "Kontaktujte nás",
+"TEXT_SUCCESS": "Vaše otázka byla úspěšně odeslána majiteli obchodu.",
+"EMAIL_SUBJECT": "Otázka od %s",
+"ENTRY_NAME": "Celé jméno:",
+"ENTRY_EMAIL": "E-mailová adresa:",
+"ENTRY_PHONE": "Telefonní číslo:",
+"ENTRY_ENQUIRY": "Otázka:",
+"SEND_TO_TEXT": "Odeslat komu:",
+"POP_CONTACT_US": "Napište nám e-mail a my vám zavoláme!"
+}

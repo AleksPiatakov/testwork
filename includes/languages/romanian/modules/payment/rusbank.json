@@ -1,0 +1,5 @@
+{
+    "MODULE_PAYMENT_RUS_BANK_TEXT_TITLE": "Transfer bancar",
+    "MODULE_PAYMENT_RUS_BANK_TEXT_DESCRIPTION": "Transfer Bancar",
+    "MODULE_PAYMENT_RUS_BANK_TEXT_EMAIL_FOOTER": "Our bank details:<br>Bank name: %s<br>Account number: %s<br>BIC: %s<br>Account number 2: %s<br>TIN: %s<br>Recipient: %s<br>Recipient 2: %s<br>Purpose: %s<br><br>After payment of the order, please inform us by e-mail %s about your payment. Your order will be sent immediately after confirming the fact of payment."
+}

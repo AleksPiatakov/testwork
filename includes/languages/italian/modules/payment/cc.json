@@ -1,0 +1,14 @@
+{
+    "MODULE_PAYMENT_CC_TEXT_TITLE": "Carta di credito",
+    "MODULE_PAYMENT_CC_TEXT_DESCRIPTION": "Informazioni sulla carta di credito per la pasta:<br><br>il Numero di carta: 4111111111111111<br>Valida fino al: Qualsiasi data",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_OWNER": "Il proprietario della carta di credito:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_NUMBER": "Numero di carta",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES": "Valida fino al:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM": "Scade (mese)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY": "Scade (anno)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_CVC": "Codice CVC",
+    "MODULE_PAYMENT_CC_TEXT_ERROR": "I dati inseriti in modo errato!",
+    "MODULE_PAYMENT_CC_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

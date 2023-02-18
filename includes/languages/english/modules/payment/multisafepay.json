@@ -1,0 +1,17 @@
+{
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_TITLE": "MultiSafepay Connect",
+    "MODULE_PAYMENT_MULTISAFEPAY_EMAIL_TEXT_ORDER_STATUS": "Order Status:",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_RETURN_TO_SHOP": "Return to %s",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR": "An error has occurred",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REDIRECT": "Unable to perform redirect",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_STATUS": "Unable to retrieve order status",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNKNOWN": "No details available",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNCLEARED": "Transaction is not cleared",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_RESERVED": "Transaction is reserved",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_VOID": "Transaction is cancelled",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_DECLINED": "Transaction is declined",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REVERSED": "Transaction is reversed",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REFUNDED": "Transaction is refunded",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_EXPIRED": "Transaction is expired",
+    "MODULE_PAYMENT_MULTISAFEPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/maestro.png\"><img src=\"images/payment_method/paypal.png\"><img src=\"images/payment_method/ae.png\"></span>"
+}

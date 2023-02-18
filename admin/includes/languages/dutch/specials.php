@@ -1,0 +1,48 @@
+<?php 
+define('HEADING_TITLE','Kortingen');
+define('TABLE_HEADING_PRODUCTS','Producten');
+define('TABLE_HEADING_PRODUCTS_ID', 'ID');
+define('TABLE_HEADING_PRODUCTS_PRICE','Prijs');
+define('TABLE_HEADING_PRODUCTS_VENDOR_CODE', 'Vendor Code');
+define('TABLE_HEADING_STATUS','Voorwaarde');
+define('TABLE_HEADING_ACTION','Actie');
+define('TABLE_HEADING_MODEL','Model');
+define('TEXT_SPECIALS_PRODUCT','Item:');
+define('TEXT_SPECIALS_PRODUCT_WITHOUT_ATTRIBUTES', 'Without attributes');
+define('TEXT_SPECIALS_PRODUCT_All_ATTRIBUTES', 'All attributes');
+define('TEXT_SPECIALS_SPECIAL_PRICE','Speciale prijs:');
+define('TEXT_SPECIALS_EXPIRES_DATE','Geldig Tot En Met:');
+define('TEXT_SPECIALS_START_DATE', 'Start Date:');
+define('TEXT_DISPLAY_COUNTDOWN', 'Display countdown:');
+define('TEXT_SPECIALS_PRICE_TIP','<b>opmerking:</b><ul><li>kunt U het kortingspercentage in het veld "Speciale Prijs", bijvoorbeeld: <b>20%</b></li><li>Als U een nieuwe prijs, het decimale scheidingsteken moet worden \'.\' (dot), bijvoorbeeld: <b>49.99</b></li></ul>');
+define('TEXT_SPECIALS_CUSTOMERS','Klant Speciale Prijs:');
+define('TEXT_ENTER_NAME','Voer de productnaam of code in:');
+define('TEXT_SPECIALS_GROUPS','Groep Speciale Prijs:');
+define('TEXT_INFO_DATE_ADDED','Datum toegevoegd:');
+define('TEXT_INFO_LAST_MODIFIED','Laatst bijgewerkt:');
+define('TEXT_INFO_NEW_PRICE','Nieuwe Prijs:');
+define('TEXT_INFO_ORIGINAL_PRICE','Originele Prijs:');
+define('TEXT_INFO_PERCENTAGE','Percentage:');
+define('TEXT_INFO_EXPIRES_DATE','Geldig tot en met:');
+define('TEXT_INFO_STATUS_CHANGE','Om de status te wijzigen:');
+define('TEXT_INFO_HEADING_DELETE_SPECIALS','Voor Het Verwijderen Van Een Korting');
+define('TEXT_INFO_DELETE_INTRO','Wilt u een uitgebreide prijs van het product?');
+define('TABLE_HEADING_NAME','Naam');
+define('TABLE_HEADING_PRICE','Prijs');
+define('TABLE_HEADING_PRICE_DISCOUNT','Korting op de prijs');
+define('TABLE_HEADING_DISCOUNT_PERCENT','Korting %');
+define('TABLE_HEADING_DATE_ADD_DISCOUNT','De datum van de totstandkoming van kortingen');
+define('TABLE_HEADING_EXPIRES_DATE','Geldig Tot');
+define('TABLE_HEADING_ATTR','Kenmerken');
+define('TEXT_INFO_ONLY_DISCOUNT','Alleen met een korting');
+define('TEXT_INFO_CATEGORY','Alle categorieën');
+define('TEXT_INFO_MANUFACTURERS','Alle merken');
+define('BUTTON_CANCEL_NEW','annuleren');
+define('BUTTON_EDIT_NEW','veranderen');
+define('BUTTON_DELETE_NEW','verwijderen');
+define('BUTTON_NEW_PRODUCT_NEW','nieuw product');
+
+// Validation
+define('TEXT_SPECIAL_ALREADY_EXIST', 'Special for this product and this customers is already existing.');
+define('TEXT_EMPTY_PRODUCT', 'Choose product.');
+define('TEXT_EMPTY_CUSTOMER', 'Choose customer or group.');

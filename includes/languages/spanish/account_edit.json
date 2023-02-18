@@ -1,0 +1,9 @@
+{
+    "NAVBAR_TITLE_1": "Mi cuenta",
+    "NAVBAR_TITLE_2": "Editar cuenta",
+    "HEADING_TITLE": "Informacion de mi cuenta",
+    "MY_ACCOUNT_TITLE": "Mi cuenta",
+    "SUCCESS_ACCOUNT_UPDATED": "Tu cuenta ha sido actualizada exitosamente.",
+    "SUCCESS_EMAIL_NEW_SENT": "Notificación de un cambio en la dirección de correo electrónico en su cuenta.\nTu nueva dirección de correo electrónico: %s",
+    "SUCCESS_EMAIL_SENT": "Notificación de un cambio en la dirección de correo electrónico en su cuenta."
+}

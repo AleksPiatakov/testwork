@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "Мої дані",
+    "NAVBAR_TITLE_2": "Адресна книга",
+    "NAVBAR_TITLE_ADD_ENTRY": "Новий запис",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "Змінити запис",
+    "NAVBAR_TITLE_DELETE_ENTRY": "Видалити запис",
+    "HEADING_TITLE_ADD_ENTRY": "Новий запис",
+    "HEADING_TITLE_MODIFY_ENTRY": "Змінити запис",
+    "HEADING_TITLE_DELETE_ENTRY": "Видалити запис",
+    "DELETE_ADDRESS_TITLE": "Видалити адресу",
+    "DELETE_ADDRESS_DESCRIPTION": "Ви дійсно хочете видалити вибрані адреси з адресної книги?",
+    "NEW_ADDRESS_TITLE": "Новий запис",
+    "SELECTED_ADDRESS": "Обрана адреса",
+    "SET_AS_PRIMARY": "Зробити за замовчуванням.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "Вибрану адресу видалено з адресної книги.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "Ваша адресна книга була оновлена.",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "Адреса, встановлена за замовчуванням не може бути видалена. Встановіть статус за замовчуванням на іншу адресу і спробуйте ще раз.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "Адресна книга не знайдена.",
+    "ERROR_ADDRESS_BOOK_FULL": "Ваша адресна книга повністю заповнена. Видаліть непотрібу Вам адресу і тільки після цього Ви зможете додати нову адресу."
+}

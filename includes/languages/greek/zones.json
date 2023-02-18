@@ -1,0 +1,8 @@
+{
+    "MODULE_SHIPPING_ZONES_TEXT_TITLE": "Τιμές ζωνών",
+    "MODULE_SHIPPING_ZONES_TEXT_DESCRIPTION": "Zone Based Rates",
+    "MODULE_SHIPPING_ZONES_TEXT_WAY": "Αποστολή σε",
+    "MODULE_SHIPPING_ZONES_TEXT_UNITS": "lb(s)",
+    "MODULE_SHIPPING_ZONES_INVALID_ZONE": "Δεν διατίθεται αποστολή στην επιλεγμένη χώρα",
+    "MODULE_SHIPPING_ZONES_UNDEFINED_RATE": "Κατά τη στιγμή της αποστολής δεν μπορεί να καθοριστεί αυτή τη στιγμή"
+}

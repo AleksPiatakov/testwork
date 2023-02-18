@@ -1,0 +1,6 @@
+{
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_TITLE": "Bankkártyás fizetés",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_DESCRIPTION": "Banki adataink:<br>Bank neve: &nbsp;&nbsp;&nbsp;%s<br>Kártyaszám: &nbsp;&nbsp;&nbsp;%s<br>Címzett: &nsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_TEXT_EMAIL_FOOTER": "Bank adataink:<br>Bank neve: &nbsp;&nbsp;&nbsp;%s<br>Kártyaszám: &nbsp;&nbsp;&nbsp;%s<br>Címzett: &nsp;%s<br>",
+  "MODULE_PAYMENT_BANK_CART_TRANSFER_IMAGES": "<span><img src=images/payment_method/visa.png><img src=images/payment_method/mastercard.png></span>"
+}

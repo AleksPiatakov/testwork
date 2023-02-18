@@ -1,0 +1,28 @@
+<?php 
+define('TEXT_POLLB_RESULTS','Les résultats de l\'enquête');
+define('TEXT_POLLB_TOTAL','Total des votes');
+define('_WARNING','Avertissement: ');
+define('_ALREADY_VOTED','Vous avez déjà voté.');
+define('_NO_VOTE_SELECTED','Vous n\'avez pas choisi la réponse pour le vote.');
+define('_TOTALVOTES','Total des votes');
+define('_OTHERPOLLS','D\'autres sondages');
+define('NAVBAR_TITLE_1','Les résultats de l\'enquête');
+define('_POLLRESULTS','Les résultats de l\'enquête');
+define('_VOTING','Voter');
+define('_RESULTS','Les résultats');
+define('_VOTES','Votes');
+define('_VOTE','Voter');
+define('_COMMENT','Avis');
+define('_COMMENTS_POSTED','Les commentaires ajoutés');
+define('_COMMENTS_BY','Avis ajouté ');
+define('_COMMENTS_ON','  ');
+define('_YOURNAME','Votre nom:');
+define('_OTZYV','Avis:');
+define('TEXT_CONTINUE','Ajouter un avis');
+define('_PUBLIC','Le scrutin public');
+define('_PRIVATE','Le vote à scrutin secret');
+define('_POLLOPEN','Le sondage est ouvert');
+define('_POLLCLOSED','Sondage pour les utilisateurs enregistrés');
+define('_POLLPRIVATE','Sondage pour les utilisateurs enregistrés, entrez dans le magasin, un sondage uniquement pour les utilisateurs enregistrés');
+define('_ADD_COMMENTS','Ajouter un avis');
+define('TEXT_DISPLAY_NUMBER_OF_COMMENTS','Le montre <b>%d</b> - <b>%d</b> (<b>%d</b> commentaires)');

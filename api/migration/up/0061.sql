@@ -1,0 +1,1 @@
+UPDATE `infobox_configuration` SET `callback_data`='NEED_MINIFY';

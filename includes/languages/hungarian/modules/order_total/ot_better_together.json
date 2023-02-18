@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Kettõ az egyben",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Kettõ az egyben modul",
+    "TWOFER_PROMO_STRING": "Vegye meg ezt a terméket, és kapjon ajándékba egy másikat!",
+    "TWOFER_QUALIFY_STRING": "Kaphat még %s ingyen!",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " second ",
+    "FREE_STRING": " ingyen",
+    "REV_GET_ANY": "Vásároljon ",
+    "REV_GET_THIS": "Vásárolja meg ",
+    "REV_GET_DISC": ", vásárolja meg ezt a terméket ",
+    "FREE": " ingyen",
+    "GET_YOUR_PROD": ", szerezze meg a termékét ",
+    "GET_YOUR_CAT": ", szerezze meg a terméket ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s együtt",
+    "BETTER_TOGETHER_SAVING": "megtakarítás ",
+    "BETTER_TOGETHER_SUBMIT": "Vegye meg együtt"
+}

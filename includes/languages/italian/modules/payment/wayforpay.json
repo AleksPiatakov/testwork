@@ -1,0 +1,19 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "Descrizione",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Abilita \/ disabilita il modulo",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Stato predefinito",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Conto commerciante",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Segreto mercantile",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "L'ordinamento",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "Stato di pagamento",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "True - abilita, False - disabilita",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "Lo stato impostato sull'ordine al momento della creazione",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Conto commerciante",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Segreto mercantile",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "Ordinamento del modulo nel blocco con moduli di pagamento",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "Lo stato impostato sull'ordine in caso di pagamento andato a buon fine",
+    "MODULE_PAYMENT_WAYFORPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

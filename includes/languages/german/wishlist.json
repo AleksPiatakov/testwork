@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "aufgeschobene Waren",
+    "BOX_TEXT_PRICE": "Kosten",
+    "BOX_TEXT_PRODUCT": "Name",
+    "BOX_TEXT_IMAGE": "Bild",
+    "BOX_TEXT_NO_ITEMS": "Keine offenen Posten.",
+    "TEXT_EMAIL": "Email:",
+    "TEXT_MESSAGE": "Nachricht:",
+    "TEXT_ITEM_IN_CART": "Artikel im Warenkorb",
+    "TEXT_ITEM_NOT_AVAILABLE": "Produkt ist nicht mehr verfügbar",
+    "WISHLIST_EMAIL_SUBJECT": "dir eine Nachricht gesendet",
+    "WISHLIST_SENT": "Zurückgestellte Waren werden erfolgreich gesendet.",
+    "WISHLIST_EMAIL_LINK": "\r\n\r\nDie Liste der zurückgestellten Waren des Besuchers $from_name:\r\n$link\r\n\r\nVielen Dank, %s",
+    "WISHLIST_EMAIL_GUEST": "Danke, %s",
+    "ERROR_YOUR_NAME": "Gib deinen Namen ein.",
+    "ERROR_YOUR_EMAIL": "Gib deine E-Mail-Adresse an.",
+    "ERROR_VALID_EMAIL": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "ERROR_ONE_EMAIL": "Sie müssen mindestens einen Namen und eine E-Mail-Adresse angeben.",
+    "ERROR_ENTER_EMAIL": "E-Mail-Adresse angeben.",
+    "ERROR_ENTER_NAME": "Empfängernamen angeben.",
+    "ERROR_MESSAGE": "Eine Nachricht hinzufügen."
+}

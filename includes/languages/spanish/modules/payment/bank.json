@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Transferencia de banco",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Nuestros datos bancarios:<br><br>Nombre del banco: &nbsp;&nbsp;&nbsp;<br>Cuenta bancaria: &nbsp;&nbsp;&nbsp;<br>IMF: &nbsp;&nbsp;&nbsp;<br>Caja \/ factura: &nbsp;&nbsp;&nbsp;<br>INN: &nbsp;&nbsp;&nbsp;<br>Destinatario: &nbsp;&nbsp;&nbsp;<br>PPC: &nbsp;&nbsp;&nbsp;<br>Propósito del pago: &nbsp;&nbsp;&nbsp;<br><br>Después de pagar el pedido, asegúrese de informarnos por correo electrónico <a href=\"mailto:%s\">%s<\/a> sobre el hecho del pago. Su pedido será enviado inmediatamente después de la confirmación del pago.<br><br><a href=kvitan.php target=_blank><b><span>Recibo de pago<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Nuestros datos bancarios:\n\nNombre del banco: <br>Cuenta bancaria: <br>IMF: <br>Caja \/ factura: <br>INN: <br>Destinatario: \nPPC: \nPropósito del pago: \n\nDespués de pagar el pedido, asegúrese de informarnos por correo electrónico %s sobre el hecho del pago. Su pedido será enviado inmediatamente después de la confirmación del pago.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

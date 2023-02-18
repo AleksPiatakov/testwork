@@ -1,0 +1,7 @@
+{
+    "HEADING_ARTICLE_NOT_FOUND": "Article Not Found",
+    "TEXT_ARTICLE_NOT_FOUND": "Sorry, but the article you requested is not available in this site.",
+    "TEXT_DATE_ADDED": "This article was published on %s.",
+    "TEXT_DATE_AVAILABLE": "This article will be published on %s.",
+    "TEXT_BY": "by "
+}

@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "我的帳戶",
+    "NAVBAR_TITLE_2": "連絡資料",
+    "NAVBAR_TITLE_ADD_ENTRY": "新增資料",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "更新資料",
+    "NAVBAR_TITLE_DELETE_ENTRY": "刪除資料",
+    "HEADING_TITLE_ADD_ENTRY": "New Address Book Entry",
+    "HEADING_TITLE_MODIFY_ENTRY": "Update Address Book Entry",
+    "HEADING_TITLE_DELETE_ENTRY": "Delete Address Book Entry",
+    "DELETE_ADDRESS_TITLE": "刪除地址",
+    "DELETE_ADDRESS_DESCRIPTION": "Are you sure you would like to delete the selected address from your address book?",
+    "NEW_ADDRESS_TITLE": "New Address Book Entry",
+    "SELECTED_ADDRESS": "選擇寄送地址",
+    "SET_AS_PRIMARY": "設為主要連絡地址",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "The selected address has been successfully removed from your address book.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "您的連絡地址已經完成更新",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "The primary address cannot be deleted. Please set another address as the primary address and try again.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "The address book entry does not exist.",
+    "ERROR_ADDRESS_BOOK_FULL": "Your address book is full. Please delete an unneeded address to save a new one."
+}

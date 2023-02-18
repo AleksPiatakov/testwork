@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>clients-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64" rx="32"></rect>
+        <path d="M16,2.27373675e-13 C17,2.27373675e-13 18,2.27373675e-13 19,2.27373675e-13 C20,2.27373675e-13 21,2.27373675e-13 22,2.27373675e-13 C30.836556,2.25750426e-13 38,7.163444 38,16 L38,21 L38,21 L0,21 L0,16 C-1.082166e-15,7.163444 7.163444,2.28996924e-13 16,2.27373675e-13 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Admin---Simplified---Drag`nDrop" transform="translate(-1213.000000, -116.000000)">
+            <g id="Group-5">
+                <g id="Basic-Usage" transform="translate(380.000000, 90.000000)">
+                    <g id="Blocks">
+                        <g id="Items">
+                            <g id="Item" transform="translate(807.000000, 1.000000)">
+                                <g id="image" transform="translate(26.000000, 25.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Rectangle" fill="#0071CE" opacity="0.1" xlink:href="#path-1"></use>
+                                    <g id="Group-3" mask="url(#mask-2)">
+                                        <g transform="translate(13.000000, 43.000000)">
+                                            <mask id="mask-4" fill="white">
+                                                <use xlink:href="#path-3"></use>
+                                            </mask>
+                                            <use id="Rectangle" stroke="none" fill="#0071CE" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                            <rect id="Rectangle" stroke="none" fill="#005FAD" fill-rule="evenodd" mask="url(#mask-4)" x="10" y="-6" width="18" height="17" rx="8.5"></rect>
+                                        </g>
+                                    </g>
+                                    <path d="M26,39 L38,39 L38,45 C38,48.3137085 35.3137085,51 32,51 C28.6862915,51 26,48.3137085 26,45 L26,39 L26,39 Z" id="Rectangle" fill="#FF9300" mask="url(#mask-2)"></path>
+                                    <path d="M21,18 L43,18 C43,22.2824135 43,26.9490802 43,32 C43,36.2571168 38,41 32,41 C26,41 21,36.0500871 21,32 C21,27.3643431 21,22.6976764 21,18 Z" id="Rectangle" fill="#FFB42B" mask="url(#mask-2)"></path>
+                                    <path d="M43,27 L45,27 C44.5655358,28.9700592 44.2322025,30.3033925 44,31 C43.7677975,31.6966075 43.4344642,32.3632741 43,33 L43,27 Z" id="Rectangle" fill="#FF9300" mask="url(#mask-2)"></path>
+                                    <path d="M19,27 L21,27 C20.5655358,28.9700592 20.2322025,30.3033925 20,31 C19.7677975,31.6966075 19.4344642,32.3632741 19,33 L19,27 Z" id="Rectangle" fill="#FF9300" mask="url(#mask-2)" transform="translate(20.000000, 30.000000) scale(-1, 1) translate(-20.000000, -30.000000) "></path>
+                                    <path d="M36.0601958,12.5784766 C36.2261918,13.2368389 36.6098636,13.56602 37.2112113,13.56602 C37.8080469,13.56602 42.3445704,15.3205983 44,18.4313306 C45,20.3104394 45,23.944564 45,28 C45,28.9720186 44,29.9720186 42,31 L42,23 C40.5663261,22.675389 39.6616307,22.3269468 39.2859137,21.9546732 C38.0384183,20.718611 37.8409752,19.0601278 36.7311679,18.8943284 C35.6633781,18.7348061 33.5800981,20.4640231 29.6141414,21.718143 C28.2686448,22.1436176 25.7305977,22.5709033 22,23 L22,31 C20,29.1573431 19,27.6755662 19,26.5546693 C19,24.9902134 19.0765635,21.4608858 19.5884061,19.7500439 C19.9236774,18.6293947 21.2114728,16.2873046 22.7271933,14.8355327 C24.57208,13.0684823 26.7584717,12.2478857 28.0243947,11.8438275 C29.2253073,11.4605194 31.2258978,11.2024722 34.0261662,11.0696858 L34.0261666,11.0696953 C34.9767964,11.0246173 35.8275215,11.6556594 36.0601958,12.5784766 Z" id="Rectangle" fill="#424242" mask="url(#mask-2)"></path>
+                                    <rect id="Rectangle" fill="#804406" mask="url(#mask-2)" x="26" y="27" width="3" height="3" rx="1.5"></rect>
+                                    <rect id="Rectangle" fill="#804406" mask="url(#mask-2)" x="35" y="27" width="3" height="3" rx="1.5"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

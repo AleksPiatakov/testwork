@@ -1,0 +1,28 @@
+<?php 
+define('HEADING_TITLE','Verkoop statistieken');
+define('HEADING_TITLE_STATUS','Status');
+define('HEADING_TITLE_REPORTED','Datum');
+define('TEXT_ALL_ORDERS','Alle bestellingen');
+define('TEXT_NOTHING_FOUND','Geen orders in de geselecteerde periode');
+define('TEXT_BUTTON_REPORT_PRINT','Printable');
+define('TEXT_BUTTON_REPORT_FILE','Bestand');
+define('TABLE_HEADING_PRODUCTS_QUANTITY', 'Samlede ordrer<br>');
+define('TEXT_BUTTON_REPORT_HELP','Help');
+define('TEXT_BUTTON_REPORT_PRINT_DESC','Toon afdrukbare versie');
+define('TEXT_BUTTON_REPORT_FILE_DESC','Download het rapport in. txt-formaat, komma gescheiden');
+define('TEXT_BUTTON_REPORT_HELP_DESC','Over dit rapport');
+define('TEXT_REPORT_DATE_FORMAT','j M Y g:i a');
+define('TABLE_HEADING_YEAR','Jaar');
+define('TABLE_HEADING_MONTH','Een maand');
+define('TABLE_HEADING_DAYS','Dag');
+define('TABLE_HEADING_INCOME','Alleen<br>');
+define('TABLE_HEADING_SALES','De totale waarde van<br> goederen');
+define('TABLE_HEADING_NONTAXED','Kosten<br> product');
+define('TABLE_HEADING_TAXED','Inclusief<br> belastingen');
+define('TABLE_HEADING_TAX_COLL','Belastingen');
+define('TABLE_HEADING_SHIPHNDL','Verzendkosten');
+define('TABLE_HEADING_LOWORDER','Laag<br> kosten');
+define('TABLE_HEADING_OTHER','Certificaten');
+define('TABLE_FOOTER_YTD','Jaar');
+define('TABLE_FOOTER_YEAR','Jaar');
+define('SHOW_TEXT','Laten zien');

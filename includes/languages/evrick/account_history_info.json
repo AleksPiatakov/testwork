@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "Мои данные",
+    "NAVBAR_TITLE_2": "История заказов",
+    "NAVBAR_TITLE_3": "Информация о заказах",
+    "HEADING_TITLE": "Информация о заказах",
+    "HEADING_ORDER_NUMBER": "Заказ #%s",
+    "HEADING_ORDER_DATE": "Дата",
+    "HEADING_ORDER_TOTAL": "Стоимость заказа:",
+    "HEADING_DELIVERY_ADDRESS": "Адрес доставки",
+    "HEADING_SHIPPING_METHOD": "Способ доставки",
+    "HEADING_PRODUCTS": "Товар",
+    "HEADING_TAX": "Налог",
+    "HEADING_TOTAL": "Всего",
+    "HEADING_PAYMENT_METHOD": "Способ оплаты",
+    "HEADING_ORDER_HISTORY": "История заказа",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Ссылка действительна до: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " раз можно загрузить файл.",
+    "TABLE_HEADING_DATE_ADDED": "Дата",
+    "TABLE_HEADING_STATUS": "Статус заказа",
+    "TABLE_HEADING_COMMENTS": "Комментарии"
+}

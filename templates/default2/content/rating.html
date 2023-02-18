@@ -1,0 +1,10 @@
+<div style="display:block;width:60px;" id="ratingcom-{$idcom}">
+    <img class="lazyload" src="'.DIR_WS_IMAGES_CDN.'pixel_trans.png" data-src="{$add_folder}/{$wwp}/im/down.png"
+         title="&darr;" alt="&darr;" style="border:0;cursor:pointer;float:right;"
+         onclick="commentrating('{$add_folder}/{$wwp}/func.php?g=0&n={$idcom}','commentit-itogo-{$idcom}');"/>
+    <span id="commentit-itogo-{$idcom}"
+          style="padding:0 3px 0 3px;color:{$ratingcolor};float:right;font: bold 10pt Arial;">{$ratingznak}{$ratingval}</span>
+    <img class="lazyload" src="'.DIR_WS_IMAGES_CDN.'pixel_trans.png" data-src="{$add_folder}/{$wwp}/im/up.png"
+         title="&uarr;" alt="&uarr;" style="border:0;cursor:pointer;float:right;"
+         onclick="commentrating('{$add_folder}/{$wwp}/func.php?g=1&n={$idcom}','commentit-itogo-{$idcom}');"/>
+</div>

@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Безналичный расчет",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Наши банковские реквизиты:<br><br>Название банка: &nbsp;&nbsp;&nbsp;%s<br>Расчетный счет: &nbsp;&nbsp;&nbsp;%s<br>МФО: &nbsp;&nbsp;&nbsp;%s<br>ЕГРПОУ/ИНН: &nbsp;&nbsp;&nbsp;%s<br>Получатель: &nbsp;&nbsp;&nbsp;%s<br>Назначение платежа: &nbsp;&nbsp;&nbsp;%s<br><br>После оплаты заказа обязательно сообщите нам по электронной почте %s<\/a> о факте оплаты. Ваш заказ будет отправлен сразу после подтверждения факта оплаты.<br><br><a href=kvitan.php target=_blank><b><span>Квитанция для оплаты<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Наши банковские реквизиты:<br><br>Название банка: %s<br>Расчетный счет: %s<br>МФО: %s<br>ЕГРПОУ/ИНН: %s<br>Получатель: %s<br>Назначение платежа: %s<br><br>После оплаты заказа обязательно сообщите нам по электронной почте %s о факте оплаты. Ваш заказ будет отправлен сразу после подтверждения факта оплаты.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=images/payment_method/visa.png><img src=images/payment_method/mastercard.png></span>"
+}

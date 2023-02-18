@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "Meine Daten",
+    "NAVBAR_TITLE_2": "Adressbuch",
+    "NAVBAR_TITLE_ADD_ENTRY": "Neuer Eintrag",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "Eintrag bearbeiten",
+    "NAVBAR_TITLE_DELETE_ENTRY": "Eintrag löschen",
+    "HEADING_TITLE_ADD_ENTRY": "Neuer Eintrag",
+    "HEADING_TITLE_MODIFY_ENTRY": "Eintrag bearbeiten",
+    "HEADING_TITLE_DELETE_ENTRY": "Eintrag löschen",
+    "DELETE_ADDRESS_TITLE": "Adresse löschen",
+    "DELETE_ADDRESS_DESCRIPTION": "Möchten Sie die ausgewählten Adressen wirklich aus dem Adressbuch löschen?",
+    "NEW_ADDRESS_TITLE": "Neuer Eintrag",
+    "SELECTED_ADDRESS": "Ausgewählte Adresse",
+    "SET_AS_PRIMARY": "Als Standard festlegen.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "Die ausgewählte Adresse wurde aus dem Adressbuch gelöscht.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "Ihr Adressbuch wurde aktualisiert.",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "Die Standardadresse kann nicht gelöscht werden. Setzen Sie den Standardstatus auf eine andere Adresse und versuchen Sie es erneut.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "Adressbuch nicht gefunden.",
+    "ERROR_ADDRESS_BOOK_FULL": "Ihr Adressbuch ist vollständig ausgefüllt. Löschen Sie die Adresse, die Sie nicht benötigen und nur dann können Sie eine neue Adresse hinzufügen."
+}

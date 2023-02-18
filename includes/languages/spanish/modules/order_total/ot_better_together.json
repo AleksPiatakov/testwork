@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Better together",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Better together module",
+    "TWOFER_PROMO_STRING": "Buy this item and get other for free!",
+    "TWOFER_QUALIFY_STRING": "You can get other %s for free",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " second ",
+    "FREE_STRING": " for free",
+    "REV_GET_ANY": "Buy item from ",
+    "REV_GET_THIS": "Buy  ",
+    "REV_GET_DISC": ", get this item ",
+    "FREE": " for free",
+    "GET_YOUR_PROD": ", get you product ",
+    "GET_YOUR_CAT": ", get item from ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s por set",
+    "BETTER_TOGETHER_SAVING": "ahorro ",
+    "BETTER_TOGETHER_SUBMIT": "Comprar un juego"
+}

@@ -1,0 +1,14 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Kupon",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Karta podarunkowa\/Kupon",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Kupon",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Niewłaściwy kod kuponu",
+    "ERROR_RESTRICTION_COUPON": "Kupon jest nieważny dla tych produktów",
+    "ERROR_MINIMUM_CART_AMOUNT": "Minimalna kwota koszyka dla tego kuponu wynosi: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "Wymieniony kupon nie jest jeszcze ważny",
+    "ERROR_INVALID_FINISDATE_COUPON": "U danego kuponu wygasła data ważności",
+    "ERROR_INVALID_USES_COUPON": "Kupon został już wykorzystany  ",
+    "TIMES": " raz.",
+    "ERROR_INVALID_USES_USER_COUPON": "Wykorzystałeś kod kuponu maksymalną ilość razy.",
+    "TEXT_ENTER_COUPON_CODE": "Twój kod:&nbsp;&nbsp;"
+}

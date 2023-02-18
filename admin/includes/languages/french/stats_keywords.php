@@ -1,0 +1,20 @@
+<?php 
+define('HEADING_TITLE','Termes de recherche: Statistiques et de remplacement');
+define('WORD_ENTRY_ORIGINAL','L\'original de la requête:');
+define('WORD_ENTRY_REPLACEMENT','Remplacer la requête:');
+define('KEYWORD_TITLE','La demande');
+define('KEYWORD_TITLE2','Le nombre de');
+define('SIDEBAR_HEADING','Paramètres');
+define('SIDEBAR_INFO_1','Utilisez le bouton mettre à jour pour voir ce que les visiteurs cherchent dans le magasin.');
+define('SIDEBAR_INFO_2','Pour supprimer le <b>tous</b> les requêtes de recherche, qui ont fait les visiteurs de la boutique, cliquez sur le bouton Supprimer');
+define('SIDEBAR_INFO_3','<b>Remplace les mots/les requêtes</b><br><br>Regarder remplace les mots/requêtes:');
+define('BUTTON_VIEW_WORD_LIST','Voir les mots/demandes');
+define('BUTTON_UPDATE_WORD_LIST','Mettre à jour');
+define('BUTTON_SORT_NAME','Trier par nom');
+define('BUTTON_SORT_TOTAL','Trier par nombre de');
+define('BUTTON_DELETE','Supprimer');
+define('BUTTON_EDIT_WORD','Modifier');
+define('BUTTON_ADD_WORD','Ajouter un mot/demande');
+define('BUTTON_ADD','Ajouter');
+define('LINK_EDIT','Modifier');
+define('LINK_DELETE','Supprimer');

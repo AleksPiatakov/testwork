@@ -1,0 +1,14 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Κουπόνια έκπτωσης",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Κουπόνια δώρων \/ κουπόνια έκπτωσης",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Εκπτωτικό κουπόνι",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Μη έγκυρος κωδικός κουπονιού",
+    "ERROR_RESTRICTION_COUPON": "Το κουπόνι δεν είναι έγκυρο για αυτά τα προϊόντα",
+    "ERROR_MINIMUM_CART_AMOUNT": "Το ελάχιστο ποσό καλαθιού για αυτό το κουπόνι είναι: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "Αυτό το κουπόνι δεν είναι διαθέσιμο ακόμα",
+    "ERROR_INVALID_FINISDATE_COUPON": "Αυτό το κουπόνι έχει λήξει",
+    "ERROR_INVALID_USES_COUPON": "Αυτό το κουπόνι θα μπορούσε να χρησιμοποιηθεί  ",
+    "TIMES": " times.",
+    "ERROR_INVALID_USES_USER_COUPON": "Χρησιμοποιήσατε το κουπόνι με στον μέγιστο αριθμό επιτρεπόμενων  ανά πελάτη.",
+    "TEXT_ENTER_COUPON_CODE": "Καταχωρίστε τον κωδικό εξόφλησης&nbsp;&nbsp;"
+}

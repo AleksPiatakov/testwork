@@ -1,0 +1,16 @@
+{
+    "NAVBAR_TITLE": "Hasło",
+    "HEADING_TITLE": "Pozwól mi wejść!",
+    "TEXT_NEW_CUSTOMER": "Zarejestruj się teraz!",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "Rejestracja w naszym sklepie pozwoli na znacznie <b>szybsze i wygodniejsze<\/b> dokonywanie zakupów, ponadto możesz monitorować realizację oraz historię swoich zamówień.",
+    "TEXT_RETURNING_CUSTOMER": "Jestem już zarejestrowany!",
+    "TEXT_LOGIN_ERROR": "<span><b>BŁĄD:<\/b><\/span> Nieprawidłowy 'E-Mail Adres' i\/lub 'Hasło'.",
+    "NO_CUSTOMER": "W bazie danych nie ma takiego użytkownika",
+    "NO_PASS": "Nieprawidłowe hasło",
+    "SOC_VK": "Vkontakte",
+    "SOC_SITE": "witryna",
+    "SOC_ENTER_FROM_OTHER": "Zaloguj się przez media społecznościowe lub przez swój login\/hasło.",
+    "SOC_NOW_FROM": "Teraz spróbujesz zalogować się przez",
+    "SOC_NEED_FROM": "Zarejestrowałeś się przez",
+    "SOC_LOGIN_THX": "Dziękujemy, udało ci się wejść!"
+}

@@ -1,0 +1,12 @@
+{
+    "NAVBAR_TITLE_1": "My Account",
+    "NAVBAR_TITLE_2": "History",
+    "HEADING_TITLE": "Istoric comenzi",
+    "TEXT_ORDER_STATUS": "Status",
+    "TEXT_ORDER_DATE": "Data",
+    "TEXT_ORDER_SHIPPED_TO": "Shipped To:",
+    "TEXT_ORDER_BILLED_TO": "Billed To:",
+    "TEXT_ORDER_COST": "Valoare",
+    "TEXT_ORDER_PC": "buc",
+    "TEXT_NO_PURCHASES": "Pana acum nu aveti comenzi plasate."
+}

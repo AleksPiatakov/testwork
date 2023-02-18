@@ -1,0 +1,27 @@
+<?php 
+define('HEADING_TITLE','Munt');
+define('TABLE_HEADING_CURRENCY_NAME','Munt');
+define('TABLE_HEADING_CURRENCY_CODES','Code');
+define('TABLE_HEADING_CURRENCY_VALUE','Waarde');
+define('TABLE_HEADING_ACTION','Actie');
+define('TEXT_INFO_EDIT_INTRO','Zorg voor de nodige veranderingen');
+define('TEXT_INFO_CURRENCY_TITLE','Naam:');
+define('TEXT_INFO_CURRENCY_CODE','Code:');
+define('TEXT_INFO_CURRENCY_SYMBOL_LEFT','Het symbool links:');
+define('TEXT_INFO_CURRENCY_SYMBOL_RIGHT','Het teken rechts:');
+define('TEXT_INFO_CURRENCY_DECIMAL_POINT','Decimaal teken:');
+define('TEXT_INFO_CURRENCY_THOUSANDS_POINT','De duizenden-separator:');
+define('TEXT_INFO_CURRENCY_DECIMAL_PLACES','Decimale ordes van grootte:');
+define('TEXT_INFO_CURRENCY_LAST_UPDATED','Laatst aangepast:');
+define('TEXT_INFO_CURRENCY_VALUE','Waarde:');
+define('TEXT_INFO_CURRENCY_EXAMPLE','Voorbeeld:');
+define('TEXT_INFO_INSERT_INTRO','Voer de gegevens voor de nieuwe munt');
+define('TEXT_INFO_DELETE_INTRO','Wilt u de munt?');
+define('TEXT_INFO_HEADING_NEW_CURRENCY','De Nieuwe Munt');
+define('TEXT_INFO_HEADING_EDIT_CURRENCY','Om De Valuta Te Wijzigen');
+define('TEXT_INFO_HEADING_DELETE_CURRENCY','Verwijderen Munt');
+define('TEXT_INFO_SET_AS_DEFAULT','TEXT_SET_DEFAULT (de munt moet handmatig worden gecorrigeerd)');
+define('TEXT_INFO_CURRENCY_UPDATED','Wisselkoers voor %s (%s) met succes is bijgewerkt met de %s.');
+define('ERROR_REMOVE_DEFAULT_CURRENCY','Fout: de Valuta die is ingesteld door de standaard kunnen niet gewist worden. Het definiëren van een andere standaard valuta en probeer het opnieuw.');
+define('ERROR_CURRENCY_INVALID','Fout: de wisselkoers voor %s (%s) niet werd bijgewerkt om het gebruik van %s. U correct geef de munt-code? Voor het bijwerken van de wisselkoers, moet U verbonden zijn met het Internet.');
+define('WARNING_PRIMARY_SERVER_FAILED','Waarschuwing: failed to connect to server (%s) en update de wisselkoers voor %s (%s) - verbinding probeert te maken met een andere server. Voor het bijwerken van de wisselkoers, moet U verbonden zijn met het Internet.');

@@ -1,0 +1,12 @@
+{
+    "NAVBAR_TITLE_1": "Mi cuenta",
+    "NAVBAR_TITLE_2": "Historia",
+    "HEADING_TITLE": "Mi historial de pedidos",
+    "TEXT_ORDER_STATUS": "Estado del pedido",
+    "TEXT_ORDER_DATE": "Fecha de orden",
+    "TEXT_ORDER_SHIPPED_TO": "Enviado a:",
+    "TEXT_ORDER_BILLED_TO": "Facturado a:",
+    "TEXT_ORDER_COST": "Costo de pedido",
+    "TEXT_ORDER_PC": "pc",
+    "TEXT_NO_PURCHASES": "Aun no has hecho ninguna compra."
+}

@@ -1,0 +1,6 @@
+{
+    "MODULE_ORDER_TOTAL_SHIPPING_TITLE": "Gratuita",
+    "MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION": "Il costo di spedizione",
+    "FREE_SHIPPING_TITLE": "Spedizione gratuita con un importo >",
+    "FREE_SHIPPING_DESCRIPTION": "Spedizione gratuita per ordini superiori a %s"
+}

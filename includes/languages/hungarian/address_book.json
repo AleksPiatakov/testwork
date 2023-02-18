@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "Fiókom",
+    "NAVBAR_TITLE_2": "Címlista",
+    "HEADING_TITLE": "Címlistám",
+    "PRIMARY_ADDRESS_TITLE": "Alapértelmezett cím",
+    "PRIMARY_ADDRESS_DESCRIPTION": "A leadott megrendeléseknél ezt a címet használjuk szállítási és számlázási címként.",
+    "ADDRESS_BOOK_TITLE": "Címlista bejegyzések",
+    "PRIMARY_ADDRESS": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": "<span><b>NOTE:<\/b><\/span> A címlistában maximum %s bejegyzés megengedett."
+}

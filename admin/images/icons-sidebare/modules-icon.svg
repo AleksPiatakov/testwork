@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>modules-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Admin---Simplified---Drag`nDrop" transform="translate(-1213.000000, -262.000000)">
+            <g id="Group-5">
+                <g id="Basic-Usage" transform="translate(380.000000, 90.000000)">
+                    <g id="Blocks">
+                        <g id="Items">
+                            <g id="Item" transform="translate(807.000000, 146.000000)">
+                                <g id="image" transform="translate(10.000000, 10.000000)">
+                                    <rect id="Mask" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="96" height="96"></rect>
+                                    <g id="Icon" transform="translate(16.000000, 19.000000)">
+                                        <g id="blue" transform="translate(30.000000, 23.000000)">
+                                            <polygon id="Rectangle" fill="#CDC2FA" points="4 4 24 -2.84106072e-13 34 18 14 24"></polygon>
+                                            <polygon id="Rectangle" fill="#673BE0" points="-1.59161573e-12 16 4 4 14 24 10 36"></polygon>
+                                            <polygon id="Rectangle" fill="#361298" points="10 36 14 24 34 18 30 30"></polygon>
+                                        </g>
+                                        <g id="green" transform="translate(23.000000, 0.000000)">
+                                            <polygon id="Rectangle" fill="#00912E" points="7 -4.32431868e-14 17 10 9 30 -2.16011931e-12 17"></polygon>
+                                            <polygon id="Rectangle" fill="#006013" points="17 10 34 10 26 30 9 30"></polygon>
+                                            <polygon id="Rectangle" fill="#68CA7D" points="7 0 24 0 34 10 17 10"></polygon>
+                                        </g>
+                                        <g id="Red" transform="translate(0.000000, 16.000000)">
+                                            <polygon id="Rectangle" fill="#FF395A" points="11.0097436 0 -9.09494702e-13 13 22.0194872 13 32 -5.41233725e-16"></polygon>
+                                            <polygon id="Rectangle" fill="#D81942" points="1.8189894e-12 13 22 13 30 31 8 31"></polygon>
+                                            <polygon id="Rectangle" fill="#BC0C3A" points="22 12.8946197 31.97168 0 39 17.9121831 30 31"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

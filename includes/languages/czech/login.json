@@ -1,0 +1,17 @@
+{
+    "NAVBAR_TITLE": "Přihlásit se",
+    "HEADING_TITLE": "Vítejte, přihlaste se prosím",
+    "TEXT_NEW_CUSTOMER": "Jsem nový zákazník.",
+    "TEXT_NEW_CUSTOMER_INTRODUCTION": "Vytvořením účtu na %s budete moci nakupovat rychleji, budete mít aktuální informace o stavu objednávek a budete mít přehled o objednávkách, které jste provedli dříve.",
+    "TEXT_RETURNING_CUSTOMER": "Jsem vracející se zákazník.",
+    "TEXT_PASSWORD_FORGOTTEN": "Zapomněli jste heslo? Klikněte sem.",
+    "TEXT_LOGIN_ERROR": "Chyba: Žádná shoda pro e-mailovou adresu a\/nebo heslo.",
+    "NO_CUSTOMER": "V naší databázi žádný takový uživatel není",
+    "NO_PASS": "Špatné heslo",
+    "SOC_VK": "VK",
+    "SOC_SITE": "web",
+    "SOC_ENTER_FROM_OTHER": "Přihlaste se z jiné sociální sítě nebo zadejte své přihlašovací jméno\/heslo.",
+    "SOC_NOW_FROM": "Pokoušíte se přihlásit z",
+    "SOC_NEED_FROM": "Byli jste zaregistrováni prostřednictvím",
+    "SOC_LOGIN_THX": "Byli jste úspěšně přihlášeni"
+}

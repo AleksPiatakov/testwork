@@ -1,0 +1,18 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "Description",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Enable \/ Disable Module",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Default status",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Merchant account",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Merchant secret",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "The sort order",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "Payment State",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "True - enable, False - disable",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "The status that is set to the order when it is created",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Merchant account",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Merchant secret",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "Sorting order of the module in the block with payment modules",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "The status that is set to the order upon successful payment"
+}

@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_LIQPAY_TEXT_TITLE": "LiqPAY",
+    "MODULE_PAYMENT_LIQPAY_TEXT_PUBLIC_TITLE": "Visa\/Mastercard LiqPay",
+    "MODULE_PAYMENT_LIQPAY_TEXT_DESCRIPTION": "Description",
+    "MODULE_PAYMENT_LIQPAY_TEXT_ADMIN_DESCRIPTION": "LiqPAY",
+    "MODULE_PAYMENT_LIQPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

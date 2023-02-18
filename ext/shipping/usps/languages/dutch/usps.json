@@ -1,0 +1,16 @@
+{
+    "MODULE_SHIPPING_USPS_TEXT_TITLE": "United States Postal Service",
+    "MODULE_SHIPPING_USPS_TEXT_DESCRIPTION": "United States Postal Service<br><br>U moet een account geregistreerd met USPS op https:\/\/secure.shippingapis.com\/registration\/ voor het gebruik van deze module<br><br>USPS verwacht u gebruik maken van ponden gewicht maat voor uw producten.",
+    "MODULE_SHIPPING_USPS_TEXT_ERROR": "Er is een fout opgetreden met de USPS verzending berekeningen.<br>Als u wilt gebruiken USPS als uw het verschepen methode, neem dan contact op met de eigenaar van de winkel.",
+    "MODULE_SHIPPING_USPS_TEXT_DAY": "Dag",
+    "MODULE_SHIPPING_USPS_TEXT_DAYS": "Werkdagen",
+    "MODULE_SHIPPING_USPS_TEXT_WEEKS": "Weken",
+    "MODULE_SHIPPING_USPS_TEXT_BUSINESS_DAYS": "Werkdagen",
+    "MODULE_SHIPPING_USPS_TEXT_VARIES": "verschilt per bestemming",
+    "MODULE_SHIPPING_USPS_TEXT_ESTIMATED": "Ca. ",
+    "MODULE_SHIPPING_USPS_TEXT_INSURED": "Verzekerde voor ",
+    "MODULE_SHIPPING_USPS_TEXT_ESTIMATED_FROM_DATE_OF_SHIPMENT": " vanaf de datum van verzending",
+    "MODULE_SHIPPING_USPS_TEXT_WEIGHT_DISPLAY": " (%d pkg, %01.2 f kg totaal)",
+    "MODULE_SHIPPING_USPS_TEXT_CONNECTION_ERROR": "Kan geen verbinding maken met de USPS Web Tools&trade; verzendkosten tarieven server.",
+    "MODULE_SHIPPING_USPS_ERROR_NO_SERVICES": "Niet toegestaan USPS-diensten kunnen worden gebruikt om een schip van dit pakket.<br \/>Als u wilt gebruiken USPS als uw het verschepen methode, neem dan contact op met de eigenaar van de winkel."
+}

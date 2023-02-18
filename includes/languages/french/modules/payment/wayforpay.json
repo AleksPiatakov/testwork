@@ -1,0 +1,19 @@
+{
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_TITLE": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_PUBLIC_TITLE": "Visa \/ Mastercard WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_DESCRIPTION": "La description",
+    "MODULE_PAYMENT_WAYFORPAY_TEXT_ADMIN_DESCRIPTION": "WayForPay",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_TITLE": "Activer \/ désactiver le module",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_TITLE": "Statut par défaut",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_TITLE": "Compte marchand",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_TITLE": "Secret marchand",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_TITLE": "L'ordre de tri",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_TITLE": "État de paiement",
+    "MODULE_PAYMENT_WAYFORPAY_STATUS_DESC": "Vrai - activer, Faux - désactiver",
+    "MODULE_PAYMENT_WAYFORPAY_DEFAULT_ORDER_STATUS_ID_DESC": "Statut défini sur la commande lors de sa création",
+    "MODULE_PAYMENT_WAYFORPAY_MERCHANT_ACCOUNT_DESC": "Compte marchand",
+    "MODULE_PAYMENT_WAYFORPAY_PASSWORD_DESC": "Secret marchand",
+    "MODULE_PAYMENT_WAYFORPAY_SORT_ORDER_DESC": "Ordre de tri du module dans le bloc avec les modules de paiement",
+    "MODULE_PAYMENT_WAYFORPAY_ORDER_STATUS_ID_DESC": "Le statut défini sur la commande lors du paiement réussi",
+    "MODULE_PAYMENT_WAYFORPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

@@ -1,0 +1,37 @@
+<?php 
+define('REPORT_DATE_FORMAT','m. d. Y');
+define('HEADING_TITLE','Statistiche di vendita');
+define('REPORT_TYPE_YEARLY','Annuale');
+define('REPORT_TYPE_MONTHLY','Mensile');
+define('REPORT_TYPE_WEEKLY','Settimanale');
+define('REPORT_TYPE_DAILY','Giornaliero');
+define('REPORT_START_DATE','Data da');
+define('REPORT_END_DATE','al (compreso)');
+define('REPORT_DETAIL','Dettagli');
+define('REPORT_MAX','Mostra di sopra');
+define('REPORT_ALL','Tutti');
+define('REPORT_SORT','Ordinamento');
+define('REPORT_EXP','Esportazione');
+define('REPORT_SEND','Inviare');
+define('EXP_NORMAL','Normale');
+define('EXP_HTML','Solo HTML');
+define('EXP_CSV','CSV');
+define('TABLE_HEADING_DATE','Data');
+define('TABLE_HEADING_ORDERS','Il numero di ordini');
+define('TABLE_HEADING_ITEMS','La quantità di prodotto');
+define('TABLE_HEADING_REVENUE','L\'importo');
+define('TABLE_HEADING_SHIPPING','Spedizione');
+define('DET_HEAD_ONLY','No parti');
+define('DET_DETAIL','Mostra dettagli');
+define('DET_DETAIL_ONLY','Visualizza gli articoli con il prezzo di');
+define('SORT_VAL0','Standard');
+define('SORT_VAL1','Descrizione');
+define('SORT_VAL2','Descrizione discendente');
+define('SORT_VAL3','La quantità di prodotto');
+define('SORT_VAL4','La quantità del prodotto in ordine decrescente');
+define('SORT_VAL5','L\'importo');
+define('SORT_VAL6','L\'importo decrescente');
+define('REPORT_STATUS_FILTER','Gli stati di ordine');
+define('SR_SEPARATOR1',';');
+define('SR_SEPARATOR2',';');
+define('SR_NEWLINE','\\');

@@ -1,0 +1,25 @@
+<?php
+define('YML_IMPORT_UPLOAD_IMAGES', 'Importare immagini?');
+define('YML_IMPORT_TRUNCATE_TABLE', 'Cancella il database corrente di prodotti/categorie/produttori/attributi');
+define('YML_IMPORT_UPLOAD_FILE', 'Seleziona file .xml');
+define('YML_IMPORT_UPLOAD_BUTTON', 'Carica');
+define('YML_IMPORT_MAIN_CATEGORY', 'Importa in categoria:');
+define('YML_IMPORT_VENDOR_TEMPLATE', 'Importa modello');
+define('YML_IMPORT_REPLACE_TEXT', 'Riscrivi i campi per i prodotti esistenti:');
+define('YML_IMPORT_REPLACE_NAME', 'Nome e Descrizione');
+define('YML_IMPORT_REPLACE_DESCRIPTION', 'Descrizione');
+define('YML_IMPORT_REPLACE_PRICE', 'Prezzo');
+define('YML_IMPORT_REPLACE_QUANTITY', 'Quantità');
+define('YML_IMPORT_REPLACE_IMAGE', 'Immagini');
+define('YML_IMPORT_UPLOAD_PRESETS', 'Preimpostazioni');
+define('YML_IMPORT_UPLOAD_TEMPLATE', 'Modello');
+define('YML_IMPORT_UPLOAD_LINK', 'Collega');
+define('YML_IMPORT_UPLOAD_BUTTON_LINK', 'Carica link');
+define('YML_IMPORT_UPLOAD_UPLOADED', 'Carica');
+define('YML_IMPORT_MISSING_OFFERS', 'Prodotti non presenti nel file:');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_NOTHING', 'Miss');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_TURN_OFF', 'Disabilita');
+define('YML_IMPORT_MISSING_OFFERS_TEXT_DELETE', 'Elimina');
+define('YML_IMPORT_MARKUP', 'Marcatura:');
+define('YML_IMPORT_LANGUAGE', 'Lingua:');
+define('YML_IMPORT_NUMBER', 'numero');

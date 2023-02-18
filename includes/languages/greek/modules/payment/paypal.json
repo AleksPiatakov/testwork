@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_PAYPAL_TEXT_TITLE": "PayPal",
+    "MODULE_PAYMENT_PAYPAL_TEXT_PUBLIC_TITLE": "PayPal",
+    "MODULE_PAYMENT_PAYPAL_TEXT_DESCRIPTION": "Περιγραφή",
+    "MODULE_PAYMENT_PAYPAL_TEXT_ADMIN_DESCRIPTION": "PayPal",
+    "MODULE_PAYMENT_PAYPAL_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/paypal.png\"></span>"
+}

@@ -1,0 +1,13 @@
+{
+    "HEADING_TITLE": "КОНТАКТЫ",
+    "HEADING_SUBTITLE": "Свяжитесь с нами сейчас и наши специалисты ответят нам в ближайшее время!",
+    "NAVBAR_TITLE": "Написать",
+    "TEXT_SUCCESS": "Ваше сообщение успешно отправлено!",
+    "EMAIL_SUBJECT": "Сообщение от %s",
+    "ENTRY_NAME": "Ваше имя:",
+    "ENTRY_EMAIL": "E-Mail адрес:",
+    "ENTRY_PHONE": "Ваш телефон:",
+    "ENTRY_ENQUIRY": "Сообщение:",
+    "SEND_TO_TEXT": "Письмо в:",
+    "POP_CONTACT_US": "Оставьте заявку, и мы Вам перезвоним"
+}

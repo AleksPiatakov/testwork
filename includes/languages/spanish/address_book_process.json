@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "Mi cuenta",
+    "NAVBAR_TITLE_2": "Directorio",
+    "NAVBAR_TITLE_ADD_ENTRY": "Nueva entrada",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "Actualizar entrada",
+    "NAVBAR_TITLE_DELETE_ENTRY": "Eliminar la entrada",
+    "HEADING_TITLE_ADD_ENTRY": "Nueva entrada de la libreta de direcciones",
+    "HEADING_TITLE_MODIFY_ENTRY": "Actualizar entrada de la libreta de direcciones",
+    "HEADING_TITLE_DELETE_ENTRY": "Eliminar entrada de la libreta de direcciones",
+    "DELETE_ADDRESS_TITLE": "Eliminar direccion",
+    "DELETE_ADDRESS_DESCRIPTION": "?Esta seguro de que desea eliminar la direccion seleccionada de su libreta de direcciones?",
+    "NEW_ADDRESS_TITLE": "Nueva entrada de la libreta de direcciones",
+    "SELECTED_ADDRESS": "Direccion seleccionada",
+    "SET_AS_PRIMARY": "Establecer como direccion principal.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "La direccion seleccionada se ha eliminado correctamente de su libreta de direcciones.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "Su libreta de direcciones se ha actualizado correctamente.",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "No se puede eliminar la direccion principal. Establezca otra direccion como direccion principal y vuelva a intentarlo.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "La entrada de la libreta de direcciones no existe.",
+    "ERROR_ADDRESS_BOOK_FULL": "Su libreta de direcciones esta llena. Elimine una direccion innecesaria para guardar una nueva."
+}

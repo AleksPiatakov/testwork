@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Περιεχόμενο καλαθιού",
+    "HEADING_TITLE": "Καλάθι αγορών",
+    "TABLE_HEADING_REMOVE": "Αφαίρεση",
+    "TABLE_HEADING_REMOVE_FROM": "από το καλάθι",
+    "TABLE_HEADING_QUANTITY": "Ποσότητα.",
+    "TABLE_HEADING_IMAGE": "Εικόνα",
+    "TABLE_HEADING_NAME": "Ονομα",
+    "TABLE_HEADING_PRICE": "Τιμή",
+    "TABLE_HEADING_MODEL": "Μοντέλο",
+    "TABLE_HEADING_PRODUCTS": "Προϊόντα",
+    "TABLE_HEADING_TOTAL": "Σύνολο",
+    "TABLE_HEADING_PRICE_TOTAL": "Σύνολο",
+    "TEXT_CART_EMPTY": "Το καλάθι αγορών σας είναι άδειο!",
+    "SUB_TITLE_COUPON": "Κουπόνι",
+    "SUB_TITLE_COUPON_SUBMIT": "υποβολή",
+    "SUB_TITLE_COUPON_VALID": "Το κουπόνι σας είναι έγκυρο. Έλεγχος έκπτωσης:",
+    "SUB_TITLE_COUPON_INVALID": "Το κουπόνι σας δεν είναι έγκυρο.",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Προϊόντα που σημειώνονται με %s Δεν υπάρχουν στην επιθυμητή ποσότητα στο απόθεμά μας.<br>Αλλάξτε την ποσότητα των προϊόντων που σημειώνονται με (%s), Ευχαριστούμε πολύ",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Προϊόντα που σημειώνονται με %s Δεν υπάρχουν στην επιθυμητή ποσότητα στο απόθεμά μας.<br>Μπορείτε να τα αγοράσετε ούτως ή άλλως και να ελέγξετε την ποσότητα που έχουμε στο απόθεμα για άμεση παράδοση στη διαδικασία πληρωμής."
+}

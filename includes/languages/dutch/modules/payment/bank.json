@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Bankoverschrijving",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Onze Bank gegevens:<br><br>Naam van de Bank: &nbsp;&nbsp;&nbsp;%s<br>account: &nbsp;&nbsp;&nbsp;%s<br>BIC: &nbsp;&nbsp;&nbsp;%s<br>Cor.account: &nbsp;&nbsp;&nbsp;%s<br>was: &nbsp;&nbsp;&nbsp;%s<br>Ontvanger: &nbsp;&nbsp;&nbsp;%s<br>verzending: &nbsp;&nbsp;&nbsp;%s<br>betaling: &nbsp;&nbsp;&nbsp;%s<br><br>Na de bestelling neem dan contact met ons op via e-mail %s het feit van de betaling. Uw bestelling zal worden verzonden direct na bevestiging van de betaling.<br><br><a href=kvitan.php target=_blank><b><span>Ontvangst<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Onze bankgegevens:Bank naam: %s Account: %s BIC: %s Cor.by: %s INN: %s Ontvanger: %s TRANSMISSIE: %s Doel van betaling: %s Na betaling per se ons informeren door een e-mail %s over de betaling. Uw bestelling zal worden verzonden direct na bevestiging van de betaling.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

@@ -1,0 +1,14 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Coupon",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Certificaten\/Coupons",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Coupon",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Ongeldige coupon code",
+    "ERROR_RESTRICTION_COUPON": "De coupon is ongeldig voor deze producten",
+    "ERROR_MINIMUM_CART_AMOUNT": "Minimum winkelwagenbedrag voor deze coupon is: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "De gespecificeerde coupon is nog steeds ongeldig",
+    "ERROR_INVALID_FINISDATE_COUPON": "Deze coupon is verlopen",
+    "ERROR_INVALID_USES_COUPON": "De coupon werd al gebruikt ",
+    "TIMES": " tijd.",
+    "ERROR_INVALID_USES_USER_COUPON": "U gebruikt de coupon zo vaak als mogelijk.",
+    "TEXT_ENTER_COUPON_CODE": "Uw code:&nbsp;&nbsp;"
+}

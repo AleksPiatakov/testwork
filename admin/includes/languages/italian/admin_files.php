@@ -1,0 +1,28 @@
+<?php 
+define('HEADING_TITLE','Menu Amministrative Box');
+define('TABLE_HEADING_ACTION','L\'azione');
+define('TABLE_HEADING_BOXES','Box');
+define('TABLE_HEADING_FILENAME','L\'elenco dei file');
+define('TABLE_HEADING_GROUPS','Gruppo');
+define('TABLE_HEADING_STATUS','Lo stato');
+define('TEXT_COUNT_BOXES','Box: ');
+define('TEXT_COUNT_FILES','File: ');
+define('TEXT_INFO_HEADING_DEFAULT_BOXES','Nome del file: ');
+define('TEXT_INFO_DEFAULT_BOXES_INTRO','Per la boxe è stato attivato, fare clic sul pulsante verde per fare boxe inattivo(invisibile), fare clic sul pulsante rosso.<br><br><b>ATTENZIONE:</b> Se Si disattiva la boxe, tutti i file presenti in questo box sarà anche non visibili!');
+define('TEXT_INFO_DEFAULT_BOXES_INSTALLED',' Attivo');
+define('TEXT_INFO_DEFAULT_BOXES_NOT_INSTALLED',' È inattivo');
+define('STATUS_BOX_INSTALLED','Attivo');
+define('STATUS_BOX_NOT_INSTALLED','È inattivo');
+define('STATUS_BOX_REMOVE','Spegnere');
+define('STATUS_BOX_INSTALL','Attivare');
+define('TEXT_INFO_HEADING_DEFAULT_FILE','File: ');
+define('TEXT_INFO_HEADING_DELETE_FILE','La conferma della rimozione:');
+define('TEXT_INFO_HEADING_NEW_FILE','Aggiungere il file nella boxe');
+define('TEXT_INFO_DEFAULT_FILE_INTRO','Fare clic sul pulsante <b>aggiungi</b> e i file selezionati verranno aggiunti nella boxe: ');
+define('TEXT_INFO_DELETE_FILE_INTRO','Vuoi davvero cancellare il file <span><b>%s</b></span> da boxe <b>%s</b>? ');
+define('TEXT_INFO_NEW_FILE_INTRO','Assicurarsi che il file che Si desidera aggiungere manca in <span><b>elenco dei file</b></span> a sinistra. Forse il file che Si desidera aggiungere, ci sono già in lista.');
+define('TEXT_INFO_NEW_FILE_BOX','Risultati boxe: ');
+define('BUTTON_CANCEL_NEW','politica');
+define('BUTTON_BACK_NEW','fa');
+define('BUTTON_ADMIN_FILES_NEW','aggiungere i file');
+define('BUTTON_ADMIN_REMOVE_NEW','rimuovere');

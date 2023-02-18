@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>products-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Admin---Simplified---Drag`nDrop" transform="translate(-406.000000, -116.000000)">
+            <g id="Group-5">
+                <g id="Basic-Usage" transform="translate(380.000000, 90.000000)">
+                    <g id="Blocks">
+                        <g id="Items">
+                            <g id="Item" transform="translate(10.000000, 0.000000)">
+                                <g id="image" transform="translate(0.000000, 10.000000)">
+                                    <rect id="Mask" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="96" height="96"></rect>
+                                    <g id="box-(1)" transform="translate(16.000000, 20.000000)" fill-rule="nonzero">
+                                        <polygon id="Path" fill="#6087AF" points="32 55 53 42.972028 53 32 32 31"></polygon>
+                                        <polygon id="Path" fill="#8BB8DE" points="43 38 32 31 53 19 64 25.3525836"></polygon>
+                                        <polygon id="Path" fill="#0A4360" points="32 6 53 19 32 31 11 19"></polygon>
+                                        <g id="Group" fill="#8BB8DE">
+                                            <polygon id="Path" points="21.3333333 -4.50715854e-14 32 6 11 19 0 12.6474164 10.6666667 6.29483283"></polygon>
+                                            <polygon id="Path" points="42.6666667 -4.50715854e-14 32 6 53 19 64 12.6474164 53.3333333 6.29483283"></polygon>
+                                        </g>
+                                        <polygon id="Path" fill="#52769B" points="32 31 32 55 11 42.9439252 11 31"></polygon>
+                                        <polygon id="Path" fill="#1E638A" points="11 19 25 27 32 22.7424658 32 6"></polygon>
+                                        <polygon id="Path" fill="#115272" points="32 6 32 22.7424658 39 27 53 19"></polygon>
+                                        <polygon id="Path" fill="#8BB8DE" points="22 38 32 31 11 19 0 25.3525836"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

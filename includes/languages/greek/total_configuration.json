@@ -1,0 +1,12 @@
+{
+    "HEADING_TITLE": "Όλες οι ρυθμίσεις",
+    "TABLE_HEADING_TITLE": "Ονομα",
+    "TABLE_HEADING_KEY": "Κλειδί",
+    "TABLE_HEADING_VALUE": "Αξία",
+    "TABLE_HEADING_DESCRIPTION": "Περιγραφή",
+    "TABLE_HEADING_GROUP_ID": "ID Αναγνωριστικό ομάδας",
+    "TABLE_HEADING_LAST_MODIFY": "Τελευταία τροποποίηση",
+    "TABLE_HEADING_DATE_ADDED": "Ημερομηνία προστέθηκε",
+    "TABLE_HEADING_USE_FUNC": "Χρησιμοποιήστε τη λειτουργία",
+    "TABLE_HEADING_SET_FUNC": "Ρυθμίστε τη λειτουργία_func"
+}

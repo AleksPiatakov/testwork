@@ -1,0 +1,9 @@
+{
+    "MODULE_PAYMENT_WEBMONEY_TEXT_TITLE": "WebMoney",
+    "MODULE_PAYMENT_WEBMONEY_1": "---",
+    "MODULE_PAYMENT_WEBMONEY_2": "---",
+    "MODULE_PAYMENT_WEBMONEY_3": "---",
+    "MODULE_PAYMENT_WEBMONEY_TEXT_DESCRIPTION": "Our data in WebMoney system:<br><br>Our WM ID: &nbsp;&nbsp;&nbsp;<b>%s<\/b><br>Our R purse number: &nbsp;&nbsp;&nbsp;<b>%s<\/b><br>Our Z purse number: &nbsp;&nbsp;&nbsp;<b>%s<\/b><br><br>To pay for the order you need to transfer money to our R or Z purse in WebMoney system, and in the note indicate <b> the number of your order<\/b><br><br><span>Your order number will be sent to your Email address<\/span><br><br><span>The transfer must be WITHOUT protection of the transaction<\/span><br><br>How to make a transfer: <br> To make a transfer, open WM Keeper and right click on the purse from which you want to transfer, and then select from the Transfer Money - To WebMoney wallet menu. In the dialog that appears, enter the transfer amount and the number of our purse, and in the note specify <b> your order number <\/b>",
+    "MODULE_PAYMENT_WEBMONEY_TEXT_EMAIL_FOOTER": "Our data in WebMoney system:\n\nOur WM ID: %s\nOur R purse number: %s\nOur Z purse number: %s\n\nTo pay for the order you need to transfer money to our R or Z purse in WebMoney system, and in the note indicate <b> the number of your order\n\nYour order number will be sent to your Email address\n\nThe transfer must be WITHOUT protection of the transaction\n\nHow to make a transfer:\nTo make a transfer, open WM Keeper and right click on the purse from which you want to transfer, and then select from the Transfer Money - To WebMoney wallet menu. In the dialog that appears, enter the transfer amount and the number of our purse, and in the note specify  your order number",
+    "MODULE_PAYMENT_WEBMONEY_IMAGES": "<span><img src=\"images/payment_method/wm-method.png\"></span>"
+}

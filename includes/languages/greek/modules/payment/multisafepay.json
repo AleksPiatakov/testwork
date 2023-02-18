@@ -1,0 +1,17 @@
+{
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_TITLE": "MultiSafepay Connect",
+    "MODULE_PAYMENT_MULTISAFEPAY_EMAIL_TEXT_ORDER_STATUS": "Κατάσταση παραγγελίας:",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_RETURN_TO_SHOP": "Επιστροφή στο% s",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR": "Παρουσιάστηκε σφάλμα",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REDIRECT": "Δεν είναι δυνατή η εκτέλεση ανακατεύθυνσης",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_STATUS": "Δεν είναι δυνατή η ανάκτηση της κατάστασης παραγγελίας",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNKNOWN": "Δεν υπάρχουν διαθέσιμες λεπτομέρειες",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_UNCLEARED": "Η συναλλαγή δεν εκκαθαρίζεται",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_RESERVED": "Η συναλλαγή είναι δεσμευμένη",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_VOID": "Η συναλλαγή ακυρώνεται",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_DECLINED": "Η συναλλαγή απορρίπτεται",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REVERSED": "Η συναλλαγή αντιστρέφεται",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_REFUNDED": "Η συναλλαγή επιστρέφεται",
+    "MODULE_PAYMENT_MULTISAFEPAY_TEXT_ERROR_EXPIRED": "Η συναλλαγή έχει λήξει",
+    "MODULE_PAYMENT_MULTISAFEPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/maestro.png\"><img src=\"images/payment_method/paypal.png\"><img src=\"images/payment_method/ae.png\"></span>"
+}

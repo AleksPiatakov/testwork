@@ -1,0 +1,14 @@
+{
+    "MODULE_ORDER_TOTAL_COUPON_TITLE": "Coupon",
+    "MODULE_ORDER_TOTAL_COUPON_HEADER": "Zertifikate \/ Coupons",
+    "MODULE_ORDER_TOTAL_COUPON_DESCRIPTION": "Coupon",
+    "ERROR_NO_INVALID_REDEEM_COUPON": "Ungültiger Gutscheincode",
+    "ERROR_RESTRICTION_COUPON": "Für diese Produkte ist der Gutschein ungültig",
+    "ERROR_MINIMUM_CART_AMOUNT": "Der Mindestbestellwert für diesen Gutschein beträgt: %s",
+    "ERROR_INVALID_STARTDATE_COUPON": "Der angegebene Coupon existiert nicht",
+    "ERROR_INVALID_FINISDATE_COUPON": "Dieser Coupon ist abgelaufen",
+    "ERROR_INVALID_USES_COUPON": "Coupon wurde bereits verwendet",
+    "ZEITEN": "Zeiten.",
+    "ERROR_INVALID_USES_USER_COUPON": "Du hast den Gutschein so oft wie möglich benutzt.",
+    "TEXT_ENTER_COUPON_CODE": "Dein Code:&nbsp;&nbsp;"
+}

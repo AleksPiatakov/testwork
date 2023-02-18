@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE_1": "Můj účet",
+    "NAVBAR_TITLE_2": "Adresář",
+    "NAVBAR_TITLE_ADD_ENTRY": "Nový záznam",
+    "NAVBAR_TITLE_MODIFY_ENTRY": "Aktualizovat záznam",
+    "NAVBAR_TITLE_DELETE_ENTRY": "Smazat záznam",
+    "HEADING_TITLE_ADD_ENTRY": "Nová položka adresáře",
+    "HEADING_TITLE_MODIFY_ENTRY": "Aktualizovat položku adresáře",
+    "HEADING_TITLE_DELETE_ENTRY": "Smazat položku adresáře",
+    "DELETE_ADDRESS_TITLE": "Smazat adresu",
+    "DELETE_ADDRESS_DESCRIPTION": "Opravdu chcete smazat vybranou adresu ze svého adresáře?",
+    "NEW_ADDRESS_TITLE": "Nová položka adresáře",
+    "SELECTED_ADDRESS": "Vybraná adresa",
+    "SET_AS_PRIMARY": "Nastavit jako primární adresu.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_DELETED": "Vybraná adresa byla úspěšně odstraněna z vašeho adresáře.",
+    "SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED": "Váš adresář byl úspěšně aktualizován.",
+    "WARNING_PRIMARY_ADDRESS_DELETION": "Primární adresu nelze smazat. Nastavte prosím jako primární adresu jinou adresu a zkuste to znovu.",
+    "ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY": "Položka adresáře neexistuje.",
+    "ERROR_ADDRESS_BOOK_FULL": "Váš adresář je plný. Smažte prosím nepotřebnou adresu a uložte novou."
+}

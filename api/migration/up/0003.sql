@@ -1,0 +1,1 @@
+UPDATE `configuration` SET `configuration_value` = 'true', `set_function` = 'tep_cfg_select_option(array("true", "false"), ' WHERE `configuration`.`configuration_key` = 'MODULE_ORDER_TOTAL_COUPON_CALC_TAX'

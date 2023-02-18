@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Wishlist prodotti",
+    "BOX_TEXT_PRICE": "Il costo",
+    "BOX_TEXT_PRODUCT": "Il nome",
+    "BOX_TEXT_IMAGE": "Immagine",
+    "BOX_TEXT_NO_ITEMS": "No wishlist.",
+    "TEXT_EMAIL": "Email: ",
+    "TEXT_MESSAGE": "Messaggio: ",
+    "TEXT_ITEM_IN_CART": "La merce nel carrello",
+    "TEXT_ITEM_NOT_AVAILABLE": "La merce non è più disponibile",
+    "WISHLIST_EMAIL_SUBJECT": "ha inviato il messaggio",
+    "WISHLIST_SENT": "In sospeso le merci vengono caricate correttamente.",
+    "WISHLIST_EMAIL_LINK": "Elenco di prodotti del visitatore $from_name: $link Grazie, %s",
+    "WISHLIST_EMAIL_GUEST": "Grazie, %s",
+    "ERROR_YOUR_NAME": "Specificare il Vostro nome.",
+    "ERROR_YOUR_EMAIL": "Inserisci il Tuo indirizzo email.",
+    "ERROR_VALID_EMAIL": "Specificare fedeli indirizzo email.",
+    "ERROR_ONE_EMAIL": "Devi almeno specificare un nome e un indirizzo email.",
+    "ERROR_ENTER_EMAIL": "Specificare un indirizzo email.",
+    "ERROR_ENTER_NAME": "Specificare i nomi dei destinatari.",
+    "ERROR_MESSAGE": "Aggiungi un messaggio."
+}

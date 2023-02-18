@@ -1,0 +1,16 @@
+{
+    "TEXT_PRODUCT_NOT_FOUND": "Produkt nicht gefunden!",
+    "TEXT_DATE_ADDED": "Das Produkt wurde zu unserem Verzeichnis hinzugefügt %s",
+    "TEXT_DATE_AVAILABLE": "<span>Artikel ist im Lager %s<\/span>",
+    "PRODUCT_ADDED_TO_WISHLIST": "Artikel erfolgreich verzögert!",
+    "TEXT_COLOR": "Farbe",
+    "TEXT_SHARE": "Teilen mit Freunden",
+    "TEXT_REVIEWSES": "Bewertungen",
+    "TEXT_REVIEWSES2": "Reviews",
+    "TEXT_DESCRIPTION": "Beschreibung",
+    "TEXT_DOWNLOADS": "Dateien",
+    "TEXT_ATTRIBS": "Eigenschaften",
+    "TEXT_PAYM_SHIP": "Zahlung und Lieferung",
+    "SHORT_DESCRIPTION": "Kurzbeschreibung",
+    "HOME_TEXT_PAYM_SHIP": "Garantie"
+}

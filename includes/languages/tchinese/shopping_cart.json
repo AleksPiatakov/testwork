@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "購物車內容",
+    "HEADING_TITLE": "購物車",
+    "TABLE_HEADING_REMOVE": "移除",
+    "TABLE_HEADING_REMOVE_FROM": "from cart",
+    "TABLE_HEADING_QUANTITY": "數量",
+    "TABLE_HEADING_IMAGE": "圖片",
+    "TABLE_HEADING_NAME": "名稱",
+    "TABLE_HEADING_PRICE": "價格",
+    "TABLE_HEADING_PRICE_TOTAL": "價格",
+    "TABLE_HEADING_MODEL": "Model",
+    "TABLE_HEADING_PRODUCTS": "Product(s)",
+    "TABLE_HEADING_TOTAL": "總計",
+    "TEXT_CART_EMPTY": "您的購物車沒有任何產品",
+    "SUB_TITLE_COUPON": "請輸入e-Coupon優惠券代碼",
+    "SUB_TITLE_COUPON_SUBMIT": "確認抵用",
+    "SUB_TITLE_COUPON_VALID": "Your coupon is valid. Check discount:",
+    "SUB_TITLE_COUPON_INVALID": "Your coupon is invalid.",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Products marked with %s dont exist in desired quantity in our stock.<br>Please alter the quantity of products marked with (%s), Thank you",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Products marked with %s dont exist in desired quantity in our stock.<br>You can buy them anyway and check the quantity we have in stock for immediate deliver in the checkout process."
+}

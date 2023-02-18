@@ -1,0 +1,9 @@
+{
+    "MODULE_PAYMENT_WEBMONEY_TEXT_TITLE": "WebMoney",
+    "MODULE_PAYMENT_WEBMONEY_1": "---",
+    "MODULE_PAYMENT_WEBMONEY_2": "---",
+    "MODULE_PAYMENT_WEBMONEY_3": "---",
+    "MODULE_PAYMENT_WEBMONEY_TEXT_DESCRIPTION": "Adataink a WebMoney rendszerben:<br><br>WM-azonosítónk: &nbsp;&nbsp;&nbsp;<b>%s<\\/b><br>R pénztárcánk száma: &nbsp;&nbsp;&nbsp;<b>%s<\\/b><br>Z pénztárcánk száma: &nbsp;&nbsp;&nbsp;<b>%s<\\/b><br><br>A megrendelés kifizetéséhez pénzt kell átutalnia az R vagy a Z pénztárcára. A megjegyzésben adja meg <b> a megrendelés számát<\\/b><br><br><span>A megrendelés számát elküldjük az Ön e-mail címére<\\/span><br><br><span>Az átutalást a tranzakció védelme NÉLKÜL kell végrehajtani<\\/span><br><br>Átutalás: <br>Átutaláshoz nyissa meg a WM Keepert, kattintson jobb gombbal a saját pénztárcára, ahonnan át akarja utalni, majd válassza a Pénzátutalás menüpontot a WebMoney pénztárca menüből. A megjelenő párbeszédpanelen írja be az átutalás összegét és a pénztárcánk számát, és a megjegyzésben adja meg <b> megrendelésének számát<\/b>",
+    "MODULE_PAYMENT_WEBMONEY_TEXT_EMAIL_FOOTER": "Adataink a WebMoney rendszerben:\\n\\nWM-azonosítónk: %s\\nR pénztárcánk száma: %s\\nZ pénztárcánk száma: %s\\n\\nA megrendelés kifizetéséhez pénzt kell átutalnia az R vagy a Z pénztárcára. A megjegyzésben adja meg <b> a megrendelés számát\\n\\nA megrendelés számát elküldjük az Ön e-mail címére\\n\\nAz átutalást a tranzakció védelme NÉLKÜL kell végrehajtani\\n\\nÁtutalás:\\nÁtutaláshoz nyissa meg a WM Keepert, kattintson jobb gombbal a saját pénztárcára, ahonnan át akarja utalni, majd válassza a Pénzátutalás menüpontot a WebMoney pénztárca menüből. A megjelenő párbeszédpanelen írja be az átutalás összegét és a pénztárcánk számát, és a megjegyzésben adja meg <b> megrendelésének számát<\/b>",
+    "MODULE_PAYMENT_WEBMONEY_IMAGES": "<span><img src=\"images/payment_method/wm-method.png\"></span>"
+}

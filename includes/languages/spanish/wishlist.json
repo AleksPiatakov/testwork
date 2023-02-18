@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Mi lista de deseos contiene:",
+    "BOX_TEXT_PRICE": "Precio",
+    "BOX_TEXT_PRODUCT": "Nombre del producto",
+    "BOX_TEXT_IMAGE": "Imagen",
+    "BOX_TEXT_NO_ITEMS": "No hay productos en su lista de deseos. <br><br>",
+    "TEXT_EMAIL": "Email: ",
+    "TEXT_MESSAGE": "Mensaje: ",
+    "TEXT_ITEM_IN_CART": "Articulo en el carrito",
+    "TEXT_ITEM_NOT_AVAILABLE": "El articulo ya no esta disponible",
+    "WISHLIST_EMAIL_SUBJECT": "Te ha enviado su lista de deseos de %s",
+    "WISHLIST_SENT": "Se ha enviado su lista de deseos.",
+    "WISHLIST_EMAIL_LINK": "\r\n\r\n$from_name's public wishlist is located here:\r\n$link\r\n\r\nThank you,\r\n%s",
+    "WISHLIST_EMAIL_GUEST": "Thank you,\r\nv",
+    "ERROR_YOUR_NAME": "Por favor, escriba su nombre..",
+    "ERROR_YOUR_EMAIL": "Por favor introduzca su correo electronico.",
+    "ERROR_VALID_EMAIL": "Por favor, introduce una direccion de correo electronico valida.",
+    "ERROR_ONE_EMAIL": "Debe incluir al menos un nombre y un correo electronico.",
+    "ERROR_ENTER_EMAIL": "Por favor introduzca una direccion de correo electronico.",
+    "ERROR_ENTER_NAME": "Introduzca el nombre de los destinatarios de correo electronico.",
+    "ERROR_MESSAGE": "Por favor incluya un breve mensaje."
+}

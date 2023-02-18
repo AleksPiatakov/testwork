@@ -1,0 +1,14 @@
+{
+    "MODULE_PAYMENT_CC_TEXT_TITLE": "Credit Card",
+    "MODULE_PAYMENT_CC_TEXT_DESCRIPTION": "Credit Card Test Info:<br><br>CC#: 4111111111111111<br>Expiry: Any",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_OWNER": "Credit Card Owner:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_NUMBER": "Card number",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES": "Credit Card Expiry Date:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM": "Expires (month)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY": "Expires (year)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_CVC": "CVC code",
+    "MODULE_PAYMENT_CC_TEXT_ERROR": "Credit Card Error!",
+    "MODULE_PAYMENT_CC_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Bonifico bancario",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Le nostre coordinate bancarie:<br><br>Nome della banca: &nbsp;&nbsp;&nbsp;%s<br>Conto bancario: &nbsp;&nbsp;&nbsp;%s<br>MFI: &nbsp;&nbsp;&nbsp;%s<br>Casella \/ fattura: &nbsp;&nbsp;&nbsp;%s<br>INN: &nbsp;&nbsp;&nbsp;%s<br>Destinatario: &nbsp;&nbsp;&nbsp;%s<br>Trasmissione: &nbsp;&nbsp;&nbsp;%s<br>Scopo del pagamento: &nbsp;&nbsp;&nbsp;%s<br><br>Dopo aver pagato l'ordine, informaci via e-mail %s<\/a> sul fatto del pagamento. Il tuo ordine verrà inviato immediatamente dopo la conferma del pagamento.<br><br><a href=kvitan.php target=_blank><b><span>Ricevuta per pagamento<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Le nostre coordinate bancarie:\n\nNome della banca: %s<br>Conto bancario: %s<br>MFI: %s<br>Casella \/ fattura: %s<br>INN: %s<br>Destinatario: %s\nTrasmissione: %s\nScopo del pagamento: %s\n\nDopo aver pagato l'ordine, informaci via e-mail %s sul fatto del pagamento. Il tuo ordine verrà inviato immediatamente dopo la conferma del pagamento.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

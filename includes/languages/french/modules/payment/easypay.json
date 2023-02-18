@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_EASYPAY_TEXT_TITLE": "Inpulse",
+    "MODULE_PAYMENT_EASYPAY_TEXT_PUBLIC_TITLE": "Inpulse",
+    "MODULE_PAYMENT_EASYPAY_TEXT_DESCRIPTION": "Description",
+    "MODULE_PAYMENT_EASYPAY_TEXT_ADMIN_DESCRIPTION": "Inpulse",
+    "MODULE_PAYMENT_EASYPAY_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

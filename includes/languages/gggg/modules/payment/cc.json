@@ -1,0 +1,14 @@
+{
+    "MODULE_PAYMENT_CC_TEXT_TITLE": "Кредитная карточка",
+    "MODULE_PAYMENT_CC_TEXT_DESCRIPTION": "Информация о кредитной карточке для теста:<br><br>Номер карточки: 4111111111111111<br>Действительна до: Любая дата",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_OWNER": "Владелец кредитной карточки:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_NUMBER": "Номер карты",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES": "Действительна до:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM": "Истекает (месяц)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "мм",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY": "Истекает (год)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "гг",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_CVC": "CVC код",
+    "MODULE_PAYMENT_CC_TEXT_ERROR": "Данные введены неправильно!",
+    "MODULE_PAYMENT_CC_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

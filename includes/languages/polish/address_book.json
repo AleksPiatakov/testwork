@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "Moje adresy",
+    "NAVBAR_TITLE_2": "Książka adresowa",
+    "HEADING_TITLE": "Moja książka adresowa",
+    "PRIMARY_ADDRESS_TITLE": "Twój adres",
+    "PRIMARY_ADDRESS_DESCRIPTION": "Ten adres jest ustawiony jako domyślny. On będzie używany przy dokonywaniu zakupów i wszelkich innych czynnościach w naszym sklepie.",
+    "ADDRESS_BOOK_TITLE": "Pozycje książki adresowej",
+    "PRIMARY_ADDRESS": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": "<b>UWAGA:<\/b> Maksymalny rozmiar książki adresowej - <b>%s<\/b> pozycji"
+}

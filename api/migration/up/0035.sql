@@ -1,0 +1,2 @@
+INSERT INTO `configuration` (`configuration_title`, `configuration_key`, `configuration_value`, `configuration_description`, `configuration_group_id`, `sort_order`, `last_modified`, `date_added`, `use_function`, `set_function`, `depends_on`, `configuration_subgroup_id`, `callback_func`)
+VALUES ('Разрешить покупать при 0 в атрибутах товара', 'STOCK_ALLOW_CHECKOUT_WITH_ATTR_COUNT_0', 'true', 'Разрешить покупать при количестве 0 в атрибутах товара', '9', '5', NULL, now(), NULL, 'tep_cfg_select_option(array("true", "false"),', '', '0', '');

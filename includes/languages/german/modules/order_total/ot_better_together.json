@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Companion Discount",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Companion Discount",
+    "TWOFER_PROMO_STRING": "Kaufe dieses Produkt und erhalte ein weiteres gratis!",
+    "TWOFER_QUALIFY_STRING": "Du kannst ein weiteres %s kostenlos bekommen",
+    "OFF_STRING_PCT": "- %s",
+    "OFF_STRING_CURR": "- %s",
+    "SECOND": "second",
+    "FREE_STRING": "kostenlos",
+    "REV_GET_ANY": "Kaufe ein Produkt von",
+    "REV_GET_THIS": "Buy",
+    "REV_GET_DISC": ", hole dieses Produkt",
+    "FREE": "for free",
+    "GET_YOUR_PROD": "get",
+    "GET_YOUR_CAT": "Wähle deine Auswahl",
+    "BETTER_TOGETHER_DISCOUNT": "-%s pro kit",
+    "BETTER_TOGETHER_SAVING": "speichern ",
+    "BETTER_TOGETHER_SUBMIT": "Kaufen Sie ein Set"
+}

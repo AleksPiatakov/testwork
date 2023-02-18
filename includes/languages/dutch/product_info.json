@@ -1,0 +1,16 @@
+{
+    "TEXT_PRODUCT_NOT_FOUND": "Product niet gevonden!",
+    "TEXT_DATE_ADDED": "Dit product is toegevoegd aan onze catalogus op %s",
+    "TEXT_DATE_AVAILABLE": "<span>Goederen beschikbaar zal zijn %s<\/span>",
+    "PRODUCT_ADDED_TO_WISHLIST": "Product is uitgesteld!",
+    "TEXT_COLOR": "Kleur",
+    "TEXT_SHARE": "Deel met je vrienden",
+    "TEXT_REVIEWSES": "beoordelingen",
+    "TEXT_REVIEWSES2": "Beoordelingen",
+    "TEXT_DESCRIPTION": "Beschrijving",
+    "TEXT_DOWNLOADS": "Bestanden",
+    "TEXT_ATTRIBS": "Kenmerken",
+    "TEXT_PAYM_SHIP": "Betaling en verzending",
+    "SHORT_DESCRIPTION": "Korte beschrijving",
+    "HOME_TEXT_PAYM_SHIP": "Garantie"
+}

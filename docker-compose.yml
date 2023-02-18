@@ -1,0 +1,88 @@
+version: '3.7'
+#https://www.digitalocean.com/community/tutorials/how-to-containerize-a-laravel-application-for-development-with-docker-compose-on-ubuntu-18-04-ru
+services:
+  #PHP Service
+  app:
+    build:
+      context: ./docker
+      args:
+        UID: '${CURRENT_UID}'
+        GID: '${CURRENT_GID}'
+        XDEBUG: '${XDEBUG:-on}'
+    image: '${APP_NAME}-app'
+    ports:
+      - '${APP_PORT:-80}:80'
+      - '${APP_PORT_SSL:-443}:443'
+    container_name: '${APP_NAME}-app'
+    restart: unless-stopped
+    # current user id and group id
+    user: '${CURRENT_UID}:${CURRENT_GID}'
+    volumes:
+      - './:/var/www/html'
+      - './storage/logs/php:/var/log/php'
+      - './storage/logs/apache:/var/log/apache2'
+      - './docker/configs/apache/sites-available:/etc/apache2/sites-available'
+      - './docker/configs/apache/ssl:/etc/apache2/ssl'
+      - './docker/configs/php/conf.d/custom.ini:/usr/local/etc/php/conf.d/custom.ini'
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    env_file:
+      - docker-compose.env
+    networks:
+      - solomono
+
+  #https://registry.hub.docker.com/_/memcached
+  memcached:
+    image: memcached:latest
+    container_name: '${APP_NAME}-memcached'
+    entrypoint:
+      - memcached
+      - -m 64
+    ports:
+      - "11211:11211"
+    networks:
+      - solomono
+
+  #MySQL Service https://hub.docker.com/_/mysql
+  db:
+    image: mysql:8.0.12
+    container_name: '${APP_NAME}-db'
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
+      MYSQL_ROOT_HOST: "%"
+      MYSQL_DATABASE: '${DB_DATABASE}'
+      MYSQL_USER: '${DB_USERNAME}'
+      MYSQL_PASSWORD: '${DB_PASSWORD}'
+      MYSQL_ALLOW_EMPTY_PASSWORD: 1
+    ports:
+      - '${FORWARD_DB_PORT:-3307}:3306'
+    volumes:
+      - 'solomono:/var/lib/mysql'
+      - './storage/logs/mysql:/var/log/mysql'
+      - './docker/configs/mysql/conf.d/my.cnf:/etc/mysql/conf.d/my.cnf'
+    networks:
+      - solomono
+      - solomono-network
+
+  adminer:
+    image: adminer
+    container_name: '${APP_NAME}-adminer'
+    restart: always
+    ports:
+      - "8080:8080"
+    networks:
+      - solomono
+
+#Docker Networks
+networks:
+  solomono-network:
+    name: solomono-network
+    driver: bridge
+  solomono:
+    name: solomono
+    driver: bridge
+
+volumes:
+  solomono:
+    driver: local

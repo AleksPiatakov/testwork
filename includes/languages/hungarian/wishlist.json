@@ -1,0 +1,22 @@
+{
+    "HEADING_TITLE": "Kívánságlistám tartalma:",
+    "BOX_TEXT_PRICE": "Ár",
+    "BOX_TEXT_PRODUCT": "Terméknév",
+    "BOX_TEXT_IMAGE": "Kép",
+    "BOX_TEXT_NO_ITEMS": "Nincsenek termékek a kívánságlistában. <br><br>",
+    "TEXT_EMAIL": "Email: ",
+    "TEXT_MESSAGE": "Üzenet: ",
+    "TEXT_ITEM_IN_CART": "termék a kosárban",
+    "TEXT_ITEM_NOT_AVAILABLE": "A termék már nem elérhető",
+    "WISHLIST_EMAIL_SUBJECT": "%s elküldte neked kívánságlistáját",
+    "WISHLIST_SENT": "Kívánságlistádat elküldtük.",
+    "WISHLIST_EMAIL_LINK": "\r\n\r\n$from_name nyilvános kívánságlistája itt található:\r\n$link\r\n\r\nKöszönjük,\r\n%s",
+    "WISHLIST_EMAIL_GUEST": "Köszönjük, %s",
+    "ERROR_YOUR_NAME": "Kérjük, adja meg a nevét.",
+    "ERROR_YOUR_EMAIL": "Kérjük, adja meg az email címét.",
+    "ERROR_VALID_EMAIL": "Kérjük, működő email címet adjon meg.",
+    "ERROR_ONE_EMAIL": "Legalább a nevet és az email címet meg kell adnia.",
+    "ERROR_ENTER_EMAIL": "Kérjük, adjon meg egy email címet.",
+    "ERROR_ENTER_NAME": "Kérjük, írja be a címzettek nevét.",
+    "ERROR_MESSAGE": "Kérjük, írjon egy rövid üzenetet."
+}

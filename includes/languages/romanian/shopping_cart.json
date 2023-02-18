@@ -1,0 +1,20 @@
+{
+    "NAVBAR_TITLE": "Continut",
+    "HEADING_TITLE": "Cos cumparaturi",
+    "TABLE_HEADING_REMOVE": "Sterge",
+    "TABLE_HEADING_REMOVE_FROM": "",
+    "TABLE_HEADING_QUANTITY": "Cantitate",
+    "TABLE_HEADING_IMAGE": "Imagine",
+    "TABLE_HEADING_NAME": "Nume ",
+    "TABLE_HEADING_PRICE": "Pret",
+    "TABLE_HEADING_MODEL": "Model",
+    "TABLE_HEADING_PRODUCTS": "Produse",
+    "TABLE_HEADING_TOTAL": "Total",
+    "TEXT_CART_EMPTY": "Cos cumparaturi gol!",
+    "SUB_TITLE_COUPON": "Cupon reducere",
+    "SUB_TITLE_COUPON_SUBMIT": "Trimite",
+    "SUB_TITLE_COUPON_VALID": "Cuponul de reducere este valid. Verifica discountul:",
+    "SUB_TITLE_COUPON_INVALID": "Cuponul de reducere este invalid",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Produsele marcate cu %s nu sunt disponibile in cantitatea dorita (%s)",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Produsele marcate cu %s nu este disponibila in cantitatea dorita. "
+}

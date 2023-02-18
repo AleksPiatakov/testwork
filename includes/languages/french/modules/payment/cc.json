@@ -1,0 +1,14 @@
+{
+    "MODULE_PAYMENT_CC_TEXT_TITLE": "Carte de crédit",
+    "MODULE_PAYMENT_CC_TEXT_DESCRIPTION": "Les informations concernant la carte de crédit pour le test:<br><br>Numéro de la carte: 4111111111111111<br>Valable jusqu'au: date de",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_OWNER": "Le titulaire de la carte:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_NUMBER": "Numéro de carte",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES": "Valable jusqu'au:",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM": "Expire (mois)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_MM_PLACEHOLDER": "mm",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY": "Expire (année)",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_EXPIRES_YY_PLACEHOLDER": "yy",
+    "MODULE_PAYMENT_CC_TEXT_CREDIT_CARD_CVC": "Code CVC",
+    "MODULE_PAYMENT_CC_TEXT_ERROR": "Les données sont saisies correctement!",
+    "MODULE_PAYMENT_CC_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

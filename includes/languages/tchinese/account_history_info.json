@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "My Account",
+    "NAVBAR_TITLE_2": "History",
+    "NAVBAR_TITLE_3": "訂單 #%s",
+    "HEADING_TITLE": "訂單內容",
+    "HEADING_ORDER_NUMBER": "訂單編號 #%s",
+    "HEADING_ORDER_DATE": "訂單日期 :",
+    "HEADING_ORDER_TOTAL": "Order Total:",
+    "HEADING_DELIVERY_ADDRESS": "運送地址",
+    "HEADING_SHIPPING_METHOD": "運送方式",
+    "HEADING_PRODUCTS": "產品內容",
+    "HEADING_TAX": "Tax",
+    "HEADING_TOTAL": "總計",
+    "HEADING_PAYMENT_METHOD": "付款方式",
+    "HEADING_ORDER_HISTORY": "訂單歷史資料",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Link expires: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " downloads remaining",
+    "TABLE_HEADING_DATE_ADDED": "日期",
+    "TABLE_HEADING_STATUS": "Order status",
+    "TABLE_HEADING_COMMENTS": "備註"
+}

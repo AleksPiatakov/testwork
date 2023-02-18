@@ -1,0 +1,7 @@
+{
+    "MODULE_PAYMENT_PAYLIKE_TEXT_TITLE": "Paylike",
+    "MODULE_PAYMENT_PAYLIKE_TEXT_PUBLIC_TITLE": "Paylike",
+    "MODULE_PAYMENT_PAYLIKE_TEXT_DESCRIPTION": "Description",
+    "MODULE_PAYMENT_PAYLIKE_TEXT_ADMIN_DESCRIPTION": "Paylike",
+    "MODULE_PAYMENT_PAYLIKE_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"><img src=\"images/payment_method/ipay-method.png\"><img src=\"images/payment_method/gpay-method.png\"></span>"
+}

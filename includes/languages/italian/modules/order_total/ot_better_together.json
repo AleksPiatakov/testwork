@@ -1,0 +1,19 @@
+{
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_TITLE": "Accompagnamento di sconto",
+    "MODULE_ORDER_TOTAL_BETTER_TOGETHER_DESCRIPTION": "Accompagnamento di sconto",
+    "TWOFER_PROMO_STRING": "Acquista questo prodotto e riceverai un altro gratis!",
+    "TWOFER_QUALIFY_STRING": "È possibile ottenere un %s gratis",
+    "OFF_STRING_PCT": "-%s",
+    "OFF_STRING_CURR": "-%s",
+    "SECOND": " secondo ",
+    "FREE_STRING": " gratis",
+    "REV_GET_ANY": "Acquistare l'oggetto dal ",
+    "REV_GET_THIS": "Acquistare ",
+    "REV_GET_DISC": " otterrete questo articolo ",
+    "FREE": " gratis",
+    "GET_YOUR_PROD": " otterrete ",
+    "GET_YOUR_CAT": " ottenere la vostra scelta di ",
+    "BETTER_TOGETHER_DISCOUNT": "-%s per set",
+    "BETTER_TOGETHER_SAVING": "salvataggio ",
+    "BETTER_TOGETHER_SUBMIT": "Acquista kit"
+}

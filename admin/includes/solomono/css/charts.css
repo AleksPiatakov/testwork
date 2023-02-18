@@ -1,0 +1,79 @@
+.months-comparison-chart {
+    /* padding: 20px 20px 0 10px; */
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #dee5e7;
+}
+
+.months-comparison-chart .item-chart {
+    padding: 20px 15px 0 0;
+    border-top: 1px solid #eee;
+}
+
+
+.charts-section  {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.charts-group {
+    margin-top: 20px;
+    background: #fff;
+    border-radius: 5px;
+    
+    border: 1px solid #dee5e7;
+}
+
+.charts-group .apexcharts-title-text,
+.charts-group .apexcharts-subtitle-text {
+    /* transform: translateX(10px); */
+}
+
+.charts-group .apexcharts-subtitle-text {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.charts-group .charts-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.months-comparison-chart .title,
+.charts-group .title {
+    padding: 15px 25px;
+    display: block;
+    font-weight: 600;
+    font-size: 16px;
+    color: #1a1f36;
+}
+
+.charts-group .item {
+    flex: 1 0 33.333%;
+    padding: 15px;
+    border-top: 1px solid #eee;
+    border-right: 1px solid #eee;
+}
+                
+.charts-group .item > .chart-el {
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.charts-group .item:nth-of-type(3n) {
+    border-right: 0;
+}
+
+.apexcharts-percentage-text {
+    font-size: 13px;
+    font-weight: 600;
+    
+}
+
+.apexcharts-percentage-text.succeed {
+    fill: #18bf49;
+}
+
+.apexcharts-percentage-text.danger {
+    fill: #fc4d4a;
+}

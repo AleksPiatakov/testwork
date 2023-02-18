@@ -1,0 +1,7 @@
+{
+  "MODULE_PAYMENT_MONO_TEXT_TITLE": "Monobank",
+  "MODULE_PAYMENT_MONO_TEXT_PUBLIC_TITLE": "Monobank Visa\/Mastercard",
+  "MODULE_PAYMENT_MONO_TEXT_DESCRIPTION": "After pressing the Confirm order button, you will be redirected to the payment system website to pay for the order, after payment your order will be completed.",
+  "MODULE_PAYMENT_MONO_TEXT_ADMIN_DESCRIPTION": "<span><img src=\"images/payment_method/monobank.png\"></span>",
+  "MODULE_PAYMENT_MONO_IMAGES": "<span><img src=images/payment_method/visa.png><img src=images/payment_method/mastercard.png><img src=images/payment_method/maestro.png><img src=images/payment_method/ipay-method.png><img src=images/payment_method/gpay-method.png></span>"
+}

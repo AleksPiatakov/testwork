@@ -1,0 +1,14 @@
+{
+    "EMAIL_TEXT_SUBJECT": "Uw bestelling",
+    "EMAIL_TEXT_ORDER_NUMBER": "Bestel nummer:",
+    "EMAIL_TEXT_INVOICE_URL": "Bestel informatie:",
+    "EMAIL_TEXT_DATE_ORDERED": "Order date:",
+    "EMAIL_TEXT_PRODUCTS": "U besteld:",
+    "EMAIL_TEXT_DELIVERY_ADDRESS": "Verzendadres",
+    "EMAIL_TEXT_BILLING_ADDRESS": "Het adres van de koper",
+    "EMAIL_TEXT_PAYMENT_METHOD": "Betaalmethode",
+    "EMAIL_SEPARATOR": "------------------------------------------------------",
+    "EMAIL_TEXT_CUSTOMER_NAME": "Koper:",
+    "EMAIL_TEXT_CUSTOMER_EMAIL_ADDRESS": "E-mail:",
+    "EMAIL_TEXT_CUSTOMER_TELEPHONE": "Telefoon:"
+}

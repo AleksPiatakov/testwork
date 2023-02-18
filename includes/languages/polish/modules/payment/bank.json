@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Przelew",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Dane bankowe:<br><br>Nazwa banku: &nbsp;&nbsp;&nbsp;%s<br>Numer konta: &nbsp;&nbsp;&nbsp;%s<br>BIC: &nbsp;&nbsp;&nbsp;%s<br>Bank korespondent: &nbsp;&nbsp;&nbsp;%s<br>NIP: &nbsp;&nbsp;&nbsp;%s<br>Odbiorca: &nbsp;&nbsp;&nbsp;%s<br>КПП: &nbsp;&nbsp;&nbsp;%s<br>Tytuł płatności: &nbsp;&nbsp;&nbsp;%s<br><br>O fakcie zapłaty przelewem prosimy poinformować nas drogą elektroniczną %s Zamówienie będzie wysłane niezwłocznie po potwierdzeniu zapłaty.<br><br><a href=kvitan.php target=_blank><b><span>Potwierdzenie zapłaty<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Dane bankowe:\n\n Nazwa banku: %s\nNumer konta: %s\nBIC: %s\nBank korespondent: %s\nNIP: %s\nOdbiorca: %s\nКПП: %s\nTytuł płatności: %s\n\n O fakcie zapłaty przelewem prosimy poinformować nas drogą elektroniczną %s Zamówienie będzie wysłane niezwłocznie po potwierdzeniu zapłaty.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

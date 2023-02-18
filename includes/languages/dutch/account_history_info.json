@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "Mijn gegevens",
+    "NAVBAR_TITLE_2": "Geschiedenis",
+    "NAVBAR_TITLE_3": "Informatie over bestellingen",
+    "HEADING_TITLE": "Informatie over bestellingen",
+    "HEADING_ORDER_NUMBER": "Bestelling #%s",
+    "HEADING_ORDER_DATE": "Datum",
+    "HEADING_ORDER_TOTAL": "De kosten van de bestelling:",
+    "HEADING_DELIVERY_ADDRESS": "Verzendadres",
+    "HEADING_SHIPPING_METHOD": "Het verschepen methode",
+    "HEADING_PRODUCTS": "Product",
+    "HEADING_TAX": "Belasting",
+    "HEADING_TOTAL": "Gewoon",
+    "HEADING_PAYMENT_METHOD": "Betaalmethode",
+    "HEADING_ORDER_HISTORY": "Geschiedenis",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Geldig tot en met: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " als u het downloaden van het bestand.",
+    "TABLE_HEADING_DATE_ADDED": "Datum",
+    "TABLE_HEADING_STATUS": "Order status",
+    "TABLE_HEADING_COMMENTS": "Opmerkingen"
+}

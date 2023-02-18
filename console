@@ -1,0 +1,27 @@
+#!/usr/bin/env php
+
+<?php
+
+define('APP_START', microtime(true));
+require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ . '/includes/bootstrap.php';
+require_once __DIR__ . '/includes/configure.php';
+require_once __DIR__ . '/includes/filenames.php';
+require_once __DIR__ . '/includes/database_tables.php';
+require_once __DIR__ . '/includes/functions/database.php';
+require_once __DIR__ . '/includes/functions/general.php';
+tep_db_connect() or die('Unable to connect to database server!');
+
+use App\Services\Console\Commands\ClearCacheCommand;
+use App\Services\Console\Commands\ExampleCommand;
+use Symfony\Component\Console\Application;
+
+$application = new Application();
+
+/*
+ * Example
+ */
+$application->add(new ExampleCommand());
+$application->add(new ClearCacheCommand());
+
+$application->run();

@@ -1,0 +1,14 @@
+{
+    "NAVBAR_TITLE_1": "Effettuare l'ordine",
+    "NAVBAR_TITLE_2": "Successo",
+    "HEADING_TITLE": "Il vostro ordine è decorata!",
+    "TEXT_SUCCESS": "Il tuo ordine è andato a buon fine!",
+    "TEXT_THANKS_FOR_SHOPPING": "Il tuo ordine è andato a buon fine!",
+    "TABLE_HEADING_COMMENTS": "In breve tempo sarete contattati da un nostro responsabile.",
+    "TABLE_HEADING_DOWNLOAD_DATE": "Il link è valido fino a: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " volte è possibile scaricare il file.",
+    "SMS_NEW_ORDER": "Avete un nuovo ordine",
+    "SMS_NEW_ORDER_BY_ON_CLICK": "Hai un nuovo ordine rapido",
+    "SMS_CALL_BACK": "Richiamami al mio numero: ",
+    "TEXT_SUCCESS_INFO": "Tutte le ulteriori istruzioni e coordinate bancarie per il pagamento inviati per e-mail"
+}

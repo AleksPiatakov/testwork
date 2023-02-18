@@ -1,0 +1,26 @@
+<?php 
+define('HEADING_TITLE','Stuur certificaat');
+define('TEXT_CUSTOMER','Opdrachtgever:');
+define('TEXT_SUBJECT','Onderwerp:');
+define('TEXT_FROM','Van:');
+define('TEXT_TO','Naar:');
+define('TEXT_AMOUNT','Het bedrag van het certificaat');
+define('TEXT_MESSAGE','Bericht:');
+define('TEXT_SINGLE_EMAIL','<span class="smallText">Gebruik dit veld om het uploaden van het certificaat naar andere e-mail adressen die niet in de bovenstaande lijst.</span>');
+define('TEXT_SELECT_CUSTOMER','Selecteer de klant');
+define('TEXT_ALL_CUSTOMERS','Alle klanten');
+define('TEXT_NEWSLETTER_CUSTOMERS','Alle abonnees van een mailing winkel');
+define('NOTICE_EMAIL_SENT_TO','Kennisgeving: e-Mail verzonden naar: %s');
+define('ERROR_NO_CUSTOMER_SELECTED','Fout: Je hebt niet geselecteerde klant.');
+define('ERROR_NO_AMOUNT_SELECTED','Fout: U hebt niet opgegeven wordt het bedrag van het certificaat.');
+define('TEXT_GV_WORTH','Certificaat voor ');
+define('TEXT_TO_REDEEM','Activeren van het certificaat, klikt u op de onderstaande link en voer de code certificaat ');
+define('TEXT_WHICH_IS','');
+define('TEXT_IN_CASE','');
+define('TEXT_OR_VISIT','of bezoek onze online winkel op ');
+define('TEXT_ENTER_CODE',' U kunt opgeven certificaat code bij het afrekenen.');
+define('TEXT_REDEEM_COUPON_MESSAGE_HEADER','U versterkt uw certificaat, maar het kan worden gebruikt voor het maken van aankopen alleen na controle met de store Manager, dit is puur voor de veiligheid. Zodra het certificaat wordt gecontroleerd door de beheerder. U ontvangt een melding per e-mail.');
+define('TEXT_REDEEM_COUPON_MESSAGE_AMOUNT','Certificaat voor %s');
+define('TEXT_REDEEM_COUPON_MESSAGE_BODY','U kunt uw certificaat of een gedeelte van het certificaat naar uw vrienden.');
+define('TEXT_REDEEM_COUPON_MESSAGE_FOOTER','');
+define('BUTTON_CANCEL_NEW','annuleren');

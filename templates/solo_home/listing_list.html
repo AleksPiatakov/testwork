@@ -1,0 +1,27 @@
+<div class="col-lg-12 col_product">
+    <div class="product_list">
+        <div class="product_listing_labels item-list">
+            {{label}}
+        </div>
+        <div class="wrapper_product_hover_list {{add_classes}}">
+            <div class="product_hover_list">
+                <div class="p_description_list">
+                    <div class="div_list col-sm-2">
+                        <a class="p_img_href_list" href="{{product_href}}">{{product_image}}{{product_modal_button}}</a>
+                    </div>
+                    <div class="div_list col-sm-8">
+                        <div class="art_list product_code">{{products_model}}</div>
+                        <a href="{{product_href}}" class="model_product">{{product_name}}</a>
+                        {{product_attributes}}
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="product_stock clearfix">{{stock}}</div>
+                        <div class="price">{{final_price}}</div>
+                        <div class="new_old_price"><span>{{cart_button}}</span></div>
+                        {{wishlist_output}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>   

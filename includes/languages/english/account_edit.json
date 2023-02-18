@@ -1,0 +1,9 @@
+{
+    "NAVBAR_TITLE_1": "My Account",
+    "NAVBAR_TITLE_2": "Edit Account",
+    "HEADING_TITLE": "My Account Information",
+    "MY_ACCOUNT_TITLE": "My Account",
+    "SUCCESS_ACCOUNT_UPDATED": "Your account has been successfully updated.",
+    "SUCCESS_EMAIL_NEW_SENT": "Notification of a change in the email address in your account.\nYour new email address: %s",
+    "SUCCESS_EMAIL_SENT": "Notification of a change in the email address in your account."
+}

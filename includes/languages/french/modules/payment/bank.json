@@ -1,0 +1,6 @@
+{
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_TITLE": "Le rglement par virement",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_DESCRIPTION": "Nos coordonnées bancaires:<br><br>Nom de la banque: &nbsp;&nbsp;&nbsp;%s<br>compte courant: &nbsp;&nbsp;&nbsp;%s<br>BIC: &nbsp;&nbsp;&nbsp;%s<br>Cor.\/compte: &nbsp;&nbsp;&nbsp;%s<br>TVA: &nbsp;&nbsp;&nbsp;%s<br>Destinataire: &nbsp;&nbsp;&nbsp;%s<br>PPC: &nbsp;&nbsp;&nbsp;%s<br>paiement: &nbsp;&nbsp;&nbsp;%s<br><br>Après le paiement de la commande contactez-nous par e-mail %s du fait du paiement. Votre commande sera expédiée immédiatement après la confirmation du paiement.<br><br><a href=kvitan.php target=_blank><b><span>un Reçu pour le paiement<\/a><\/b>",
+    "MODULE_PAYMENT_BANK_TRANSFER_TEXT_EMAIL_FOOTER": "Nos coordonnées bancaires:Nom de la banque: %sCompte courant: %s BIC: %s Cor.\/compte: %s NIF: %s Destinataire: %s BOÎTE DE VITESSES: %s Paiement: %s Après paiement de votre commande contactez-nous par e-mail %s sur le fait de paiement. Votre commande sera expédiée immédiatement après la confirmation du paiement.",
+    "MODULE_PAYMENT_BANK_TRANSFER_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

@@ -1,0 +1,23 @@
+{
+    "HEADING_TITLE": "Můj seznam přání obsahuje:",
+    "BOX_TEXT_PRICE": "Cena",
+    "BOX_TEXT_PRODUCT": "Název produktu",
+    "BOX_TEXT_IMAGE": "Obrázek",
+    "BOX_TEXT_NO_ITEMS": "Ve vašem seznamu přání nejsou žádné produkty. <br><br>",
+    "TEXT_EMAIL": "E-mail: ",
+    "TEXT_MESSAGE": "Zpráva: ",
+    "TEXT_ITEM_IN_CART": "Položka v košíku",
+    "TEXT_ITEM_NOT_AVAILABLE": "Položka již není dostupná",
+    "WISHLIST_EMAIL_SUBJECT": "poslal ti svůj seznam přání z %s",
+    "WISHLIST_SENT": "Váš seznam přání byl odeslán.",
+    "WISHLIST_EMAIL_LINK": "\r\n\r\n$from_name veřejný seznam přání se nachází zde:\r\n$link\r\n\r\nDěkuji,\r\n%s",
+    "WISHLIST_EMAIL_GUEST": "Děkuji, %s",
+    "ERROR_YOUR_NAME": "Zadejte prosím své jméno.",
+    "ERROR_YOUR_EMAIL": "Zadejte svůj e-mail.",
+    "ERROR_VALID_EMAIL": "Zadejte platnou e-mailovou adresu.",
+    "ERROR_ONE_EMAIL": "Musíte uvést alespoň jedno jméno a e-mail.",
+    "ERROR_ENTER_EMAIL": "Zadejte e-mailovou adresu.",
+    "ERROR_ENTER_NAME": "Zadejte název e-mailového receptáře.",
+    "ERROR_MESSAGE": "Zahrňte prosím krátkou zprávu.",
+    "MODULE_PAYMENT_YANDEX_IMAGES": "<span><img src=\"images/payment_method/visa.png\"><img src=\"images/payment_method/mastercard.png\"></span>"
+}

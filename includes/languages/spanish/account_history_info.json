@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE_1": "Mi cuenta",
+    "NAVBAR_TITLE_2": "Historia",
+    "NAVBAR_TITLE_3": "Orden #%s",
+    "HEADING_TITLE": "Informacion del pedido",
+    "HEADING_ORDER_NUMBER": "Orden #%s",
+    "HEADING_ORDER_DATE": "Fecha de orden:",
+    "HEADING_ORDER_TOTAL": "Total del pedido:",
+    "HEADING_DELIVERY_ADDRESS": "Direccion de entrega",
+    "HEADING_SHIPPING_METHOD": "Metodo de envio",
+    "HEADING_PRODUCTS": "Productos",
+    "HEADING_TAX": "Impuesto",
+    "HEADING_TOTAL": "Total",
+    "HEADING_PAYMENT_METHOD": "Informacion del pedido",
+    "HEADING_ORDER_HISTORY": "Historial de pedidos",
+    "TABLE_HEADING_DOWNLOAD_DATE": "El vinculo caduca: ",
+    "TABLE_HEADING_DOWNLOAD_COUNT": " Descargas restantes",
+    "TABLE_HEADING_DATE_ADDED": "Fecha",
+    "TABLE_HEADING_STATUS": "Estado del pedido",
+    "TABLE_HEADING_COMMENTS": "Comentarios"
+}

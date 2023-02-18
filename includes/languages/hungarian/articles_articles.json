@@ -1,0 +1,10 @@
+{
+    "TEXT_MAIN": "",
+    "TOTAL_ARTICLES": "Összes cikk",
+    "HEADING_TITLE": "%s",
+    "TEXT_NO_ARTICLES": "Jelenleg nincs cikk ebben a témában.",
+    "TEXT_ARTICLES": "Az alább felsorolt cikklistában a legújabb legelöl található.",
+    "TEXT_DATE_ADDED": "Közzétéve:",
+    "TEXT_TOPIC": "Téma:",
+    "TEXT_BY": "által"
+}

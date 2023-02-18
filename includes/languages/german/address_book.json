@@ -1,0 +1,10 @@
+{
+    "NAVBAR_TITLE_1": "Meine Adressen",
+    "NAVBAR_TITLE_2": "Adressbuch",
+    "HEADING_TITLE": "Mein Adressbuch",
+    "PRIMARY_ADDRESS_TITLE": "Deine Adresse",
+    "PRIMARY_ADDRESS_DESCRIPTION": "Diese Adresse ist standardmäßig festgelegt. <br>Sie wird verwendet, wenn Sie Einkäufe oder andere Aktionen in unserem Geschäft tätigen.",
+    "ADDRESS_BOOK_TITLE": "Adressbucheinträge",
+    "PRIMARY_ADDRESS": "(*)",
+    "TEXT_MAXIMUM_ENTRIES": "<b>HINWEIS:<\/b> Die maximale Größe des Adressbuchs ist <b>%s<\/b> Einträge"
+}

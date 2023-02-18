@@ -1,0 +1,22 @@
+{
+  "BUTTON_TRANSLATE": "Перевести",
+  "TRANSLATE_FROM": "Переводить с:",
+  "TRANSLATE_TO": "на:",
+  "ERROR_MESSAGE": "Google обнаружил необычный трафик из вашей компьютерной сети: повторите попытку позже (2–48 часов).",
+  "TRANSLATE_COMPLETED": "Перевод завершен",
+  "PRODUCT_NAME": "Название товара",
+  "SHORT_PRODUCT_DESCRIPTION": "Краткое описание товара",
+  "PRODUCT_DESCRIPTION": "Описание товара",
+  "ERROR_LANGUAGES": "Одинаковые языки!",
+  "SELECT_LANGUAGE": "Выберите язык",
+  "TRANSLATE_PRODUCTS": "Перевод продуктов",
+  "TRANSLATE_CATEGORIES": "Перевод категорий",
+  "CATEGORIES_NAME": "Название категории",
+  "CATEGORIES_NAME_DETAIL": "Название подробно",
+  "CATEGORIES_DESCRIPTION": "Описание",
+  "TRANSLATE_ATTRIBUTES": "Перевод атрибутов",
+  "TRANSLATE_ARTICLES": "Перевод статей",
+  "ARTICLES_NAME": "Название статьи",
+  "ARTICLES_DESCRIPTION": "Описание",
+  "REMOVE_TAGS": "Убрать теги перед переводом"
+}

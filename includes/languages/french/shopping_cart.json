@@ -1,0 +1,21 @@
+{
+    "NAVBAR_TITLE": "Le contenu de la corbeille",
+    "HEADING_TITLE": "Mon panier",
+    "TABLE_HEADING_REMOVE": "Supprimer",
+    "TABLE_HEADING_REMOVE_FROM": "à partir de la corbeille",
+    "TABLE_HEADING_QUANTITY": "Nombre de",
+    "TABLE_HEADING_IMAGE": "Image",
+    "TABLE_HEADING_NAME": "Marque",
+    "TABLE_HEADING_PRICE": "Prix",
+    "TABLE_HEADING_MODEL": "Code de l'article",
+    "TABLE_HEADING_PRICE_TOTAL": "Prix",
+    "TABLE_HEADING_PRODUCTS": "Marchandises",
+    "TABLE_HEADING_TOTAL": "Prix",
+    "TEXT_CART_EMPTY": "Votre panier est vide!",
+    "SUB_TITLE_COUPON": "Coupon",
+    "SUB_TITLE_COUPON_SUBMIT": "Appliquer",
+    "SUB_TITLE_COUPON_VALID": "Félicitations! <br \/>Vous avez saisi la bonne promo!",
+    "SUB_TITLE_COUPON_INVALID": "Vous avez saisi un coupon!",
+    "OUT_OF_STOCK_CANT_CHECKOUT": "Des produits dédiés %s sont disponibles dans notre entrepôt insuffisante pour Votre quantité de commande.<br>s'il vous plaît, changez le nombre de produits sélectionnés (%s), merci",
+    "OUT_OF_STOCK_CAN_CHECKOUT": "Des produits dédiés %s sont disponibles dans notre entrepôt insuffisante pour Votre quantité de commande.<br>Toutefois, Vous pouvez les acheter et de vérifier la quantité disponible pour l'élimination de la livraison dans le processus de l'exécution de Votre commande."
+}
